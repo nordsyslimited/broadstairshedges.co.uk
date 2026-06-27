@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en-GB">
+<head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Recent Jobs | Canterbury &amp; Hedges</title>
+<meta name="description" content="A running log of recent hedge jobs across Canterbury and the surrounding villages."/>
+<link rel="canonical" href="https://canterburyhedges.co.uk/jobs/"/>
+<meta name="robots" content="index,follow"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="/assets/css/styles.css"/>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%231d2a1f'/><path d='M8 22 C8 18 11 14 16 14 C21 14 24 18 24 22' fill='none' stroke='%23d4c4a8' stroke-width='1.8' stroke-linecap='round'/><rect x='15' y='8' width='2' height='8' fill='%23d4c4a8'/></svg>"/>
+</head>
+<body>
+<div class="topbar"><div class="container"><span>Hand-checked hedge care across the city, the downland villages and the Blean.</span><span><a href="tel:+447763100477">07763 100 477</a> · <a href="mailto:hello@canterburyhedges.co.uk">hello@canterburyhedges.co.uk</a></span></div></div>
+<header class="site"><div class="container"><a href="/" class="brand">Canterbury <span class="ampersand">&amp;</span> Hedges<small>City · Downland · Blean</small></a><nav class="primary"><ul><li><a href="/">Home</a></li><li><a href="/services/">Services</a></li><li><a href="/areas/">Areas</a></li><li><a href="/how-to/">Guides</a></li><li><a href="/jobs/" class="active">Recent jobs</a></li><li><a href="/about.html">About</a></li><li><a href="/contact.html">Contact</a></li></ul></nav></div></header>
+
+<section class="hero"><div class="container">
+<p class="section-eyebrow">Live log</p>
+<h1>Where we have been working.</h1>
+<p class="lede">A running list of recent hedge jobs across Canterbury and the surrounding villages. Length, location, price. Updated as we finish each one.</p>
+</div></section>
+
+<section><div class="prose">
+<div id="jobs-list">
+<p class="muted">Loading recent jobs…</p>
+</div>
+
+<div id="jobs-empty" style="display: none;">
+<div class="callout">
+<h4>First jobs landing soon.</h4>
+<p>This page goes live with the rest of the site today (June 2026). As we book and finish work over the coming weeks, the jobs will appear here — date, where, what we did, and what it cost. Real entries, not placeholders.</p>
+<p style="margin-bottom: 0;">If you want to be the first job on the list, <a href="/contact.html">send us a quote request</a>.</p>
+</div>
+</div>
+
+</div></section>
+
+<footer class="site"><div class="container">
+<div class="foot-grid">
+<div><h4>Canterbury &amp; Hedges</h4><p style="margin: 0; color: var(--stone);">Local, chalk-aware hedge care for the city, the downland villages and the Blean woods edge.</p></div>
+<div><h4>Services</h4><ul><li><a href="/services/hedge-cutting.html">Hedge cutting</a></li><li><a href="/services/hedge-reduction.html">Hedge reduction</a></li><li><a href="/services/hedge-removal.html">Hedge removal</a></li><li><a href="/services/hedge-planting.html">Hedge planting</a></li></ul></div>
+<div><h4>Local guides</h4><ul><li><a href="/how-to/box-blight-canterbury.html">Box blight</a></li><li><a href="/how-to/canterbury-conservation-area-hedge-rules.html">CA rules</a></li><li><a href="/how-to/dormice-blean-edge-hedges.html">Dormice on the Blean edge</a></li></ul></div>
+<div><h4>Contact</h4><ul><li><a href="tel:+447763100477">07763 100 477</a></li><li><a href="mailto:hello@canterburyhedges.co.uk">hello@canterburyhedges.co.uk</a></li><li>Canterbury, Kent CT1</li></ul></div>
+</div>
+<div class="foot-bottom"><span>© <span id="yr"></span> Canterbury &amp; Hedges · Run by Richard Lim</span><span><a href="/privacy.html">Privacy</a> · <a href="/sitemap.xml">Sitemap</a></span></div>
+</div><script>document.getElementById('yr').textContent = new Date().getFullYear();</script></footer>
+
+<script>
+fetch('/jobs/jobs.json')
+  .then(r => r.json())
+  .then(jobs => {
+    const wrap = document.getElementById('jobs-list');
+    if (!jobs.length) {
+      wrap.style.display = 'none';
+      document.getElementById('jobs-empty').style.display = 'block';
+      return;
+    }
+    wrap.innerHTML = jobs.map(j => `
+      <div class="job">
+        <div class="job-date">${j.dateDisplay}</div>
+        <div>
+          <div class="job-where">${j.where}</div>
+          <h3>${j.title}</h3>
+          <p>${j.summary}</p>
+        </div>
+        <div class="price">${j.price || ''}</div>
+      </div>
+    `).join('');
+  })
+  .catch(() => {
+    document.getElementById('jobs-list').style.display = 'none';
+    document.getElementById('jobs-empty').style.display = 'block';
+  });
+</script>
+
+</body></html>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://canterburyhedges.co.uk/sitemap.xml
