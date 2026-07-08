@@ -1,4 +1,4 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://canterburyhedges.co.uk/sitemap.xml
+Sitemap: https://broadstairshedges.co.uk/sitemap.xml
