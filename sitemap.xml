@@ -5,7 +5,12 @@
   <url><loc>https://broadstairshedges.co.uk/services/hedge-cutting.html</loc><priority>0.8</priority></url>
   <url><loc>https://broadstairshedges.co.uk/services/hedge-reduction.html</loc><priority>0.8</priority></url>
   <url><loc>https://broadstairshedges.co.uk/services/hedge-removal.html</loc><priority>0.8</priority></url>
-  <url><loc>https://broadstairshedges.co.uk/services/hedge-planting.html</loc><priority>0.8</priority></url>
+  <url><loc>https://broadstairshedges.co.uk/services/tree/</loc><priority>0.9</priority></url>
+  <url><loc>https://broadstairshedges.co.uk/services/tree/pruning.html</loc><priority>0.8</priority></url>
+  <url><loc>https://broadstairshedges.co.uk/services/tree/crown-thinning.html</loc><priority>0.8</priority></url>
+  <url><loc>https://broadstairshedges.co.uk/services/tree/crown-raising.html</loc><priority>0.8</priority></url>
+  <url><loc>https://broadstairshedges.co.uk/services/tree/crown-reduction.html</loc><priority>0.8</priority></url>
+  <url><loc>https://broadstairshedges.co.uk/services/tree/deadwooding.html</loc><priority>0.8</priority></url>
   <url><loc>https://broadstairshedges.co.uk/areas/</loc><priority>0.7</priority></url>
   <url><loc>https://broadstairshedges.co.uk/how-to/</loc><priority>0.7</priority></url>
   <url><loc>https://broadstairshedges.co.uk/how-to/broadstairs-conservation-areas-hedge-rules.html</loc><priority>0.7</priority></url>
