@@ -1,0 +1,64 @@
+{
+  "site": {
+    "name": "Broadstairs Hedges & Tree Services",
+    "url": "https://broadstairshedges.co.uk",
+    "repo": "nordsyslimited/broadstairshedges.co.uk"
+  },
+  "ingestion": {
+    "description": "Nightly: finds UK hedge-care sources (video or written), biased toward genuinely step-by-step content, and creates a procedural-first How-To article for each, matching Thanet/Broadstairs species, coastal conditions and conservation-area rules. Morning: audits the full site, including structural compliance with the procedural-first house style.",
+    "structuralAngle": "procedural-first",
+    "structuralAngleNote": "Every article must lead with a numbered Steps/Method section immediately after the lede, before any scene-setting. See TEMPLATES/how-to.md section 0. This is the ring-wide differentiator versus sandwichhedges and the other 7 sister sites.",
+    "region": "UK",
+    "minLikes": 100,
+    "minViews": null,
+    "videosPerRun": 3,
+    "categories": [
+      "Cutting and shaping technique",
+      "Reduction and renovation of overgrown hedges",
+      "Seasonal timing and nesting-season law",
+      "Coastal species choice and salt-wind resilience",
+      "Conservation-area and section-211 paperwork",
+      "Neighbour law and high-hedge disputes",
+      "Clifftop/SSSI-edge work and herring-gull protocol",
+      "Planting technique on Margate Chalk",
+      "Holiday-let kerb-appeal timing"
+    ],
+    "howtoCategoryTags": [
+      "timing",
+      "reduction",
+      "species",
+      "planting",
+      "law",
+      "conservation-area",
+      "clifftop",
+      "wildlife",
+      "holiday-let"
+    ],
+    "contentKindSingular": "how-to article",
+    "contentKindPlural": "how-to articles",
+    "contentGlob": "how-to/*.html",
+    "contentGlobExclude": ["how-to/index.html"]
+  },
+  "schedule": {
+    "nightly": {
+      "name": "Nightly content finder",
+      "cronUtc": "0 3 * * *",
+      "daysBetweenRuns": 1,
+      "description": "Find up to 3 UK hedge-care sources, generate procedural-first articles, commit + push."
+    },
+    "morning": {
+      "name": "Morning site audit",
+      "cronUtc": "0 8 * * *",
+      "daysBetweenRuns": 1,
+      "description": "Audit every page: broken links, dead videos, SEO, procedural-first structural compliance, relevance."
+    }
+  },
+  "notifications": {
+    "email": "hello@broadstairshedges.co.uk",
+    "channel": "TBD — no email-report workflow wired yet, see INGESTION.md"
+  },
+  "triggers": {
+    "nightly": "TBD — created on claude.ai/code when the routine is set up",
+    "morning": "TBD — created on claude.ai/code when the routine is set up"
+  }
+}
