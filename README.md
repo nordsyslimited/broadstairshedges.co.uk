@@ -6,7 +6,7 @@ Local hedge-trimming site for Broadstairs and St Peter's. Part of a 5-site Kent 
 Plain static HTML. No framework. No build step.
 
 - `index.html` — homepage
-- `services/` — 4 service pages (cutting, reduction, removal, planting)
+- `services/` — 3 offered service pages (cutting, reduction, planting) plus a tree-services section; `hedge-removal.html` is a noindex redirect stub kept only for old inbound links
 - `areas/` — coverage index across the 9 CT10 neighbourhoods
 - `how-to/` — hand-authored locally-grounded guide articles (organic-draw layer)
 - `jobs/` — JSON-driven recent-jobs feed (`jobs.json` is the source of truth; append new entries to the top)
