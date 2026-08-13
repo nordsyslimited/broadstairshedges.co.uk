@@ -1,6 +1,12 @@
 {
+  "lastAudit": "2026-08-13",
   "lastRun": "2026-08-13",
   "lastRunType": "nightly-content",
+  "emDashStatus": "clean",
+  "emDashFilesFixed": 31,
+  "robotsTxtAiCrawlers": "added",
+  "sitemapLastmod": "updated",
+  "ingestionTriggersCreated": false,
   "articlesShipped": [
     {
       "date": "2026-08-13",
@@ -13,5 +19,11 @@
   "totalArticles": 10,
   "categoriesRemaining": [
     "Reduction and renovation of overgrown hedges (inland, non-clifftop variant)"
-  ]
+  ],
+  "openIssues": [
+    "TEMPLATES/how-to.md contains em-dashes, update before next ingestion run",
+    "Ingestion pipeline scheduled triggers not yet created on claude.ai/code",
+    "Internal .md documentation files contain em-dashes (non-served, low priority)"
+  ],
+  "auditReport": "reports/2026-08-13-audit.md"
 }
