@@ -1,5 +1,10 @@
 {
-  "lastAudit": "2026-08-13",
+  "lastAudit": "2026-08-14",
+  "lastAuditAt": "2026-08-14T00:00:00Z",
+  "auditStatus": "clear",
+  "issueCount": 3,
+  "note": "Auto-fixed: theme-color on 2 new articles, leverage (×3) in 2 tree pages, sitemap lastmod backlog (21 entries). No new needs-review issues. 3 minor items carried from 2026-08-13 audit.",
+  "auditReport": "reports/2026-08-14-audit.md",
   "lastRun": "2026-08-14",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
@@ -31,6 +36,5 @@
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code",
     "Internal .md documentation files contain em-dashes (non-served, low priority)"
   ],
-  "auditReport": "reports/2026-08-13-audit.md",
   "contentReport": "reports/2026-08-14-content.md"
 }
