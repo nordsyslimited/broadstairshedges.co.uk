@@ -1,6 +1,6 @@
 {
   "lastAudit": "2026-08-13",
-  "lastRun": "2026-08-13",
+  "lastRun": "2026-08-14",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 31,
@@ -14,16 +14,23 @@
       "url": "https://broadstairshedges.co.uk/how-to/hedge-cutting-technique-broadstairs.html",
       "categoryFilled": "Cutting and shaping technique",
       "source": "RHS YouTube (Sep 2025) + Pots & Trowels YouTube (Feb 2024)"
+    },
+    {
+      "date": "2026-08-14",
+      "slug": "overgrown-hedge-renovation-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/overgrown-hedge-renovation-broadstairs.html",
+      "categoryFilled": "Reduction and renovation of overgrown hedges (inland, non-clifftop variant)",
+      "source": "RHS Hedges: Renovation Techniques (rhs.org.uk) + YouTube renovation cross-reference (egress blocked, web-search verified)"
     }
   ],
-  "totalArticles": 10,
-  "categoriesRemaining": [
-    "Reduction and renovation of overgrown hedges (inland, non-clifftop variant)"
-  ],
+  "totalArticles": 11,
+  "categoriesRemaining": [],
+  "categoriesNote": "All 9 categories from config/ingestion.json now have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
     "TEMPLATES/how-to.md contains em-dashes, update before next ingestion run",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code",
     "Internal .md documentation files contain em-dashes (non-served, low priority)"
   ],
-  "auditReport": "reports/2026-08-13-audit.md"
+  "auditReport": "reports/2026-08-13-audit.md",
+  "contentReport": "reports/2026-08-14-content.md"
 }
