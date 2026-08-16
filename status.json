@@ -1,15 +1,15 @@
 {
-  "lastAudit": "2026-08-15",
-  "lastAuditAt": "2026-08-15T00:00:00Z",
+  "lastAudit": "2026-08-16",
+  "lastAuditAt": "2026-08-16T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "note": "Auto-fixed: sitemap /how-to/ lastmod (2026-08-14→2026-08-15), TEMPLATES/how-to.md em-dashes (32 replaced, now clean). Needs-review: 3 hand-authored articles missing OG tags, 2 articles with &amp; in JSON-LD headline, coastal-hedges missing WCA 1981 citation, stale theme-color note in template. 11 articles total, no orphans.",
-  "auditReport": "reports/2026-08-15-audit.md",
-  "lastRun": "2026-08-15",
-  "lastRunType": "nightly-audit",
+  "issueCount": 1,
+  "note": "Auto-fixed: OG tags added to 3 hand-authored articles (conservation-areas, coastal-hedges, herring-gull), &amp; entity in JSON-LD headlines fixed in 2 articles (high-hedges, dickens-festival), sitemap lastmod updated for all 5. Needs-review: coastal-hedges timing section still lacks explicit WCA 1981 citation.",
+  "auditReport": "reports/2026-08-16-audit.md",
+  "lastRun": "2026-08-16",
+  "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 32,
-  "robotsTxtAiCrawlers": "added",
+  "robotsTxtAiCrawlers": "all-15-present",
   "sitemapLastmod": "updated",
   "ingestionTriggersCreated": false,
   "articlesShipped": [
@@ -33,19 +33,24 @@
       "url": "https://broadstairshedges.co.uk/how-to/wildlife-hedge-planting-broadstairs.html",
       "categoryFilled": "Wildlife planting",
       "source": "RHS bare-root hedging guide + Wildlife Trusts native hedgerow guidance"
+    },
+    {
+      "date": "2026-08-16",
+      "slug": "hedge-laying-broadstairs-kent",
+      "url": "https://broadstairshedges.co.uk/how-to/hedge-laying-broadstairs-kent.html",
+      "categoryFilled": "Traditional hedge laying",
+      "source": "National Hedgelaying Society technique guides + YouTube (egress blocked, unverified)"
     }
   ],
-  "totalArticles": 11,
+  "totalArticles": 12,
   "categoriesRemaining": [],
-  "categoriesNote": "All 9 categories from config/ingestion.json now have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
+  "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
-    "3 hand-authored articles missing og:url, og:title, og:description (herring-gull, conservation-areas, coastal-hedges) — safe to auto-fix next run",
-    "2 articles have &amp; entity in JSON-LD headline (high-hedges, dickens-festival) — needs judgment on exact headline text before fix",
-    "coastal-hedges timing section lacks explicit WCA 1981 s.1 citation",
-    "TEMPLATES/how-to.md theme-color note is stale (all pages now have it; template still says do not add)",
-    "YouTube citation in wildlife-hedge-planting sources line unverified (proxy 403 blocks YouTube egress)",
-    "Ingestion pipeline scheduled triggers not yet created on claude.ai/code",
-    "Internal .md documentation files contain em-dashes (non-served, low priority)"
+    "coastal-hedges timing section lacks explicit WCA 1981 s.1 citation (content decision needed)",
+    "YouTube citations in hedge-laying and wildlife-hedge-planting unverified (proxy blocks YouTube egress)",
+    "services/hedge-removal.html and services/hedge-planting.html are orphan pages on disk — delete or redirect decision pending",
+    "TEMPLATES/how-to.md §1 theme-color note is stale (all pages now have it; template still says do not add)",
+    "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
   "contentReport": "reports/2026-08-14-content.md"
 }
