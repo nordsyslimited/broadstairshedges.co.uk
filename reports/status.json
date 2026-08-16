@@ -1,17 +1,17 @@
 {
-  "run_date": "2026-08-15",
+  "run_date": "2026-08-16",
   "run_type": "nightly-content",
   "status": "success",
   "articles_shipped": 1,
   "articles": [
     {
-      "slug": "wildlife-hedge-planting-broadstairs",
-      "url": "https://broadstairshedges.co.uk/how-to/wildlife-hedge-planting-broadstairs.html",
-      "title": "How to plant a bare-root wildlife hedge in Broadstairs: native species, Margate chalk and the November window",
-      "category": "Wildlife planting",
-      "source_video": "https://www.youtube.com/watch?v=qDJc9rqCAY4",
-      "source_channel": "Royal Horticultural Society (RHS)",
-      "source_verification": "web-search cross-reference (direct YouTube egress blocked)",
+      "slug": "hedge-laying-broadstairs-kent",
+      "url": "https://broadstairshedges.co.uk/how-to/hedge-laying-broadstairs-kent.html",
+      "title": "How to Lay a Hedge the South of England Way: Tools, Steps and Nesting-Season Timing for CT10 Hedgerows",
+      "category": "Reduction and renovation",
+      "source_video": "https://www.youtube.com/watch?v=iGncS_lojlI",
+      "source_channel": "Hedgelink (hosted by Game and Wildlife Conservation Trust, supported by Natural England)",
+      "source_verification": "web-search cross-reference (direct YouTube egress blocked); SEHLS charity commission entry confirmed (1046124); multiple UK institutional sources cross-referenced",
       "procedural_first_compliant": true,
       "wca_callout_present": true,
       "jet_related_guides_present": true,
@@ -19,10 +19,12 @@
     }
   ],
   "files_modified": [
-    "how-to/wildlife-hedge-planting-broadstairs.html",
+    "how-to/hedge-laying-broadstairs-kent.html",
     "how-to/index.html",
+    "how-to/overgrown-hedge-renovation-broadstairs.html",
+    "how-to/wildlife-hedge-planting-broadstairs.html",
     "sitemap.xml",
-    "reports/2026-08-15-content.md",
+    "reports/2026-08-16-content.md",
     "reports/status.json"
   ],
   "errors": []
