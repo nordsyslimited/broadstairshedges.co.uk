@@ -1,17 +1,17 @@
 {
-  "run_date": "2026-08-16",
+  "run_date": "2026-08-19",
   "run_type": "nightly-content",
   "status": "success",
   "articles_shipped": 1,
   "articles": [
     {
-      "slug": "hedge-laying-broadstairs-kent",
-      "url": "https://broadstairshedges.co.uk/how-to/hedge-laying-broadstairs-kent.html",
-      "title": "How to Lay a Hedge the South of England Way: Tools, Steps and Nesting-Season Timing for CT10 Hedgerows",
-      "category": "Reduction and renovation",
-      "source_video": "https://www.youtube.com/watch?v=iGncS_lojlI",
-      "source_channel": "Hedgelink (hosted by Game and Wildlife Conservation Trust, supported by Natural England)",
-      "source_verification": "web-search cross-reference (direct YouTube egress blocked); SEHLS charity commission entry confirmed (1046124); multiple UK institutional sources cross-referenced",
+      "slug": "leylandii-hedge-reduction-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/leylandii-hedge-reduction-broadstairs.html",
+      "title": "How to Reduce a Leylandii Hedge Without Killing It: Steps for Broadstairs CT10 Gardens",
+      "category": "Cutting technique (Leylandii sub-topic)",
+      "source_video": "https://www.youtube.com/watch?v=X0iPHm6z_ac",
+      "source_channel": "HOW TO PRUNE A UK CONIFER HEDGE (March 2025; direct YouTube egress blocked, verified via web-search cross-reference and channel-authority heuristic per INGESTION.md)",
+      "source_verification": "Web-search cross-reference; primary technical sources: RHS (rhs.org.uk), Hopes Grove Nurseries (hopesgrovenurseries.co.uk), BBC Gardeners World, Garden Ninja: Lee Burkhill (BBC Garden Rescue presenter, 8M+ YouTube views)",
       "procedural_first_compliant": true,
       "wca_callout_present": true,
       "jet_related_guides_present": true,
@@ -19,12 +19,11 @@
     }
   ],
   "files_modified": [
-    "how-to/hedge-laying-broadstairs-kent.html",
+    "how-to/leylandii-hedge-reduction-broadstairs.html",
     "how-to/index.html",
-    "how-to/overgrown-hedge-renovation-broadstairs.html",
-    "how-to/wildlife-hedge-planting-broadstairs.html",
+    "how-to/hedge-cutting-technique-broadstairs.html",
     "sitemap.xml",
-    "reports/2026-08-16-content.md",
+    "reports/2026-08-19-content.md",
     "reports/status.json"
   ],
   "errors": []
