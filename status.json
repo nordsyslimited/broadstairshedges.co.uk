@@ -1,14 +1,14 @@
 {
-  "lastAudit": "2026-08-19",
-  "lastAuditAt": "2026-08-19T08:30:00Z",
+  "lastAudit": "2026-08-20",
+  "lastAuditAt": "2026-08-20T09:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "Auto-fixed: theme-color added to services/hedge-removal.html and services/hedge-planting.html (noindex redirect pages). Needs-review: coastal-hedges WCA 1981 citation gap (carried), 3 YouTube citations unverifiable, orphan redirect pages decision pending, stale template note, ingestion triggers not created.",
-  "auditReport": "reports/2026-08-19-audit.md",
-  "lastRun": "2026-08-19",
+  "note": "Auto-fixed: theme-color added to how-to/box-blight-box-tree-moth-broadstairs.html; em-dash removed from services/hedge-planting.html title. Needs-review (all carried): coastal-hedges WCA 1981 citation gap, 3 YouTube citations unverifiable, redirect pages .htaccess decision, stale template note, ingestion triggers not created.",
+  "auditReport": "reports/2026-08-20-audit.md",
+  "lastRun": "2026-08-20",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
-  "emDashFilesFixed": 32,
+  "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
   "sitemapLastmod": "updated",
   "ingestionTriggersCreated": false,
@@ -47,9 +47,16 @@
       "url": "https://broadstairshedges.co.uk/how-to/leylandii-hedge-reduction-broadstairs.html",
       "categoryFilled": "Leylandii / conifer hedge reduction",
       "source": "RHS Leyland Cypress Pruning Guide + Hopes Grove Nurseries + BBC Gardeners World + YouTube (egress blocked, unverified)"
+    },
+    {
+      "date": "2026-08-20",
+      "slug": "box-blight-box-tree-moth-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/box-blight-box-tree-moth-broadstairs.html",
+      "categoryFilled": "Wildlife and the law (pest and disease sub-topic)",
+      "source": "Hopes Grove Nurseries YouTube (May 2024, egress blocked, web-search verified) + RHS box blight and box tree caterpillar advice pages (2024)"
     }
   ],
-  "totalArticles": 13,
+  "totalArticles": 14,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
@@ -59,5 +66,5 @@
     "TEMPLATES/how-to.md §1 theme-color note is stale (all pages now have it; template still says do not add)",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-08-14-content.md"
+  "contentReport": "reports/2026-08-20-content.md"
 }
