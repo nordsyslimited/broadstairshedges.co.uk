@@ -1,30 +1,29 @@
 {
-  "run_date": "2026-08-20",
+  "run_date": "2026-08-21",
   "run_type": "nightly-content",
-  "status": "success",
   "articles_shipped": 1,
   "articles": [
     {
-      "slug": "box-blight-box-tree-moth-broadstairs",
-      "url": "https://broadstairshedges.co.uk/how-to/box-blight-box-tree-moth-broadstairs.html",
-      "title": "Box Blight and Box Tree Moth in Broadstairs: Diagnosis and Treatment Steps",
-      "category": "Wildlife and the law (pest and disease sub-topic)",
-      "source_video": "https://www.youtube.com/watch?v=49wGHoqzksQ",
-      "source_channel": "Hopes Grove Nurseries YouTube channel (youtube.com/channel/UCMVvPga77CQtHq-7-mEOMEA); published May 2024; direct YouTube egress blocked, verified via web-search cross-reference and channel-authority heuristic per INGESTION.md; Hopes Grove Nurseries is the UK's largest specialist hedging nursery, 125 acres, Weald of Kent",
-      "source_verification": "Web-search cross-reference; supporting sources: RHS (box tree caterpillar and box blight advice pages, 2024 bumper-year report); Hopes Grove Nurseries knowledge base (egress-blocked, content verified from web-search excerpts). All claims cross-referenced across multiple independent results.",
-      "procedural_first_compliant": true,
-      "wca_callout_present": true,
-      "jet_related_guides_present": true,
-      "json_ld_present": true
+      "slug": "bare-root-hedge-planting-broadstairs",
+      "url": "/how-to/bare-root-hedge-planting-broadstairs.html",
+      "title": "How to plant a formal garden hedge from bare-root stock in Broadstairs: beech, hornbeam and privet on Thanet chalk",
+      "category": "Planting technique on Margate Chalk",
+      "source_url": "https://www.youtube.com/watch?v=qDJc9rqCAY4",
+      "source_title": "How to plant bare root hedges | Grow at Home | Royal Horticultural Society",
+      "source_channel": "RHS - Royal Horticultural Society",
+      "source_verified": "web-search-cross-reference",
+      "youtube_egress": "blocked-403",
+      "procedural_first": true,
+      "wca_callout": true
     }
   ],
   "files_modified": [
-    "how-to/box-blight-box-tree-moth-broadstairs.html",
+    "how-to/bare-root-hedge-planting-broadstairs.html",
     "how-to/index.html",
-    "how-to/hedge-cutting-technique-broadstairs.html",
+    "how-to/wildlife-hedge-planting-broadstairs.html",
     "sitemap.xml",
-    "reports/2026-08-20-content.md",
+    "reports/2026-08-21-content.md",
     "reports/status.json"
   ],
-  "errors": []
+  "status": "complete"
 }
