@@ -1,11 +1,11 @@
 {
-  "lastAudit": "2026-08-20",
-  "lastAuditAt": "2026-08-20T09:00:00Z",
+  "lastAudit": "2026-08-21",
+  "lastAuditAt": "2026-08-21T09:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "Auto-fixed: theme-color added to how-to/box-blight-box-tree-moth-broadstairs.html; em-dash removed from services/hedge-planting.html title. Needs-review (all carried): coastal-hedges WCA 1981 citation gap, 3 YouTube citations unverifiable, redirect pages .htaccess decision, stale template note, ingestion triggers not created.",
-  "auditReport": "reports/2026-08-20-audit.md",
-  "lastRun": "2026-08-20",
+  "note": "Auto-fixed: theme-color added to bare-root-hedge-planting-broadstairs.html; banned filler 'robust' replaced in same article. Needs-review (5): coastal-hedges WCA 1981 callout gap, hedge-planting-north-foreland WCA 1981 borderline, 4 YouTube citations unverifiable via proxy, stale template note, ingestion triggers not created.",
+  "auditReport": "reports/2026-08-21-audit.md",
+  "lastRun": "2026-08-21",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -54,6 +54,13 @@
       "url": "https://broadstairshedges.co.uk/how-to/box-blight-box-tree-moth-broadstairs.html",
       "categoryFilled": "Wildlife and the law (pest and disease sub-topic)",
       "source": "Hopes Grove Nurseries YouTube (May 2024, egress blocked, web-search verified) + RHS box blight and box tree caterpillar advice pages (2024)"
+    },
+    {
+      "date": "2026-08-21",
+      "slug": "bare-root-hedge-planting-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/bare-root-hedge-planting-broadstairs.html",
+      "categoryFilled": "Formal garden hedge planting from bare-root stock",
+      "source": "RHS bare-root hedging YouTube + RHS hedges planting guide + Ashridge Nurseries + Hedges Direct"
     }
   ],
   "totalArticles": 14,
@@ -61,10 +68,10 @@
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
     "coastal-hedges timing section lacks explicit WCA 1981 s.1 citation (content decision needed)",
-    "YouTube citations in hedge-laying, wildlife-hedge-planting, and leylandii-hedge-reduction unverified (proxy blocks YouTube egress)",
-    "services/hedge-removal.html and services/hedge-planting.html are redirect pages — .htaccess vs HTML-redirect decision pending",
+    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed)",
+    "YouTube citations in hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, and bare-root-hedge-planting unverified (proxy blocks YouTube egress)",
     "TEMPLATES/how-to.md §1 theme-color note is stale (all pages now have it; template still says do not add)",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-08-20-content.md"
+  "contentReport": "reports/2026-08-21-content.md"
 }
