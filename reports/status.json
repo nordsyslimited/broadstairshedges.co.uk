@@ -1,29 +1,27 @@
 {
-  "run_date": "2026-08-21",
-  "run_type": "nightly-content",
+  "run_date": "2026-08-22",
+  "run_type": "nightly",
   "articles_shipped": 1,
   "articles": [
     {
-      "slug": "bare-root-hedge-planting-broadstairs",
-      "url": "/how-to/bare-root-hedge-planting-broadstairs.html",
-      "title": "How to plant a formal garden hedge from bare-root stock in Broadstairs: beech, hornbeam and privet on Thanet chalk",
-      "category": "Planting technique on Margate Chalk",
-      "source_url": "https://www.youtube.com/watch?v=qDJc9rqCAY4",
-      "source_title": "How to plant bare root hedges | Grow at Home | Royal Horticultural Society",
-      "source_channel": "RHS - Royal Horticultural Society",
-      "source_verified": "web-search-cross-reference",
-      "youtube_egress": "blocked-403",
-      "procedural_first": true,
-      "wca_callout": true
+      "slug": "yew-hedge-pruning-broadstairs",
+      "url": "/how-to/yew-hedge-pruning-broadstairs.html",
+      "title": "How to prune a yew hedge: timing, technique and renovation for Broadstairs gardens",
+      "category": "Cutting technique",
+      "source_video": "https://www.youtube.com/watch?v=Cob1ZRm-aR8",
+      "source_channel": "Burncoose Nurseries",
+      "source_uk_verified": true,
+      "youtube_egress_blocked": true,
+      "procedural_first_compliant": true
     }
   ],
   "files_modified": [
-    "how-to/bare-root-hedge-planting-broadstairs.html",
+    "how-to/yew-hedge-pruning-broadstairs.html",
     "how-to/index.html",
-    "how-to/wildlife-hedge-planting-broadstairs.html",
     "sitemap.xml",
-    "reports/2026-08-21-content.md",
+    "how-to/hedge-cutting-technique-broadstairs.html",
+    "reports/2026-08-22-content.md",
     "reports/status.json"
   ],
-  "status": "complete"
+  "status": "success"
 }
