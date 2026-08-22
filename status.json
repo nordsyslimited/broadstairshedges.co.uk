@@ -1,11 +1,11 @@
 {
-  "lastAudit": "2026-08-21",
-  "lastAuditAt": "2026-08-21T09:00:00Z",
+  "lastAudit": "2026-08-22",
+  "lastAuditAt": "2026-08-22T09:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "Auto-fixed: theme-color added to bare-root-hedge-planting-broadstairs.html; banned filler 'robust' replaced in same article. Needs-review (5): coastal-hedges WCA 1981 callout gap, hedge-planting-north-foreland WCA 1981 borderline, 4 YouTube citations unverifiable via proxy, stale template note, ingestion triggers not created.",
-  "auditReport": "reports/2026-08-21-audit.md",
-  "lastRun": "2026-08-21",
+  "note": "Clean run. No auto-fixes needed. 16 articles total (yew-hedge-pruning added by nightly). 5 carried needs-review items: coastal-hedges WCA callout, hedge-planting-north-foreland WCA borderline, 5 YouTube citations unverifiable via proxy (now includes yew-hedge-pruning), stale template note, ingestion triggers not created.",
+  "auditReport": "reports/2026-08-22-audit.md",
+  "lastRun": "2026-08-22",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -61,17 +61,24 @@
       "url": "https://broadstairshedges.co.uk/how-to/bare-root-hedge-planting-broadstairs.html",
       "categoryFilled": "Formal garden hedge planting from bare-root stock",
       "source": "RHS bare-root hedging YouTube + RHS hedges planting guide + Ashridge Nurseries + Hedges Direct"
+    },
+    {
+      "date": "2026-08-22",
+      "slug": "yew-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/yew-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: yew / Taxus baccata)",
+      "source": "Burncoose Nurseries YouTube (Sep 2019, egress blocked, web-search verified) + Hopes Grove Nurseries (Kent) + RHS + BBC Gardeners World"
     }
   ],
-  "totalArticles": 14,
+  "totalArticles": 16,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
     "coastal-hedges timing section lacks explicit WCA 1981 s.1 citation (content decision needed)",
     "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed)",
-    "YouTube citations in hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, and bare-root-hedge-planting unverified (proxy blocks YouTube egress)",
+    "YouTube citations unverifiable via proxy in 5 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning (proxy blocks YouTube egress; all verified via web-search at generation time)",
     "TEMPLATES/how-to.md §1 theme-color note is stale (all pages now have it; template still says do not add)",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-08-21-content.md"
+  "contentReport": "reports/2026-08-22-content.md"
 }
