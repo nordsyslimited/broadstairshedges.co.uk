@@ -1,26 +1,27 @@
 {
-  "run_date": "2026-08-22",
+  "run_date": "2026-08-23",
   "run_type": "nightly",
   "articles_shipped": 1,
   "articles": [
     {
-      "slug": "yew-hedge-pruning-broadstairs",
-      "url": "/how-to/yew-hedge-pruning-broadstairs.html",
-      "title": "How to prune a yew hedge: timing, technique and renovation for Broadstairs gardens",
+      "slug": "privet-hedge-pruning-broadstairs",
+      "url": "/how-to/privet-hedge-pruning-broadstairs.html",
+      "title": "How to prune a privet hedge in Broadstairs: timing, technique and the twice-yearly method",
       "category": "Cutting technique",
-      "source_video": "https://www.youtube.com/watch?v=Cob1ZRm-aR8",
-      "source_channel": "Burncoose Nurseries",
+      "source_video": "https://www.youtube.com/watch?v=ttFJpm6trGY",
+      "source_channel": "Get Gardening",
       "source_uk_verified": true,
       "youtube_egress_blocked": true,
       "procedural_first_compliant": true
     }
   ],
   "files_modified": [
-    "how-to/yew-hedge-pruning-broadstairs.html",
+    "how-to/privet-hedge-pruning-broadstairs.html",
     "how-to/index.html",
     "sitemap.xml",
+    "how-to/overgrown-hedge-renovation-broadstairs.html",
     "how-to/hedge-cutting-technique-broadstairs.html",
-    "reports/2026-08-22-content.md",
+    "reports/2026-08-23-content.md",
     "reports/status.json"
   ],
   "status": "success"
