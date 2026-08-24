@@ -1,28 +1,39 @@
 {
-  "run_date": "2026-08-23",
-  "run_type": "nightly",
-  "articles_shipped": 1,
-  "articles": [
+  "lastRun": "2026-08-24",
+  "lastRunType": "nightly-content",
+  "articlesShipped": [
     {
-      "slug": "privet-hedge-pruning-broadstairs",
-      "url": "/how-to/privet-hedge-pruning-broadstairs.html",
-      "title": "How to prune a privet hedge in Broadstairs: timing, technique and the twice-yearly method",
+      "date": "2026-08-24",
+      "slug": "cherry-laurel-hedge-pruning-broadstairs",
+      "title": "How to Prune a Cherry Laurel Hedge: Secateurs, Timing and Renovation for Broadstairs Gardens",
       "category": "Cutting technique",
-      "source_video": "https://www.youtube.com/watch?v=ttFJpm6trGY",
-      "source_channel": "Get Gardening",
-      "source_uk_verified": true,
-      "youtube_egress_blocked": true,
-      "procedural_first_compliant": true
+      "source": "Burncoose Nurseries YouTube (@Burncoose, UK)"
+    },
+    {
+      "date": "2026-08-23",
+      "slug": "privet-hedge-pruning-broadstairs",
+      "title": "How to prune a privet hedge in Broadstairs: timing, technique and the twice-yearly method",
+      "category": "Cutting technique"
+    },
+    {
+      "date": "2026-08-22",
+      "slug": "yew-hedge-pruning-broadstairs",
+      "title": "How to Prune a Yew Hedge: Timing, Technique and Renovation for Broadstairs Gardens",
+      "category": "Cutting technique"
+    },
+    {
+      "date": "2026-08-21",
+      "slug": "bare-root-hedge-planting-broadstairs",
+      "title": "How to plant a formal garden hedge from bare-root stock in Broadstairs: beech, hornbeam and privet on Thanet chalk",
+      "category": "Planting"
+    },
+    {
+      "date": "2026-08-20",
+      "slug": "box-blight-box-tree-moth-broadstairs",
+      "title": "Box blight and box tree moth in Broadstairs: diagnosis and treatment steps for CT10 gardens",
+      "category": "Wildlife and the law"
     }
   ],
-  "files_modified": [
-    "how-to/privet-hedge-pruning-broadstairs.html",
-    "how-to/index.html",
-    "sitemap.xml",
-    "how-to/overgrown-hedge-renovation-broadstairs.html",
-    "how-to/hedge-cutting-technique-broadstairs.html",
-    "reports/2026-08-23-content.md",
-    "reports/status.json"
-  ],
-  "status": "success"
+  "totalArticles": 18,
+  "status": "ok"
 }
