@@ -1,14 +1,14 @@
 {
-  "lastAudit": "2026-08-19",
-  "lastAuditAt": "2026-08-19T08:30:00Z",
+  "lastAudit": "2026-08-25",
+  "lastAuditAt": "2026-08-25T09:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "Auto-fixed: theme-color added to services/hedge-removal.html and services/hedge-planting.html (noindex redirect pages). Needs-review: coastal-hedges WCA 1981 citation gap (carried), 3 YouTube citations unverifiable, orphan redirect pages decision pending, stale template note, ingestion triggers not created.",
-  "auditReport": "reports/2026-08-19-audit.md",
-  "lastRun": "2026-08-19",
+  "issueCount": 6,
+  "note": "2 auto-fixes in cherry-laurel (missing theme-color, banned word 'robust'). 18 articles total. 6 carry-over needs-review items: coastal-hedges WCA callout, hedge-planting-north-foreland WCA borderline, 9 YouTube citations unverifiable via proxy (cherry-laurel adds 2 new), stale template theme-color note, ingestion triggers not created, orphan service pages (hedge-removal + hedge-planting).",
+  "auditReport": "reports/2026-08-25-audit.md",
+  "lastRun": "2026-08-25",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
-  "emDashFilesFixed": 32,
+  "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
   "sitemapLastmod": "updated",
   "ingestionTriggersCreated": false,
@@ -47,17 +47,53 @@
       "url": "https://broadstairshedges.co.uk/how-to/leylandii-hedge-reduction-broadstairs.html",
       "categoryFilled": "Leylandii / conifer hedge reduction",
       "source": "RHS Leyland Cypress Pruning Guide + Hopes Grove Nurseries + BBC Gardeners World + YouTube (egress blocked, unverified)"
+    },
+    {
+      "date": "2026-08-20",
+      "slug": "box-blight-box-tree-moth-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/box-blight-box-tree-moth-broadstairs.html",
+      "categoryFilled": "Wildlife and the law (pest and disease sub-topic)",
+      "source": "Hopes Grove Nurseries YouTube (May 2024, egress blocked, web-search verified) + RHS box blight and box tree caterpillar advice pages (2024)"
+    },
+    {
+      "date": "2026-08-21",
+      "slug": "bare-root-hedge-planting-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/bare-root-hedge-planting-broadstairs.html",
+      "categoryFilled": "Formal garden hedge planting from bare-root stock",
+      "source": "RHS bare-root hedging YouTube + RHS hedges planting guide + Ashridge Nurseries + Hedges Direct"
+    },
+    {
+      "date": "2026-08-22",
+      "slug": "yew-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/yew-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: yew / Taxus baccata)",
+      "source": "Burncoose Nurseries YouTube (Sep 2019, egress blocked, web-search verified) + Hopes Grove Nurseries (Kent) + RHS + BBC Gardeners World"
+    },
+    {
+      "date": "2026-08-23",
+      "slug": "privet-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/privet-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: privet / Ligustrum ovalifolium)",
+      "source": "Get Gardening YouTube (Jul-Aug 2021, egress blocked, web-search verified) + Hedging Plants Direct + Hedging UK + BBC Gardeners World + Plantura UK"
+    },
+    {
+      "date": "2026-08-24",
+      "slug": "cherry-laurel-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/cherry-laurel-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: cherry laurel / Prunus laurocerasus)",
+      "source": "Burncoose Nurseries YouTube (egress blocked, web-search verified) + RHS + Hedging Plants Direct + Hopes Grove Nurseries + BBC Gardeners World"
     }
   ],
-  "totalArticles": 13,
+  "totalArticles": 18,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
     "coastal-hedges timing section lacks explicit WCA 1981 s.1 citation (content decision needed)",
-    "YouTube citations in hedge-laying, wildlife-hedge-planting, and leylandii-hedge-reduction unverified (proxy blocks YouTube egress)",
-    "services/hedge-removal.html and services/hedge-planting.html are redirect pages — .htaccess vs HTML-redirect decision pending",
-    "TEMPLATES/how-to.md §1 theme-color note is stale (all pages now have it; template still says do not add)",
-    "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
+    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed)",
+    "YouTube citations unverifiable via proxy in 9 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel x2 (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "TEMPLATES/how-to.md §1 theme-color note is stale (all pages now have it; template still says do not add — caused cherry-laurel omission today)",
+    "Ingestion pipeline scheduled triggers not yet created on claude.ai/code",
+    "Orphan service pages: services/hedge-removal.html and services/hedge-planting.html exist on disk, not linked from services/index.html, not in sitemap.xml — de-listed in PR #7 (2026-07-17) but not deleted; delete or confirm as 301-redirect targets"
   ],
-  "contentReport": "reports/2026-08-14-content.md"
+  "contentReport": "reports/2026-08-23-content.md"
 }
