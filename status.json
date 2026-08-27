@@ -1,11 +1,11 @@
 {
-  "lastAudit": "2026-08-26",
-  "lastAuditAt": "2026-08-26T08:00:00Z",
+  "lastAudit": "2026-08-27",
+  "lastAuditAt": "2026-08-27T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "note": "1 auto-fix: beech-hedge-pruning missing theme-color (same omission pattern as cherry-laurel yesterday — stale template note §1 still in TEMPLATES/how-to.md). 19 articles total. 6 carry-over needs-review: coastal-hedges WCA callout, hedge-planting-north-foreland WCA borderline, 10 YouTube citations unverifiable via proxy, stale template theme-color note, orphan service pages (hedge-removal + hedge-planting), ingestion triggers not created.",
-  "auditReport": "reports/2026-08-26-audit.md",
-  "lastRun": "2026-08-26",
+  "issueCount": 5,
+  "note": "2 auto-fixes: hornbeam-hedge-pruning missing theme-color (3rd consecutive day, same stale template bug), TEMPLATES/how-to.md §1 theme-color note corrected (root cause removed). 20 articles total. 5 carry-over needs-review: coastal-hedges WCA callout, hedge-planting-north-foreland WCA borderline, 10 YouTube citations unverifiable via proxy, orphan service pages (hedge-removal + hedge-planting), ingestion triggers not created.",
+  "auditReport": "reports/2026-08-27-audit.md",
+  "lastRun": "2026-08-27",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -89,18 +89,24 @@
       "url": "https://broadstairshedges.co.uk/how-to/beech-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: beech / Fagus sylvatica)",
       "source": "Pots & Trowels YouTube (Martin Fish, RHS judge; egress blocked, web-search verified) + Ashridge Trees + Hedging Plants Direct + RHS + Woodland Trust"
+    },
+    {
+      "date": "2026-08-27",
+      "slug": "hornbeam-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/hornbeam-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: hornbeam / Carpinus betulus)",
+      "source": "Ken's Weekly Tips YouTube (egress blocked, web-search verified) + RHS + Hedging Plants Direct + Hopes Grove Nurseries + Impact Hedging"
     }
   ],
-  "totalArticles": 19,
+  "totalArticles": 20,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
     "coastal-hedges timing section lacks explicit WCA 1981 s.1 citation (content decision needed)",
     "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed)",
-    "YouTube citations unverifiable via proxy in 9 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel x2, beech (proxy blocks YouTube egress; all verified via web-search at generation time)",
-    "TEMPLATES/how-to.md §1 theme-color note is stale (all 19 pages now have it; template still says do not add — caused cherry-laurel and beech omissions on consecutive days)",
+    "YouTube citations unverifiable via proxy in 10 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel x2, hornbeam (proxy blocks YouTube egress; all verified via web-search at generation time)",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code",
     "Orphan service pages: services/hedge-removal.html and services/hedge-planting.html exist on disk, not linked from services/index.html, not in sitemap.xml — de-listed in PR #7 (2026-07-17) but not deleted; delete or confirm as 301-redirect targets"
   ],
-  "contentReport": "reports/2026-08-26-content.md"
+  "contentReport": "reports/2026-08-27-content.md"
 }

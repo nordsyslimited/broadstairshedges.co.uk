@@ -71,11 +71,11 @@ Copy the `<head>` block structure from any existing article
 - GA4: `gtag.js?id=G-MXMY0WM04D`, standard config snippet: copy verbatim.
 - `<meta property="og:type" content="article">`, `og:title`, `og:description`,
   `og:url`.
-- `theme-color` is **not currently set per-page** on this site (checked:
-  absent from article `<head>`s; only appears via CSS var `#1e2f45`
-  elsewhere). Do not add a `<meta name="theme-color">` tag as part of
-  routine content work; that is a site-wide change, out of scope for a
-  content-ingestion run.
+- `<meta name="theme-color" content="#1e2f45"/>` **must be included** on
+  every article page, immediately after the `<link rel="canonical">` and
+  before the `<meta name="robots">` line. All 20 live articles carry this
+  tag. Omitting it from a new article is an auto-fixed audit bug; include
+  it in every new page from the outset.
 
 Body shell: topbar (phone/WhatsApp/email + pensioner-discount pill), header
 nav (Home / Services / Areas / Guides / Recent jobs / About / Contact),
