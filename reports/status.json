@@ -1,7 +1,17 @@
 {
-  "lastRun": "2026-08-26",
+  "lastRun": "2026-08-27",
   "lastRunType": "nightly-content",
   "articlesShipped": [
+    {
+      "date": "2026-08-27",
+      "slug": "how-to/hornbeam-hedge-pruning-broadstairs.html",
+      "title": "How to prune a hornbeam hedge: August timing, batter angle and clay-soil notes for Broadstairs gardens",
+      "category": "Cutting technique",
+      "sourceVideo": "https://www.youtube.com/watch?v=2M3QJykeCh8",
+      "sourceChannel": "Ken's Weekly Tips (UK gardening channel)",
+      "egressBlocked": true,
+      "verifiedViaWebSearch": true
+    },
     {
       "date": "2026-08-26",
       "slug": "how-to/beech-hedge-pruning-broadstairs.html",
@@ -44,12 +54,12 @@
       "category": "Wildlife and the law"
     }
   ],
-  "totalArticles": 19,
+  "totalArticles": 20,
   "status": "ok",
   "nextRunSuggestions": [
     "hawthorn hedge pruning",
-    "hornbeam hedge pruning",
     "holly hedge cutting",
-    "hedge trimmer tool selection"
+    "photinia red robin hedge pruning",
+    "hedge trimmer tool selection and maintenance"
   ]
 }
