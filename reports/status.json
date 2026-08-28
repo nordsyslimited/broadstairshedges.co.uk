@@ -1,7 +1,17 @@
 {
-  "lastRun": "2026-08-27",
+  "lastRun": "2026-08-28",
   "lastRunType": "nightly-content",
   "articlesShipped": [
+    {
+      "date": "2026-08-28",
+      "slug": "how-to/new-hedge-establishment-first-year-broadstairs.html",
+      "title": "How to establish a new hedge in year one: watering, mulching and the first formative cut for Broadstairs gardens",
+      "category": "Planting / establishment",
+      "sourceVideo": "https://www.youtube.com/watch?v=_zZuPahlvY8",
+      "sourceChannel": "Hedges Direct (@HedgesDirect, UK hedging supplier)",
+      "egressBlocked": true,
+      "verifiedViaWebSearch": true
+    },
     {
       "date": "2026-08-27",
       "slug": "how-to/hornbeam-hedge-pruning-broadstairs.html",
@@ -54,12 +64,13 @@
       "category": "Wildlife and the law"
     }
   ],
-  "totalArticles": 20,
+  "totalArticles": 21,
   "status": "ok",
   "nextRunSuggestions": [
     "hawthorn hedge pruning",
     "holly hedge cutting",
     "photinia red robin hedge pruning",
-    "hedge trimmer tool selection and maintenance"
+    "hedge trimmer tool selection and maintenance",
+    "dealing with gaps in an established hedge"
   ]
 }
