@@ -1,11 +1,11 @@
 {
-  "lastAudit": "2026-08-27",
-  "lastAuditAt": "2026-08-27T08:00:00Z",
+  "lastAudit": "2026-08-28",
+  "lastAuditAt": "2026-08-28T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 5,
-  "note": "2 auto-fixes: hornbeam-hedge-pruning missing theme-color (3rd consecutive day, same stale template bug), TEMPLATES/how-to.md §1 theme-color note corrected (root cause removed). 20 articles total. 5 carry-over needs-review: coastal-hedges WCA callout, hedge-planting-north-foreland WCA borderline, 10 YouTube citations unverifiable via proxy, orphan service pages (hedge-removal + hedge-planting), ingestion triggers not created.",
-  "auditReport": "reports/2026-08-27-audit.md",
-  "lastRun": "2026-08-27",
+  "note": "2 auto-fixes: missing meta description on services/hedge-removal.html and services/hedge-planting.html (noindex redirect stubs). 21 articles total. 5 carry-over needs-review: coastal-hedges WCA callout, hedge-planting-north-foreland WCA borderline, 11 YouTube citations unverifiable via proxy, orphan redirect stubs (hedge-removal + hedge-planting as client-side redirects not 301s), ingestion triggers not created.",
+  "auditReport": "reports/2026-08-28-audit.md",
+  "lastRun": "2026-08-28",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -96,17 +96,24 @@
       "url": "https://broadstairshedges.co.uk/how-to/hornbeam-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: hornbeam / Carpinus betulus)",
       "source": "Ken's Weekly Tips YouTube (egress blocked, web-search verified) + RHS + Hedging Plants Direct + Hopes Grove Nurseries + Impact Hedging"
+    },
+    {
+      "date": "2026-08-28",
+      "slug": "new-hedge-establishment-first-year-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/new-hedge-establishment-first-year-broadstairs.html",
+      "categoryFilled": "New hedge aftercare / first-year establishment",
+      "source": "Hedges Direct YouTube (Jul 2025, egress blocked, web-search verified) + Ashridge Trees + Hedges Online + Hopes Grove Nurseries + RHS + BGS + Met Office"
     }
   ],
-  "totalArticles": 20,
+  "totalArticles": 21,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
-    "coastal-hedges timing section lacks explicit WCA 1981 s.1 citation (content decision needed)",
-    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed)",
-    "YouTube citations unverifiable via proxy in 10 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel x2, hornbeam (proxy blocks YouTube egress; all verified via web-search at generation time)",
-    "Ingestion pipeline scheduled triggers not yet created on claude.ai/code",
-    "Orphan service pages: services/hedge-removal.html and services/hedge-planting.html exist on disk, not linked from services/index.html, not in sitemap.xml — de-listed in PR #7 (2026-07-17) but not deleted; delete or confirm as 301-redirect targets"
+    "coastal-hedges timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, 3rd consecutive flag)",
+    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed, 3rd consecutive flag)",
+    "YouTube citations unverifiable via proxy in 11 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel x2, hornbeam, new-hedge-establishment (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
+    "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-08-27-content.md"
+  "contentReport": "reports/2026-08-28-content.md"
 }
