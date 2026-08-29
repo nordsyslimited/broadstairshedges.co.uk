@@ -1,11 +1,11 @@
 {
-  "lastAudit": "2026-08-28",
-  "lastAuditAt": "2026-08-28T08:00:00Z",
+  "lastAudit": "2026-08-29",
+  "lastAuditAt": "2026-08-29T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "2 auto-fixes: missing meta description on services/hedge-removal.html and services/hedge-planting.html (noindex redirect stubs). 21 articles total. 5 carry-over needs-review: coastal-hedges WCA callout, hedge-planting-north-foreland WCA borderline, 11 YouTube citations unverifiable via proxy, orphan redirect stubs (hedge-removal + hedge-planting as client-side redirects not 301s), ingestion triggers not created.",
-  "auditReport": "reports/2026-08-28-audit.md",
-  "lastRun": "2026-08-28",
+  "issueCount": 6,
+  "note": "1 auto-fix: banned word 'robust' in escallonia article (replaced). 22 articles total. 6 needs-review: new flag on broadstairs-conservation-areas WCA callout; carry-overs: coastal-hedges WCA (4th flag), hedge-planting-north-foreland WCA (4th flag), 12 YouTube citations unverifiable via proxy (including escallonia, up from 11), orphan redirect stubs hedge-removal+hedge-planting, ingestion triggers not created.",
+  "auditReport": "reports/2026-08-29-audit.md",
+  "lastRun": "2026-08-29",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -103,17 +103,25 @@
       "url": "https://broadstairshedges.co.uk/how-to/new-hedge-establishment-first-year-broadstairs.html",
       "categoryFilled": "New hedge aftercare / first-year establishment",
       "source": "Hedges Direct YouTube (Jul 2025, egress blocked, web-search verified) + Ashridge Trees + Hedges Online + Hopes Grove Nurseries + RHS + BGS + Met Office"
+    },
+    {
+      "date": "2026-08-29",
+      "slug": "escallonia-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/escallonia-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: Escallonia / front-line coastal hedge)",
+      "source": "Burncoose Nurseries YouTube (egress blocked, web-search verified) + RHS + Horticulture.co.uk + Garden UK + Best4Hedging + Hedges Direct + Paramount Plants"
     }
   ],
-  "totalArticles": 21,
+  "totalArticles": 22,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
-    "coastal-hedges timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, 3rd consecutive flag)",
-    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed, 3rd consecutive flag)",
-    "YouTube citations unverifiable via proxy in 11 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel x2, hornbeam, new-hedge-establishment (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (new flag — CA rules article, timing dimension present as adjacent legal layer; content decision needed)",
+    "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, 4th consecutive flag)",
+    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed, 4th consecutive flag)",
+    "YouTube citations unverifiable via proxy in 12 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel x2, hornbeam, new-hedge-establishment, escallonia (proxy blocks YouTube egress; all verified via web-search at generation time)",
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-08-28-content.md"
+  "contentReport": "reports/2026-08-29-content.md"
 }
