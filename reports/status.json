@@ -1,27 +1,27 @@
 {
-  "lastRun": "2026-08-29",
+  "lastRun": "2026-08-30",
   "runType": "nightly-content",
   "articlesShipped": 1,
   "slugs": [
-    "escallonia-hedge-pruning-broadstairs"
+    "photinia-red-robin-hedge-pruning-broadstairs"
   ],
   "sources": [
     {
-      "channel": "Burncoose Nurseries",
-      "channelHandle": "@Burncoose",
-      "videoUrl": "https://www.youtube.com/watch?v=Z3VSHFAw-E0",
-      "title": "Pruning Escallonia",
+      "channel": "Garden Ninja (Lee Burkhill)",
+      "channelHandle": "@Gardenninja",
+      "videoUrl": "https://www.youtube.com/channel/UCuhMHrXyf2bvga2Mq0DJvwQ",
+      "title": "How to Prune Photinia Red Robin: UK Timing & Technique Guide",
       "ukBased": true,
       "egressBlocked": true,
       "verifiedViaWebSearch": true
     }
   ],
   "filesModified": [
-    "how-to/escallonia-hedge-pruning-broadstairs.html",
+    "how-to/photinia-red-robin-hedge-pruning-broadstairs.html",
     "how-to/index.html",
     "sitemap.xml",
-    "how-to/hedge-cutting-technique-broadstairs.html",
-    "reports/2026-08-29-content.md",
+    "how-to/cherry-laurel-hedge-pruning-broadstairs.html",
+    "reports/2026-08-30-content.md",
     "reports/status.json"
   ],
   "status": "ok"
