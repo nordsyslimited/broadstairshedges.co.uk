@@ -1,11 +1,11 @@
 {
-  "lastAudit": "2026-08-29",
-  "lastAuditAt": "2026-08-29T08:00:00Z",
+  "lastAudit": "2026-08-30",
+  "lastAuditAt": "2026-08-30T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "note": "1 auto-fix: banned word 'robust' in escallonia article (replaced). 22 articles total. 6 needs-review: new flag on broadstairs-conservation-areas WCA callout; carry-overs: coastal-hedges WCA (4th flag), hedge-planting-north-foreland WCA (4th flag), 12 YouTube citations unverifiable via proxy (including escallonia, up from 11), orphan redirect stubs hedge-removal+hedge-planting, ingestion triggers not created.",
-  "auditReport": "reports/2026-08-29-audit.md",
-  "lastRun": "2026-08-29",
+  "issueCount": 7,
+  "note": "No auto-fixes today. 23 articles total (photinia added by content run). 7 needs-review: 1 new (broadstairs-conservation-areas JSON-LD expanded format), 6 carry-overs: broadstairs-conservation-areas WCA (2nd flag), coastal-hedges WCA (5th flag), hedge-planting-north-foreland WCA (5th flag), YouTube unverifiable now 13 articles (photinia adds 1), orphan redirect stubs, ingestion triggers.",
+  "auditReport": "reports/2026-08-30-audit.md",
+  "lastRun": "2026-08-30",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -77,7 +77,7 @@
       "source": "Get Gardening YouTube (Jul-Aug 2021, egress blocked, web-search verified) + Hedging Plants Direct + Hedging UK + BBC Gardeners World + Plantura UK"
     },
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "slug": "cherry-laurel-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/cherry-laurel-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: cherry laurel / Prunus laurocerasus)",
@@ -110,18 +110,26 @@
       "url": "https://broadstairshedges.co.uk/how-to/escallonia-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Escallonia / front-line coastal hedge)",
       "source": "Burncoose Nurseries YouTube (egress blocked, web-search verified) + RHS + Horticulture.co.uk + Garden UK + Best4Hedging + Hedges Direct + Paramount Plants"
+    },
+    {
+      "date": "2026-08-30",
+      "slug": "photinia-red-robin-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/photinia-red-robin-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: photinia Red Robin / Photinia x fraseri)",
+      "source": "Garden Ninja (Lee Burkhill, BBC Garden Rescue presenter) YouTube channel (egress blocked, web-search verified) + Impact Hedging + Sunnyside Nurseries + HedgeXpress + RHS"
     }
   ],
-  "totalArticles": 22,
+  "totalArticles": 23,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
-    "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (new flag — CA rules article, timing dimension present as adjacent legal layer; content decision needed)",
-    "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, 4th consecutive flag)",
-    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed, 4th consecutive flag)",
-    "YouTube citations unverifiable via proxy in 12 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel x2, hornbeam, new-hedge-establishment, escallonia (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format (spaces) rather than compact format established by all other 22 articles; functionally identical but deviates from house style (new flag)",
+    "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (2nd consecutive flag — CA rules article, timing dimension present as adjacent legal layer; content decision needed)",
+    "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, 5th consecutive flag)",
+    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout — borderline, planting guide with limited cutting dimension (content decision needed, 5th consecutive flag)",
+    "YouTube citations unverifiable via proxy in 13 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning x2, box-blight, cherry-laurel x2, hornbeam, new-hedge-establishment, escallonia, photinia (proxy blocks YouTube egress; all verified via web-search at generation time)",
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-08-29-content.md"
+  "contentReport": "reports/2026-08-30-content.md"
 }
