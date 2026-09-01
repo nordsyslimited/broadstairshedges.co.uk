@@ -5,8 +5,8 @@
   "issueCount": 7,
   "note": "No auto-fixes today. 24 articles total. 7 needs-review items (all carry-overs): broadstairs-conservation-areas JSON-LD expanded format; broadstairs-conservation-areas WCA (3rd flag); coastal-hedges WCA (6th flag); hedge-planting-north-foreland WCA (6th flag); YouTube unverifiable in 14 articles; orphan redirect stubs; ingestion triggers. All SEO, robots.txt, sitemap, em-dash, filler-word, internal-link checks clean.",
   "auditReport": "reports/2026-08-31-audit.md",
-  "lastRun": "2026-08-31",
-  "lastRunType": "morning-audit",
+  "lastRun": "2026-09-01",
+  "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
@@ -119,6 +119,13 @@
       "source": "Garden Ninja (Lee Burkhill, BBC Garden Rescue presenter) YouTube channel (egress blocked, web-search verified) + Impact Hedging + Sunnyside Nurseries + HedgeXpress + RHS"
     },
     {
+      "date": "2026-09-01",
+      "slug": "holly-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/holly-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: Ilex aquifolium / common holly)",
+      "source": "Hedges Direct YouTube (Jun 2025, egress blocked, web-search verified) + Hopes Grove Nurseries (Tenterden, Kent) + RHS + Hedging UK + Hedging Plants Direct + Hedges Direct + Sunday Gardener"
+    },
+    {
       "date": "2026-08-31",
       "slug": "griselinia-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/griselinia-hedge-pruning-broadstairs.html",
@@ -126,7 +133,7 @@
       "source": "Mr Tidy Garden YouTube (Mar 2024, egress blocked, web-search verified) + Hopes Grove Nurseries (Tenterden, Kent) + Hedging UK + BBC Gardeners World + Buckingham Nurseries + Hedges Direct + RHS"
     }
   ],
-  "totalArticles": 24,
+  "totalArticles": 25,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
@@ -138,5 +145,5 @@
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-08-31-content.md"
+  "contentReport": "reports/2026-09-01-content.md"
 }
