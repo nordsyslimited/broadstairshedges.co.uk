@@ -1,43 +1,31 @@
 {
-  "lastRun": "2026-09-02",
-  "lastRunType": "nightly-content",
+  "lastRun": "2026-09-03",
+  "runType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-09-02",
-      "slug": "how-to/hawthorn-hedge-pruning-broadstairs.html",
-      "title": "How to prune a hawthorn hedge: timing, berries and the two annual windows for Broadstairs CT10",
+      "slug": "pyracantha-hedge-pruning-broadstairs",
+      "url": "/how-to/pyracantha-hedge-pruning-broadstairs.html",
+      "title": "How to prune a pyracantha hedge: timing, berries and the post-flowering window for Broadstairs CT10",
       "category": "Cutting technique",
-      "sourceVideo": "https://www.youtube.com/watch?v=biZ1JI980wg",
-      "sourceChannel": "Hawthorn Hedge Trimming (UK, August 2018)",
-      "egressBlocked": true,
-      "verifiedViaWebSearch": true
-    },
-    {
-      "date": "2026-08-30",
-      "slug": "how-to/photinia-red-robin-hedge-pruning-broadstairs.html",
-      "title": "How to prune a Photinia Red Robin hedge in Broadstairs: timing, technique and the twice-yearly method",
-      "category": "Cutting technique",
-      "sourceChannel": "Garden Ninja (Lee Burkhill)",
-      "egressBlocked": true,
-      "verifiedViaWebSearch": true
-    },
-    {
-      "date": "2026-08-27",
-      "slug": "how-to/hornbeam-hedge-pruning-broadstairs.html",
-      "title": "How to prune a hornbeam hedge: August timing, batter angle and clay-soil notes for Broadstairs gardens",
-      "category": "Cutting technique",
-      "sourceVideo": "https://www.youtube.com/watch?v=2M3QJykeCh8",
-      "sourceChannel": "Ken's Weekly Tips (UK gardening channel)",
-      "egressBlocked": true,
-      "verifiedViaWebSearch": true
+      "datePublished": "2026-09-03",
+      "sourceChannel": "Ashridge Nurseries (YouTube)",
+      "sourceVideoUrl": "https://www.youtube.com/watch?v=Po4dUhoLmOg",
+      "sourceVerifiedVia": "web-search-cross-reference",
+      "youtubeEgressBlocked": true
     }
   ],
-  "totalArticles": 27,
-  "status": "ok",
-  "nextRunSuggestions": [
-    "blackthorn hedge pruning",
-    "hedge trimmer tool selection and maintenance",
-    "mixed native hedge planting and management",
-    "hedge roots and foundations: what the law says"
-  ]
+  "totalHowToArticles": 27,
+  "filesModified": [
+    "how-to/pyracantha-hedge-pruning-broadstairs.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/hawthorn-hedge-pruning-broadstairs.html",
+    "how-to/holly-hedge-pruning-broadstairs.html",
+    "reports/2026-09-03-content.md",
+    "reports/status.json"
+  ],
+  "structuralAngleCompliant": true,
+  "wcaCalloutPresent": true,
+  "jetRelatedGuidesBlockPresent": true,
+  "status": "success"
 }
