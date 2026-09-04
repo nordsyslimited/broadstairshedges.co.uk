@@ -1,27 +1,26 @@
 {
-  "lastRun": "2026-09-03",
+  "lastRun": "2026-09-04",
   "runType": "nightly-content",
   "articlesShipped": [
     {
-      "slug": "pyracantha-hedge-pruning-broadstairs",
-      "url": "/how-to/pyracantha-hedge-pruning-broadstairs.html",
-      "title": "How to prune a pyracantha hedge: timing, berries and the post-flowering window for Broadstairs CT10",
+      "slug": "portuguese-laurel-hedge-pruning-broadstairs",
+      "url": "/how-to/portuguese-laurel-hedge-pruning-broadstairs.html",
+      "title": "How to prune a Portuguese laurel hedge: timing, technique and coastal notes for Broadstairs CT10",
       "category": "Cutting technique",
-      "datePublished": "2026-09-03",
-      "sourceChannel": "Ashridge Nurseries (YouTube)",
-      "sourceVideoUrl": "https://www.youtube.com/watch?v=Po4dUhoLmOg",
+      "datePublished": "2026-09-04",
+      "sourceChannel": "Ashridge Nurseries (YouTube / ashridgetrees.co.uk)",
+      "sourceVideoUrl": "https://www.youtube.com/@AshridgeNurseries",
       "sourceVerifiedVia": "web-search-cross-reference",
       "youtubeEgressBlocked": true
     }
   ],
-  "totalHowToArticles": 27,
+  "totalHowToArticles": 28,
   "filesModified": [
-    "how-to/pyracantha-hedge-pruning-broadstairs.html",
+    "how-to/portuguese-laurel-hedge-pruning-broadstairs.html",
     "how-to/index.html",
     "sitemap.xml",
-    "how-to/hawthorn-hedge-pruning-broadstairs.html",
-    "how-to/holly-hedge-pruning-broadstairs.html",
-    "reports/2026-09-03-content.md",
+    "how-to/cherry-laurel-hedge-pruning-broadstairs.html",
+    "reports/2026-09-04-content.md",
     "reports/status.json"
   ],
   "structuralAngleCompliant": true,
