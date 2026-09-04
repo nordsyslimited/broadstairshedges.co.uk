@@ -1,11 +1,11 @@
 {
-  "lastAudit": "2026-09-03",
-  "lastAuditAt": "2026-09-03T07:00:00Z",
+  "lastAudit": "2026-09-04",
+  "lastAuditAt": "2026-09-04T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "Auto-fixed: 'robust' → 'strong' in pyracantha article (banned filler). 7 carry-over needs-review items: broadstairs-conservation-areas JSON-LD format (5th flag); broadstairs-conservation-areas WCA (5th flag); coastal-hedges WCA (8th flag); hedge-planting-north-foreland WCA (8th flag); YouTube unverifiable in 17 articles (pyracantha added); orphan redirect stubs; ingestion triggers.",
-  "auditReport": "reports/2026-09-03-audit.md",
-  "lastRun": "2026-09-03",
+  "note": "Clean run, no auto-fixes. New article: portuguese-laurel-hedge-pruning-broadstairs (passes all checks). 7 carry-over needs-review items: broadstairs-conservation-areas JSON-LD format (6th flag); broadstairs-conservation-areas WCA (6th flag); coastal-hedges WCA (9th flag); hedge-planting-north-foreland WCA (9th flag); YouTube unverifiable in 18 articles; orphan redirect stubs; ingestion triggers.",
+  "auditReport": "reports/2026-09-04-audit.md",
+  "lastRun": "2026-09-04",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -145,19 +145,26 @@
       "url": "https://broadstairshedges.co.uk/how-to/pyracantha-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: pyracantha / firethorn)",
       "source": "Ashridge Nurseries YouTube (egress blocked, web-search verified) + Ashridge Nurseries pruning guide + Gardeners' World + RHS + WCA 1981 s.1 + TDC HWRC"
+    },
+    {
+      "date": "2026-09-04",
+      "slug": "portuguese-laurel-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/portuguese-laurel-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: Portuguese laurel / Prunus lusitanica)",
+      "source": "Ashridge Nurseries YouTube (egress blocked, web-search verified) + RHS + Hopes Grove Nurseries (Kent) + Gardeners' World"
     }
   ],
-  "totalArticles": 27,
+  "totalArticles": 28,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
-    "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format (spaces) rather than compact format established by all other articles; functionally identical but deviates from house style (carry-over, 5th flag)",
-    "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over, 5th flag)",
-    "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, carry-over, 8th flag)",
-    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over, 8th flag; planting article, may be exempt)",
-    "YouTube citations unverifiable via proxy in 17 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel, beech-hedge-pruning, hornbeam, new-hedge-establishment, escallonia, photinia, griselinia, holly, hawthorn, pyracantha (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format (spaces) rather than compact format established by all other articles; functionally identical but deviates from house style (carry-over, 6th flag)",
+    "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over, 6th flag)",
+    "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, carry-over, 9th flag)",
+    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over, 9th flag; planting article, may be exempt)",
+    "YouTube citations unverifiable via proxy in 18 articles: hedge-laying, wildlife-hedge-planting, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel, beech-hedge-pruning, hornbeam, new-hedge-establishment, escallonia, photinia, griselinia, holly, hawthorn, pyracantha, portuguese-laurel (proxy blocks YouTube egress; all verified via web-search at generation time)",
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-09-03-content.md"
+  "contentReport": "reports/2026-09-04-content.md"
 }
