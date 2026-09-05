@@ -126,7 +126,7 @@ $plain = "New hedge enquiry, broadstairshedges.co.uk\n\n"
 // via the cPanel forwarder).
 $payload = [
     'from'     => 'Broadstairs Hedges <onboarding@resend.dev>',
-    'to'       => ['nordsyslimited@gmail.com'],
+    'to'       => ['bluebucketuk@gmail.com'],
     'reply_to' => $email,
     'subject'  => $subject,
     'html'     => $html,
