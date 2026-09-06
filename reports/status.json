@@ -1,27 +1,27 @@
 {
-  "lastRun": "2026-09-05",
+  "lastRun": "2026-09-06",
   "runType": "nightly-content",
   "articlesShipped": [
     {
-      "slug": "elaeagnus-hedge-pruning-broadstairs",
-      "url": "/how-to/elaeagnus-hedge-pruning-broadstairs.html",
-      "title": "How to prune an Elaeagnus hedge: timing, the two-cut method and coastal notes for Broadstairs CT10",
+      "slug": "pittosporum-hedge-pruning-broadstairs",
+      "url": "/how-to/pittosporum-hedge-pruning-broadstairs.html",
+      "title": "How to prune a Pittosporum hedge: timing, technique and the three-cut year for Broadstairs CT10",
       "category": "Cutting technique",
-      "datePublished": "2026-09-05",
-      "sourceChannel": "UK gardening YouTube channel (Eleagnus x ebbingei: British gardens)",
-      "sourceVideoUrl": "https://www.youtube.com/watch?v=CU7L6UQM6X0",
+      "datePublished": "2026-09-06",
+      "sourceChannel": "Pittosporum Shrub Trimming by Will Brown 2 (UK gardening, channel-authority heuristic)",
+      "sourceVideoUrl": "https://www.youtube.com/watch?v=X6xo5iwCpy0",
       "sourceVerifiedVia": "web-search-cross-reference",
       "youtubeEgressBlocked": true
     }
   ],
-  "totalHowToArticles": 29,
+  "totalHowToArticles": 30,
   "filesModified": [
-    "how-to/elaeagnus-hedge-pruning-broadstairs.html",
+    "how-to/pittosporum-hedge-pruning-broadstairs.html",
     "how-to/index.html",
     "how-to/escallonia-hedge-pruning-broadstairs.html",
     "how-to/griselinia-hedge-pruning-broadstairs.html",
     "sitemap.xml",
-    "reports/2026-09-05-content.md",
+    "reports/2026-09-06-content.md",
     "reports/status.json"
   ],
   "structuralAngleCompliant": true,
