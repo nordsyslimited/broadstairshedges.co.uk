@@ -1,31 +1,32 @@
 {
-  "lastRun": "2026-09-03",
-  "runType": "nightly-content",
+  "lastRun": "2026-09-07",
+  "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "slug": "pyracantha-hedge-pruning-broadstairs",
-      "url": "/how-to/pyracantha-hedge-pruning-broadstairs.html",
-      "title": "How to prune a pyracantha hedge: timing, berries and the post-flowering window for Broadstairs CT10",
+      "date": "2026-09-07",
+      "slug": "box-hedge-pruning-broadstairs",
+      "title": "How to prune a box hedge: timing, technique and blight-safe steps for Broadstairs CT10",
       "category": "Cutting technique",
-      "datePublished": "2026-09-03",
-      "sourceChannel": "Ashridge Nurseries (YouTube)",
-      "sourceVideoUrl": "https://www.youtube.com/watch?v=Po4dUhoLmOg",
-      "sourceVerifiedVia": "web-search-cross-reference",
-      "youtubeEgressBlocked": true
+      "sourceVideo": "youtube.com/watch?v=1AU_kmzXRQU",
+      "topicGap": "Buxus pruning technique (existing box article covers disease only)"
     }
   ],
-  "totalHowToArticles": 27,
-  "filesModified": [
-    "how-to/pyracantha-hedge-pruning-broadstairs.html",
-    "how-to/index.html",
-    "sitemap.xml",
-    "how-to/hawthorn-hedge-pruning-broadstairs.html",
-    "how-to/holly-hedge-pruning-broadstairs.html",
-    "reports/2026-09-03-content.md",
-    "reports/status.json"
-  ],
+  "totalHowToArticles": 31,
   "structuralAngleCompliant": true,
   "wcaCalloutPresent": true,
   "jetRelatedGuidesBlockPresent": true,
-  "status": "success"
+  "status": "success",
+  "categories": {
+    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs"],
+    "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop"],
+    "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar"],
+    "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide"],
+    "Conservation-area and section-211 paperwork": ["broadstairs-conservation-areas-hedge-rules"],
+    "Neighbour law and high-hedge disputes": ["high-hedges-neighbour-law-broadstairs"],
+    "Clifftop/SSSI-edge work and herring-gull protocol": ["herring-gull-nesting-cliff-hedges-broadstairs"],
+    "Planting technique on Margate Chalk": ["hedge-planting-north-foreland-chalk-exposure", "bare-root-hedge-planting-broadstairs", "wildlife-hedge-planting-broadstairs", "new-hedge-establishment-first-year-broadstairs"],
+    "Holiday-let kerb-appeal timing": ["dickens-festival-holiday-let-hedge-tidy-broadstairs"],
+    "Wildlife and pest management": ["box-blight-box-tree-moth-broadstairs"],
+    "Traditional technique": ["hedge-laying-broadstairs-kent"]
+  }
 }
