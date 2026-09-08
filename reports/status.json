@@ -1,23 +1,23 @@
 {
-  "lastRun": "2026-09-07",
+  "lastRun": "2026-09-08",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-09-07",
-      "slug": "box-hedge-pruning-broadstairs",
-      "title": "How to prune a box hedge: timing, technique and blight-safe steps for Broadstairs CT10",
+      "date": "2026-09-08",
+      "slug": "cotoneaster-hedge-pruning-broadstairs",
+      "title": "How to prune a cotoneaster hedge: variety, berry window and nesting-season check for Broadstairs CT10",
       "category": "Cutting technique",
-      "sourceVideo": "youtube.com/watch?v=1AU_kmzXRQU",
-      "topicGap": "Buxus pruning technique (existing box article covers disease only)"
+      "sourceChannel": "Hedges Direct YouTube channel (youtube.com/@HedgesDirect, UK-based hedging nursery)",
+      "topicGap": "Cotoneaster pruning technique (first cotoneaster article; franchetii, lacteus, simonsii all commonly grown in CT10)"
     }
   ],
-  "totalHowToArticles": 31,
+  "totalHowToArticles": 32,
   "structuralAngleCompliant": true,
   "wcaCalloutPresent": true,
   "jetRelatedGuidesBlockPresent": true,
   "status": "success",
   "categories": {
-    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs"],
+    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs"],
     "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop"],
     "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar"],
     "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide"],
