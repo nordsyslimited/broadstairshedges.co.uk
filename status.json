@@ -4,8 +4,8 @@
   "issueCount": 7,
   "note": "1 auto-fix: berberis banned filler 'robust' replaced with 'stronger'. 7 carry-over needs-review items unchanged: broadstairs-conservation-areas JSON-LD format (11th flag); broadstairs-conservation-areas WCA (11th flag); coastal-hedges WCA (14th flag); hedge-planting-north-foreland WCA (14th flag); YouTube unverifiable 25 articles; orphan redirect stubs; ingestion triggers.",
   "auditReport": "reports/2026-09-09-audit.md",
-  "lastRun": "2026-09-09",
-  "lastRunType": "morning-audit",
+  "lastRun": "2026-09-10",
+  "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
@@ -186,9 +186,16 @@
       "url": "https://broadstairshedges.co.uk/how-to/berberis-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: berberis / Berberis thunbergii, B. darwinii, B. x stenophylla)",
       "source": "World Radio Gardening / Ken Crowther YouTube (Jan 2024, egress blocked, web-search verified via radiotoday.co.uk + internetradiouk.com + LinkedIn) + BBC Gardeners' World + Horticulture.co.uk + Garden Ninja + RHS"
+    },
+    {
+      "date": "2026-09-10",
+      "slug": "viburnum-tinus-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/viburnum-tinus-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: Viburnum tinus / Laurustinus)",
+      "source": "HOW TO PRUNE VIBURNUM TINUS YouTube (May 2021, egress blocked, web-search verified) + RHS + Horticulture.co.uk (Gary Ladman) + One Click Plants + Buckingham Nurseries / hedging.co.uk + Gardenseeker"
     }
   ],
-  "totalArticles": 33,
+  "totalArticles": 34,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
@@ -196,9 +203,9 @@
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over, 10th flag)",
     "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, carry-over, 13th flag)",
     "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over, 13th flag; planting article, may be exempt)",
-    "YouTube citations unverifiable via proxy in 24 articles: hedge-cutting-technique, overgrown-hedge-renovation, wildlife-hedge-planting, hedge-laying, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel, beech-hedge-pruning, hornbeam, new-hedge-establishment, escallonia, photinia, griselinia, holly, hawthorn, pyracantha, portuguese-laurel, elaeagnus, pittosporum, box-hedge-pruning, cotoneaster, berberis (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "YouTube citations unverifiable via proxy in 25 articles: hedge-cutting-technique, overgrown-hedge-renovation, wildlife-hedge-planting, hedge-laying, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel, beech-hedge-pruning, hornbeam, new-hedge-establishment, escallonia, photinia, griselinia, holly, hawthorn, pyracantha, portuguese-laurel, elaeagnus, pittosporum, box-hedge-pruning, cotoneaster, berberis, viburnum-tinus (proxy blocks YouTube egress; all verified via web-search at generation time)",
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-09-09-content.md"
+  "contentReport": "reports/2026-09-10-content.md"
 }
