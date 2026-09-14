@@ -2,10 +2,10 @@
   "lastAuditAt": "2026-09-13T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "No auto-fixes needed. 7 carry-over needs-review items: broadstairs-conservation-areas JSON-LD format (15th flag); broadstairs-conservation-areas WCA (15th flag); coastal-hedges WCA incomplete (18th flag); hedge-planting-north-foreland WCA possibly exempt (18th flag); YouTube unverifiable 29 articles (proxy blocks egress, forsythia added to list); orphan redirect stubs; ingestion triggers. Forsythia article passes all checks.",
+  "note": "Nightly content run 2026-09-14: 1 article shipped (hedge-tool-care-end-of-season). 7 carry-over needs-review items unchanged: broadstairs-conservation-areas JSON-LD format (15th flag); broadstairs-conservation-areas WCA (15th flag); coastal-hedges WCA incomplete (18th flag); hedge-planting-north-foreland WCA possibly exempt (18th flag); YouTube unverifiable 29 articles (proxy blocks egress); orphan redirect stubs; ingestion triggers.",
   "auditReport": "reports/2026-09-13-audit.md",
-  "lastRun": "2026-09-13",
-  "lastRunType": "morning-audit",
+  "lastRun": "2026-09-14",
+  "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
@@ -214,9 +214,16 @@
       "url": "https://broadstairshedges.co.uk/how-to/forsythia-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: forsythia / Forsythia x intermedia)",
       "source": "David Domoney YouTube (Jun 2023, egress blocked, web-search verified) + RHS + Garden Ninja (Lee Burkhill) + Ideal Home + Horticulture.co.uk + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+    },
+    {
+      "date": "2026-09-14",
+      "slug": "hedge-tool-care-end-of-season-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/hedge-tool-care-end-of-season-broadstairs.html",
+      "categoryFilled": "Cutting technique (tool maintenance / end-of-season sub-topic)",
+      "source": "STIHL GB YouTube channel (ID NrUwto7i5Bc, Jun 2021, egress blocked, web-search verified) + STIHL UK (stihl.co.uk) + Husqvarna UK (husqvarna.com/uk) + Garden Machinery Direct blog (egress blocked)"
     }
   ],
-  "totalArticles": 37,
+  "totalArticles": 38,
   "lastRun": "2026-09-13",
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
@@ -229,5 +236,5 @@
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-09-12-content.md"
+  "contentReport": "reports/2026-09-14-content.md"
 }
