@@ -1,10 +1,10 @@
 {
-  "lastAuditAt": "2026-09-14T07:00:00Z",
+  "lastAuditAt": "2026-09-15T08:16:26Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "Morning audit 2026-09-14: all auto-fix checks clean (no em-dashes, no banned filler, no missing SEO tags, robots.txt complete, sitemap complete). New article hedge-tool-care passes all checks. 7 carry-over needs-review items unchanged: broadstairs-conservation-areas JSON-LD format (16th flag); broadstairs-conservation-areas WCA (16th flag); coastal-hedges WCA incomplete (19th flag); hedge-planting-north-foreland WCA possibly exempt (19th flag); YouTube unverifiable 29 articles (proxy blocks egress); orphan redirect stubs; ingestion triggers.",
-  "auditReport": "reports/2026-09-14-audit.md",
-  "lastRun": "2026-09-14",
+  "note": "Morning audit 2026-09-15: all auto-fix checks clean (no em-dashes, no banned filler, no missing SEO tags, robots.txt complete, sitemap complete). New article tamarisk-hedge-pruning passes all checks. 7 carry-over needs-review items unchanged (2 on broadstairs-conservation-areas, coastal-hedges WCA, hedge-planting-north-foreland WCA, YouTube proxy blocks now 30 articles, redirect stubs, ingestion triggers).",
+  "auditReport": "reports/2026-09-15-audit.md",
+  "lastRun": "2026-09-15",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -221,9 +221,16 @@
       "url": "https://broadstairshedges.co.uk/how-to/hedge-tool-care-end-of-season-broadstairs.html",
       "categoryFilled": "Cutting technique (tool maintenance / end-of-season sub-topic)",
       "source": "STIHL GB YouTube channel (ID NrUwto7i5Bc, Jun 2021, egress blocked, web-search verified) + STIHL UK (stihl.co.uk) + Husqvarna UK (husqvarna.com/uk) + Garden Machinery Direct blog (egress blocked)"
+    },
+    {
+      "date": "2026-09-15",
+      "slug": "tamarisk-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/tamarisk-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: Tamarix tetrandra / T. ramosissima — coastal hedge)",
+      "source": "RHS Tamarix tetrandra plant entry (AGM) + RHS Tamarix gallica entry + BBC Gardeners' World 'How to grow a tamarisk tree' + Ashridge Nurseries tamarisk hedging (egress blocked, web-search verified) + Wildlife and Countryside Act 1981 s.1"
     }
   ],
-  "totalArticles": 38,
+  "totalArticles": 39,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
@@ -231,7 +238,7 @@
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over, 16th flag)",
     "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, carry-over, 19th flag)",
     "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over, 19th flag; planting article, may be exempt)",
-    "YouTube citations unverifiable via proxy in 29 articles: hedge-cutting-technique, overgrown-hedge-renovation, wildlife-hedge-planting, hedge-laying, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel, beech-hedge-pruning, hornbeam, new-hedge-establishment, escallonia, photinia, griselinia, holly, hawthorn, pyracantha, portuguese-laurel, elaeagnus, pittosporum, box-hedge-pruning, cotoneaster, berberis, viburnum-tinus, hedge-gap-repair-gapping-up, hedge-feeding-mulching, forsythia (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "YouTube citations unverifiable via proxy in 30 articles: hedge-cutting-technique, overgrown-hedge-renovation, wildlife-hedge-planting, hedge-laying, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel, beech-hedge-pruning, hornbeam, new-hedge-establishment, escallonia, photinia, griselinia, holly, hawthorn, pyracantha, portuguese-laurel, elaeagnus, pittosporum, box-hedge-pruning, cotoneaster, berberis, viburnum-tinus, hedge-gap-repair-gapping-up, hedge-feeding-mulching, forsythia, tamarisk (proxy blocks YouTube egress; all verified via web-search at generation time)",
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
