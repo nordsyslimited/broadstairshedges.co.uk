@@ -4,7 +4,7 @@
   "issueCount": 7,
   "note": "Morning audit 2026-09-16: all auto-fix checks clean (no em-dashes, no banned filler, no missing SEO tags, robots.txt complete, sitemap complete). New article hedge-propagation-semi-ripe-cuttings passes all checks. 7 carry-over needs-review items unchanged (2 on broadstairs-conservation-areas, coastal-hedges WCA, hedge-planting-north-foreland WCA, YouTube proxy blocks now 32 articles, redirect stubs, ingestion triggers).",
   "auditReport": "reports/2026-09-16-audit.md",
-  "lastRun": "2026-09-16",
+  "lastRun": "2026-09-17",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -235,9 +235,16 @@
       "url": "https://broadstairshedges.co.uk/how-to/hedge-propagation-semi-ripe-cuttings-broadstairs.html",
       "categoryFilled": "Planting technique (propagation sub-topic: semi-ripe cuttings for escallonia, griselinia, box, privet, holly and other CT10 hedging species)",
       "source": "Richard Jackson Garden YouTube (YL1rpDAe7OU, egress blocked, web-search verified via richardjacksonsgarden.co.uk + gardenmediaguild.co.uk) + RHS semi-ripe cuttings advice (rhs.org.uk) + BBC Gardeners' World Magazine + Burncoose Nurseries YouTube (oE14lkuVYPU, egress blocked, web-search verified) + WCA 1981 s.1 + Met Office SE England climate + BGS Margate Chalk"
+    },
+    {
+      "date": "2026-09-17",
+      "slug": "hedge-removal-grubbing-out-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/hedge-removal-grubbing-out-broadstairs.html",
+      "categoryFilled": "Reduction and renovation (complete hedge removal sub-topic: grubbing out privet, Leylandii, laurel on Margate chalk)",
+      "source": "Hopes Grove Nurseries (Tenterden, Kent: hopesgrovenurseries.co.uk + YouTube @hopesgrovenurseries4337, UCMVvPga77CQtHq-7-mEOMEA; egress blocked, web-search verified) + Jacksons Fencing (Stowting, Kent: jacksonsfencing.co.uk + YouTube user/jacksonsfencing; DIY hedge removal video tXelxndlEsA, Oct 2021; egress blocked, web-search verified) + Hedgerows Regulations 1997 + WCA 1981 s.1 + TDC HWRC + TCPA 1990 s.211"
     }
   ],
-  "totalArticles": 40,
+  "totalArticles": 41,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
@@ -245,9 +252,9 @@
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over, 16th flag)",
     "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, carry-over, 19th flag)",
     "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over, 19th flag; planting article, may be exempt)",
-    "YouTube citations unverifiable via proxy in 32 articles: hedge-cutting-technique, overgrown-hedge-renovation, wildlife-hedge-planting, hedge-laying, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel, beech-hedge-pruning, hornbeam, new-hedge-establishment, escallonia, photinia, griselinia, holly, hawthorn, pyracantha, portuguese-laurel, elaeagnus, pittosporum, box-hedge-pruning, cotoneaster, berberis, viburnum-tinus, hedge-gap-repair-gapping-up, hedge-feeding-mulching, forsythia, tamarisk, hedge-tool-care, hedge-propagation-semi-ripe-cuttings (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "YouTube citations unverifiable via proxy in 33 articles: hedge-cutting-technique, overgrown-hedge-renovation, wildlife-hedge-planting, hedge-laying, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel, beech-hedge-pruning, hornbeam, new-hedge-establishment, escallonia, photinia, griselinia, holly, hawthorn, pyracantha, portuguese-laurel, elaeagnus, pittosporum, box-hedge-pruning, cotoneaster, berberis, viburnum-tinus, hedge-gap-repair-gapping-up, hedge-feeding-mulching, forsythia, tamarisk, hedge-tool-care, hedge-propagation-semi-ripe-cuttings, hedge-removal-grubbing-out (proxy blocks YouTube egress; all verified via web-search at generation time)",
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-09-16-content.md"
+  "contentReport": "reports/2026-09-17-content.md"
 }
