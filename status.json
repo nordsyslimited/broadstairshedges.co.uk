@@ -4,8 +4,8 @@
   "issueCount": 6,
   "note": "Morning audit 2026-09-18: clean run, no auto-fixes applied. New article rosa-rugosa-hedge-pruning-broadstairs passes all checks (SEO, JSON-LD, WCA 1981, procedural-first, sitemap). 6 carry-over needs-review items unchanged (2 on broadstairs-conservation-areas, coastal-hedges WCA, hedge-planting-north-foreland WCA, YouTube proxy blocks 34 articles, redirect stubs).",
   "auditReport": "reports/2026-09-18-audit.md",
-  "lastRun": "2026-09-18",
-  "lastRunType": "morning-audit",
+  "lastRun": "2026-09-19",
+  "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
@@ -249,9 +249,16 @@
       "url": "https://broadstairshedges.co.uk/how-to/rosa-rugosa-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Rosa rugosa / beach rose / coastal clifftop hedge)",
       "source": "Royal Horticultural Society, 'Pruning rugosa roses with Ian le Gros of RHS Hyde Hall' (youtube.com/watch?v=BDHe1cYnTYw; egress blocked, web-search verified) + RHS Rosa rugosa plant profile + Thomas Stone MCI Hort blog (thomasdstone.blog) + Pyracantha.co.uk + Hedging Plants Direct + Hedges Direct + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+    },
+    {
+      "date": "2026-09-19",
+      "slug": "lonicera-nitida-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/lonicera-nitida-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: Lonicera nitida / box honeysuckle / box alternative in CT10)",
+      "source": "YouTube Lonicera nitida renovation pruning (Apr 2023, egress blocked, web-search verified) + RHS Lonicera nitida plant profile (AGM) + Hopes Grove Nurseries (Tenterden, Kent) + Hedges Direct + Hedging UK + BBC Gardeners' World + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
     }
   ],
-  "totalArticles": 42,
+  "totalArticles": 43,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
@@ -263,5 +270,5 @@
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-09-18-content.md"
+  "contentReport": "reports/2026-09-19-content.md"
 }
