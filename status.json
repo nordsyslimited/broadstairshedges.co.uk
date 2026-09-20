@@ -4,7 +4,7 @@
   "issueCount": 6,
   "note": "Morning audit 2026-09-19: clean run, no auto-fixes applied. New article lonicera-nitida-hedge-pruning-broadstairs passes all checks (SEO, JSON-LD, WCA 1981 callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged (2 on broadstairs-conservation-areas, coastal-hedges WCA, hedge-planting-north-foreland WCA, YouTube proxy blocks 35 articles, redirect stubs).",
   "auditReport": "reports/2026-09-19-audit.md",
-  "lastRun": "2026-09-19",
+  "lastRun": "2026-09-20",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -256,9 +256,16 @@
       "url": "https://broadstairshedges.co.uk/how-to/lonicera-nitida-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Lonicera nitida / box honeysuckle / box alternative in CT10)",
       "source": "YouTube Lonicera nitida renovation pruning (Apr 2023, egress blocked, web-search verified) + RHS Lonicera nitida plant profile (AGM) + Hopes Grove Nurseries (Tenterden, Kent) + Hedges Direct + Hedging UK + BBC Gardeners' World + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+    },
+    {
+      "date": "2026-09-20",
+      "slug": "field-maple-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/field-maple-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: field maple / Acer campestre / UK native deciduous hedging on Margate Chalk)",
+      "source": "Heathwood Nurseries YouTube 'How to plant a Field Maple Tree or Hedge' (youtube.com/watch?v=7dJ4TrPJB8E, Oct 2017; UK nursery, Shropshire; egress blocked, web-search verified via hedgelink.org.uk and heathwood.co.uk) + RHS Acer campestre plant profile + BBC Gardeners World Magazine + Woodland Trust + Hedging Plants Direct + Ashridge Trees + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
     }
   ],
-  "totalArticles": 43,
+  "totalArticles": 44,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
@@ -270,5 +277,5 @@
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-09-19-content.md"
+  "contentReport": "reports/2026-09-20-content.md"
 }
