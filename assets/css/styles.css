@@ -137,8 +137,10 @@ nav.primary a.active::after { content: ''; position: absolute; left: 0; right: 0
 }
 .btn-primary { background: var(--accent-alt); color: #fff; border-color: var(--accent-alt); }
 .btn-primary:hover { background: var(--accent-alt-deep); border-color: var(--accent-alt-deep); color: #fff; }
-.btn-ghost { background: transparent; color: var(--text); border-color: var(--text); }
-.btn-ghost:hover { background: var(--text); color: var(--surface); }
+.btn-ghost { background: transparent; color: #fff; border-color: #fff; }
+.btn-ghost:hover { background: #fff; color: var(--text); }
+section:not(.hero) .btn-ghost { color: var(--text); border-color: var(--text); }
+section:not(.hero) .btn-ghost:hover { background: var(--text); color: var(--surface); }
 
 /* Sections */
 section { padding: 4rem 0; background: var(--bg); }
