@@ -1,5 +1,5 @@
 {
-  "lastAuditAt": "2026-09-15T08:16:26Z",
+  "lastAuditAt": "2026-09-20T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
   "note": "Morning audit 2026-09-20: 1 auto-fix applied (banned word 'robust' → 'hardy' in field-maple-hedge-pruning-broadstairs.html). New article field-maple-hedge-pruning-broadstairs passes all other checks (SEO, JSON-LD, WCA 1981 callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged (2 on broadstairs-conservation-areas, coastal-hedges WCA, hedge-planting-north-foreland WCA, YouTube proxy blocks 35 articles, redirect stubs).",
