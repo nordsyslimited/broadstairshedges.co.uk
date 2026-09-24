@@ -1,23 +1,23 @@
 {
-  "lastRun": "2026-09-18",
+  "lastRun": "2026-09-24",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-09-18",
-      "slug": "rosa-rugosa-hedge-pruning-broadstairs",
-      "title": "How to Prune a Rosa Rugosa Hedge: Late-Winter Cutback, Hips and Coastal Resilience for Broadstairs CT10",
-      "category": "Coastal species choice and salt-wind resilience",
-      "sourceChannel": "Royal Horticultural Society YouTube channel (youtube.com/watch?v=BDHe1cYnTYw; Ian le Gros, head horticulturalist, RHS Garden Hyde Hall, Essex; UK's principal horticultural authority; direct YouTube egress blocked, source verified via web-search channel-authority heuristic per INGESTION.md)",
-      "topicGap": "Rosa rugosa: no species-specific pruning guide existed despite rugosa being one of the most salt-tolerant and widely planted hedge species in CT10 clifftop gardens. Hard annual cutback technique (loppers, not hedge trimmer; current-year flowering) and suckering management on Margate Chalk are substantively different from all existing species guides."
+      "date": "2026-09-24",
+      "slug": "hedge-propagation-hardwood-cuttings-broadstairs",
+      "title": "How to Propagate Hedge Plants from Hardwood Cuttings: the Winter Method for Hawthorn, Blackthorn and Native Species in Broadstairs CT10",
+      "category": "Propagation",
+      "sourceChannel": "Royal Horticultural Society YouTube channel (youtube.com/watch?v=z_nF-WwfjQM; @The_RHS; RHS: UK's principal horticultural authority, established 1804, 500,000+ members; direct YouTube egress blocked, source verified via web-search channel-authority heuristic per INGESTION.md)",
+      "topicGap": "Hardwood cuttings (November-February, fully dormant deciduous species) are a distinct technique from the existing semi-ripe cuttings article (July-September, semi-hardened evergreen/coastal species). The semi-ripe article explicitly flags hawthorn, hornbeam and beech as better suited to hardwood propagation. This article fills the hardwood method gap for CT10 native species including hawthorn, blackthorn, privet, dogwood and elder, with slit-trench method and chalk-soil specific notes."
     }
   ],
-  "totalHowToArticles": 42,
+  "totalHowToArticles": 46,
   "structuralAngleCompliant": true,
   "wcaCalloutPresent": true,
   "jetRelatedGuidesBlockPresent": true,
   "status": "success",
   "categories": {
-    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs"],
+    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs"],
     "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop", "hedge-gap-repair-gapping-up-broadstairs", "hedge-removal-grubbing-out-broadstairs"],
     "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar"],
     "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs"],
@@ -29,6 +29,6 @@
     "Wildlife and pest management": ["box-blight-box-tree-moth-broadstairs"],
     "Traditional technique": ["hedge-laying-broadstairs-kent"],
     "Annual maintenance": ["hedge-feeding-mulching-broadstairs", "hedge-tool-care-end-of-season-broadstairs"],
-    "Propagation": ["hedge-propagation-semi-ripe-cuttings-broadstairs"]
+    "Propagation": ["hedge-propagation-semi-ripe-cuttings-broadstairs", "hedge-propagation-hardwood-cuttings-broadstairs"]
   }
 }
