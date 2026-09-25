@@ -1,11 +1,11 @@
 {
-  "lastAuditAt": "2026-09-24T08:00:00Z",
+  "lastAuditAt": "2026-09-25T08:12:03Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "note": "Morning audit 2026-09-24: no auto-fixes needed. New article hedge-propagation-hardwood-cuttings-broadstairs passes all checks (SEO, JSON-LD Article pattern, WCA callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged (2 on broadstairs-conservation-areas, coastal-hedges WCA, hedge-planting-north-foreland WCA, YouTube proxy blocks 36 articles, redirect stubs).",
-  "auditReport": "reports/2026-09-24-audit.md",
-  "lastRun": "2026-09-24",
-  "lastRunType": "nightly-content",
+  "note": "Morning audit 2026-09-25: no auto-fixes needed. New article ivy-in-hedges-management-broadstairs passes all checks (SEO, JSON-LD Article pattern, WCA callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged.",
+  "auditReport": "reports/2026-09-25-audit.md",
+  "lastRun": "2026-09-25",
+  "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
@@ -270,19 +270,32 @@
       "url": "https://broadstairshedges.co.uk/how-to/blackthorn-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: blackthorn / Prunus spinosa / native UK deciduous hedging on Margate Chalk)",
       "source": "'Blackthorn Bush | Hedge | Prunus Spinosa | England' YouTube (youtube.com/watch?v=ZSzhxLVqWjg, Jun 2021; egress blocked, web-search verified) + Hedging Plants Direct + Hedges Direct + TH Tree Services + Roots Plants + Woodland Trust + RHS + WCA 1981 s.1 + BoCC5 (Dec 2021) + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+    },
+    {
+      "date": "2026-09-24",
+      "slug": "hedge-propagation-hardwood-cuttings-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/hedge-propagation-hardwood-cuttings-broadstairs.html",
+      "categoryFilled": "Planting technique (propagation sub-topic: hardwood cuttings for hawthorn, blackthorn, privet and dogwood in CT10 winter conditions)",
+      "source": "Heathwood Nurseries YouTube (Oct 2017, egress blocked, web-search verified) + RHS hardwood cuttings guide + Hedges Direct + Hedging Plants Direct + BGS Margate Chalk + WCA 1981 s.1"
+    },
+    {
+      "date": "2026-09-25",
+      "slug": "ivy-in-hedges-management-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/ivy-in-hedges-management-broadstairs.html",
+      "categoryFilled": "Wildlife and the law (ivy management sub-topic: established hedges in CT10)",
+      "source": "RHS YouTube @The_RHS (egress blocked, web-search verified) + RHS ivy advice page (Jan 2026) + RHS hedge and woodland edge habitats + Landscape Juice Network + WCA 1981 s.1 + British Dragonfly Society / Bumblebee Conservation Trust ivy bee phenology + TDC conservation area mapping"
     }
   ],
-  "totalArticles": 45,
+  "totalArticles": 47,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
-    "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format (spaces) rather than compact format established by all other articles; functionally identical but deviates from house style (carry-over, 18th flag)",
-    "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over, 19th flag)",
-    "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, carry-over, 22nd flag)",
-    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over, 22nd flag; planting article, may be exempt)",
+    "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format (spaces) rather than compact format established by all other articles; functionally identical but deviates from house style (carry-over)",
+    "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over; content decision needed)",
+    "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, carry-over)",
+    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over; planting article, may be exempt)",
     "YouTube citations unverifiable via proxy in 36 articles: hedge-cutting-technique, overgrown-hedge-renovation, wildlife-hedge-planting, hedge-laying, leylandii-hedge-reduction, bare-root-hedge-planting, yew-hedge-pruning, privet-hedge-pruning, box-blight, cherry-laurel, beech-hedge-pruning, hornbeam, new-hedge-establishment, escallonia, photinia, griselinia, holly, hawthorn, pyracantha, portuguese-laurel, elaeagnus, pittosporum, box-hedge-pruning, cotoneaster, berberis, viburnum-tinus, hedge-gap-repair-gapping-up, hedge-feeding-mulching, forsythia, tamarisk, hedge-tool-care, hedge-propagation-semi-ripe-cuttings, hedge-removal-grubbing-out, rosa-rugosa, lonicera-nitida, blackthorn-hedge-pruning (proxy blocks YouTube egress; all verified via web-search at generation time)",
-    "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
-    "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
+    "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17)."
   ],
-  "contentReport": "reports/2026-09-21-content.md"
+  "contentReport": "reports/2026-09-25-content.md"
 }
