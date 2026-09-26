@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-09-25T08:12:03Z",
+  "lastAuditAt": "2026-09-26T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "note": "Morning audit 2026-09-25: no auto-fixes needed. New article ivy-in-hedges-management-broadstairs passes all checks (SEO, JSON-LD Article pattern, WCA callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged.",
-  "auditReport": "reports/2026-09-25-audit.md",
+  "note": "Morning audit 2026-09-26: no auto-fixes needed. New article topiary-clipping-broadstairs-box-yew passes all checks (SEO, JSON-LD Article pattern, WCA callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged.",
+  "auditReport": "reports/2026-09-26-audit.md",
   "lastRun": "2026-09-26",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
