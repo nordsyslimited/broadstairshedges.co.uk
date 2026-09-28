@@ -2,9 +2,9 @@
   "lastAuditAt": "2026-09-21T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "note": "Morning audit 2026-09-21: no auto-fixes needed. New article blackthorn-hedge-pruning-broadstairs passes all checks (SEO, JSON-LD, WCA 1981 callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged (2 on broadstairs-conservation-areas, coastal-hedges WCA, hedge-planting-north-foreland WCA, YouTube proxy blocks 36 articles, redirect stubs).",
-  "auditReport": "reports/2026-09-21-audit.md",
-  "lastRun": "2026-09-21",
+  "note": "Morning audit 2026-09-27: no auto-fixes needed. New article pleached-hornbeam-screen-broadstairs passes all checks (SEO, JSON-LD Article pattern, WCA callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged.",
+  "auditReport": "reports/2026-09-27-audit.md",
+  "lastRun": "2026-09-28",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -270,9 +270,44 @@
       "url": "https://broadstairshedges.co.uk/how-to/blackthorn-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: blackthorn / Prunus spinosa / native UK deciduous hedging on Margate Chalk)",
       "source": "'Blackthorn Bush | Hedge | Prunus Spinosa | England' YouTube (youtube.com/watch?v=ZSzhxLVqWjg, Jun 2021; egress blocked, web-search verified) + Hedging Plants Direct + Hedges Direct + TH Tree Services + Roots Plants + Woodland Trust + RHS + WCA 1981 s.1 + BoCC5 (Dec 2021) + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+    },
+    {
+      "date": "2026-09-24",
+      "slug": "hedge-propagation-hardwood-cuttings-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/hedge-propagation-hardwood-cuttings-broadstairs.html",
+      "categoryFilled": "Planting technique (propagation sub-topic: hardwood cuttings for hawthorn, blackthorn, privet and dogwood in CT10 winter conditions)",
+      "source": "Heathwood Nurseries YouTube (Oct 2017, egress blocked, web-search verified) + RHS hardwood cuttings guide + Hedges Direct + Hedging Plants Direct + BGS Margate Chalk + WCA 1981 s.1"
+    },
+    {
+      "date": "2026-09-25",
+      "slug": "ivy-in-hedges-management-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/ivy-in-hedges-management-broadstairs.html",
+      "categoryFilled": "Wildlife and the law (ivy management sub-topic: established hedges in CT10)",
+      "source": "RHS YouTube @The_RHS (egress blocked, web-search verified) + RHS ivy advice page (Jan 2026) + RHS hedge and woodland edge habitats + Landscape Juice Network + WCA 1981 s.1 + British Dragonfly Society / Bumblebee Conservation Trust ivy bee phenology + TDC conservation area mapping"
+    },
+    {
+      "date": "2026-09-26",
+      "slug": "topiary-clipping-broadstairs-box-yew",
+      "url": "https://broadstairshedges.co.uk/how-to/topiary-clipping-broadstairs-box-yew.html",
+      "categoryFilled": "Cutting and shaping technique (topiary sub-topic: box balls, yew cones, formal shapes in CT10 gardens)",
+      "source": "RHS YouTube 'The Art of Topiary: Tool maintenance, plant recommendations and clipping techniques' (Jun 2024, RHS Horticulturist Alessandra Sana; egress blocked, web-search verified) + BBC Gardeners' World Magazine + RHS topiary/hedging advice pages + Fera/APHA box blight Kent distribution + CABI box tree moth UK records"
+    },
+    {
+      "date": "2026-09-27",
+      "slug": "pleached-hornbeam-screen-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/pleached-hornbeam-screen-broadstairs.html",
+      "categoryFilled": "Cutting and shaping technique (pleaching sub-topic: trained hornbeam screen for privacy and windbreak on CT10 coastal plots)",
+      "source": "Garden Ninja (Lee Burkhill) YouTube 'How to Train & Maintain Garden Pleached Trees Year-Round' (July 2025; egress blocked, web-search verified) + RHS pleached walks/tunnels/arbours advice + BBC Gardeners' World 'Complete Guide to Pleached Trees' + Just Pleachy pruning guide + Barcham Trees screening guide + Wykeham Mature Plants hornbeam pleached + BGS Upper Chalk + Met Office Manston"
+    },
+    {
+      "date": "2026-09-28",
+      "slug": "choisya-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/choisya-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Coastal species choice and salt-wind resilience (species-specific sub-topic: Choisya ternata / Mexican orange blossom / sheltered coastal evergreen in CT10)",
+      "source": "Get Gardening! YouTube 'How to Prune Choisya, Pruning Choisya Snow Flurries' (July 2020; egress blocked, web-search verified) + RHS choisya growing guide + RHS AGM plant entry + Horticulture.co.uk choisya pruning guide + Hayloft care guide + HedgeXpress + Coastal Hedging + BGS Upper Chalk + Met Office Manston"
     }
   ],
-  "totalArticles": 45,
+  "totalArticles": 50,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
@@ -284,5 +319,5 @@
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
     "Ingestion pipeline scheduled triggers not yet created on claude.ai/code"
   ],
-  "contentReport": "reports/2026-09-21-content.md"
+  "contentReport": "reports/2026-09-28-content.md"
 }
