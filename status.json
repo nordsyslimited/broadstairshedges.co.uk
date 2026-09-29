@@ -4,7 +4,7 @@
   "issueCount": 6,
   "note": "Morning audit 2026-09-28: clean run, no auto-fixes needed. Choisya article (added 2026-09-28) passes all checks (SEO, JSON-LD Article, WCA callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged.",
   "auditReport": "reports/2026-09-28-audit.md",
-  "lastRun": "2026-09-28",
+  "lastRun": "2026-09-29",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
@@ -305,9 +305,16 @@
       "url": "https://broadstairshedges.co.uk/how-to/choisya-hedge-pruning-broadstairs.html",
       "categoryFilled": "Coastal species choice and salt-wind resilience (species-specific sub-topic: Choisya ternata / Mexican orange blossom / sheltered coastal evergreen in CT10)",
       "source": "Get Gardening! YouTube 'How to Prune Choisya, Pruning Choisya Snow Flurries' (July 2020; egress blocked, web-search verified) + RHS choisya growing guide + RHS AGM plant entry + Horticulture.co.uk choisya pruning guide + Hayloft care guide + HedgeXpress + Coastal Hedging + BGS Upper Chalk + Met Office Manston"
+    },
+    {
+      "date": "2026-09-29",
+      "slug": "lavender-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/lavender-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Coastal species choice and salt-wind resilience (species-specific sub-topic: Lavandula angustifolia / English lavender / low edging hedge on Margate Chalk in sheltered CT10 gardens)",
+      "source": "Lavender World (lavenderworld.co.uk, Terrington, North Yorkshire, Companies House 04177827) YouTube 'How to prune Woody Lavender: Top Tips!!' (May 2021; egress blocked, web-search verified) + Lavender World 'How to build a Lavender Hedge' (YouTube; egress blocked, web-search verified) + RHS lavender growing guide + RHS AGM plant entries (Hidcote, Munstead) + Hopes Grove Nurseries lavender pruning guide + Best4Hedging lavender hedging guide + BGS Upper Chalk + Met Office Manston"
     }
   ],
-  "totalArticles": 50,
+  "totalArticles": 51,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
@@ -318,5 +325,5 @@
     "YouTube citations unverifiable via proxy in 37 articles (proxy blocks YouTube egress; all verified via web-search at generation time)",
     "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17)."
   ],
-  "contentReport": "reports/2026-09-28-content.md"
+  "contentReport": "reports/2026-09-29-content.md"
 }
