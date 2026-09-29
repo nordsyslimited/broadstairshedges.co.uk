@@ -1,15 +1,15 @@
 {
-  "lastAuditAt": "2026-09-28T08:00:00Z",
+  "lastAuditAt": "2026-09-29T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 6,
-  "note": "Morning audit 2026-09-28: clean run, no auto-fixes needed. Choisya article (added 2026-09-28) passes all checks (SEO, JSON-LD Article, WCA callout, procedural-first, sitemap). 6 carry-over needs-review items unchanged.",
-  "auditReport": "reports/2026-09-28-audit.md",
+  "note": "Morning audit 2026-09-29: auto-fixed 16 stale sitemap lastmod dates (hub/service pages frozen at Aug 2026, updated to match git log). 6 carry-over needs-review items unchanged. Lavender article (added today) passes all checks.",
+  "auditReport": "reports/2026-09-29-audit.md",
   "lastRun": "2026-09-29",
-  "lastRunType": "nightly-content",
+  "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
-  "sitemapLastmod": "current",
+  "sitemapLastmod": "corrected-2026-09-29",
   "ingestionTriggersCreated": false,
   "articlesShipped": [
     {
