@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-09-29T08:00:00Z",
+  "lastAuditAt": "2026-09-30T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 6,
-  "note": "Morning audit 2026-09-29: auto-fixed 16 stale sitemap lastmod dates (hub/service pages frozen at Aug 2026, updated to match git log). 6 carry-over needs-review items unchanged. Lavender article (added today) passes all checks.",
-  "auditReport": "reports/2026-09-29-audit.md",
+  "issueCount": 5,
+  "note": "Morning audit 2026-09-30: auto-fixed 15 stale sitemap lastmod dates (real content changes since last update; bulk footer-link commit 2026-09-20 excluded). 5 carry-over needs-review items (WCA callouts + noindex redirect stubs). Thuja article (added today) passes all checks.",
+  "auditReport": "reports/2026-09-30-audit.md",
   "lastRun": "2026-09-30",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
