@@ -1,11 +1,11 @@
 {
-  "lastAuditAt": "2026-10-01T08:00:00Z",
+  "lastAuditAt": "2026-10-02T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 5,
-  "note": "Morning audit 2026-10-01: clean run, no auto-fixes applied. Root-ball article (added today) passes all checks. 5 carry-over needs-review items unchanged (WCA callouts on pre-existing hand-authored articles + noindex redirect stubs).",
-  "auditReport": "reports/2026-09-30-audit.md",
-  "lastRun": "2026-10-01",
-  "lastRunType": "nightly-content",
+  "issueCount": 7,
+  "note": "Morning audit 2026-10-02: no auto-fixes applied, all auto-fix checks clean. One carry-over resolved: coastal-hedges WCA callout confirmed present (prior grep missed HTML entity form). 7 needs-review items: 5 carry-overs unchanged, 2 new low-urgency WCA-arguably-exempt findings.",
+  "auditReport": "reports/2026-10-02-audit.md",
+  "lastRun": "2026-10-02",
+  "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
@@ -326,18 +326,29 @@
       "url": "https://broadstairshedges.co.uk/how-to/root-ball-hedge-planting-broadstairs.html",
       "categoryFilled": "Planting technique on Margate Chalk (sub-topic: root ball hedging as a distinct method from bare-root; instant-screening option for CT10 holiday-let owners, conservation-area gardens and clifftop properties; yew, hornbeam and beech on Thanet chalk)",
       "source": "Hedges Direct (hedgesdirect.co.uk; UK hedging supplier; YouTube channel UCn6O_mJEZGk4l71lOCiVAkg) YouTube 'Hedges Direct Supply English Yew Root Balls To Radio Presenter Sam Pinkham' (NyWSAcLiYUA; egress blocked, web-search verified) + 'What's the difference? Bare root, root ball, pot grown & cell grown Hedging Plants' (7TQdLLxhVHo; egress blocked, web-search verified) + 'How To Plant A Root Ball Hedge' (u_jSdxvx46c; egress blocked, web-search verified) + Ashridge Trees rootballed yew planting guide + Paramount Plants (Crews Hill, Enfield) root ball planting guide + Hedges Direct planting advice + RHS Hedges: Planting + BGS Upper Chalk + Met Office Manston + WCA 1981 s.1 + TCPA 1990 s.211"
+    },
+    {
+      "date": "2026-10-02",
+      "slug": "hebe-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/hebe-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: Hebe / coastal evergreen in CT10)",
+      "source": "Nightly ingestion 2026-10-02"
     }
   ],
-  "totalArticles": 54,
+  "totalArticles": 55,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
     "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format (spaces) rather than compact format established by all other articles; functionally identical but deviates from house style (carry-over)",
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over; content decision needed)",
-    "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, carry-over)",
     "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over; planting article, may be exempt)",
-    "YouTube citations unverifiable via proxy in 37 articles (proxy blocks YouTube egress; all verified via web-search at generation time)",
-    "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17)."
+    "YouTube citations unverifiable via proxy in 37+ articles (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
+    "high-hedges-neighbour-law-broadstairs.html has no WCA 1981 reference (new finding; neighbour-dispute article focused on High Hedges Act 2003, arguably exempt by topic)",
+    "hedge-tool-care-end-of-season-broadstairs.html has no WCA 1981 reference (new finding; tool-maintenance article with no cutting operation, arguably exempt)"
+  ],
+  "resolvedIssues": [
+    "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference confirmed present; prior audit grep missed HTML entity form (Wildlife &amp; Countryside Act). Resolved 2026-10-02."
   ],
   "contentReport": "reports/2026-10-01-content.md"
 }
