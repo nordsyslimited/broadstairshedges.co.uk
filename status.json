@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-10-02T08:00:00Z",
+  "lastAuditAt": "2026-10-03T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
-  "note": "Morning audit 2026-10-02: no auto-fixes applied, all auto-fix checks clean. One carry-over resolved: coastal-hedges WCA callout confirmed present (prior grep missed HTML entity form). 7 needs-review items: 5 carry-overs unchanged, 2 new low-urgency WCA-arguably-exempt findings.",
-  "auditReport": "reports/2026-10-02-audit.md",
+  "note": "Morning audit 2026-10-03: 1 auto-fix applied (banned word 'leverage' in storm-damaged-hedge-repair-broadstairs.html replaced with 'wind load'). 7 needs-review items, all carry-overs from prior audits — no new issues. 2 new articles (hebe, storm-damaged) pass all SEO, JSON-LD, WCA-1981, structural-angle and tone checks.",
+  "auditReport": "reports/2026-10-03-audit.md",
   "lastRun": "2026-10-03",
   "lastRunType": "nightly-content",
   "emDashStatus": "clean",
