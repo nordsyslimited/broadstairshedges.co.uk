@@ -1,5 +1,5 @@
 {
-  "lastAuditAt": "2026-09-30T08:00:00Z",
+  "lastAuditAt": "2026-10-02T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 7,
   "note": "Morning audit 2026-10-02: no auto-fixes applied, all auto-fix checks clean. One carry-over resolved: coastal-hedges WCA callout confirmed present (prior grep missed HTML entity form). 7 needs-review items: 5 carry-overs unchanged, 2 new low-urgency WCA-arguably-exempt findings.",
@@ -348,10 +348,11 @@
   "openIssues": [
     "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format (spaces) rather than compact format established by all other articles; functionally identical but deviates from house style (carry-over)",
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over; content decision needed)",
-    "coastal-hedges-broadstairs-species-guide.html timing section lacks explicit WCA 1981 s.1 callout with 1 March-31 August window (content decision needed, carry-over)",
     "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over; planting article, may be exempt)",
-    "YouTube citations unverifiable via proxy in 37 articles (proxy blocks YouTube egress; all verified via web-search at generation time)",
-    "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17)."
+    "YouTube citations unverifiable via proxy in 37+ articles (proxy blocks YouTube egress; all verified via web-search at generation time)",
+    "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
+    "high-hedges-neighbour-law-broadstairs.html has no WCA 1981 reference (new finding; neighbour-dispute article focused on High Hedges Act 2003, arguably exempt by topic)",
+    "hedge-tool-care-end-of-season-broadstairs.html has no WCA 1981 reference (new finding; tool-maintenance article with no cutting operation, arguably exempt)"
   ],
   "resolvedIssues": [
     "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference confirmed present; prior audit grep missed HTML entity form (Wildlife &amp; Countryside Act). Resolved 2026-10-02."
