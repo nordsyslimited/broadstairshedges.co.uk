@@ -1,25 +1,25 @@
 {
-  "lastRun": "2026-10-02",
+  "lastRun": "2026-10-04",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-10-02",
-      "slug": "hebe-hedge-pruning-broadstairs",
-      "title": "How to Prune a Hebe Hedge: Timing, the Old-Wood Rule and Coastal Varieties for Broadstairs CT10",
-      "category": "Coastal species choice and salt-wind resilience",
-      "sourceChannel": "Get Gardening (YouTube, UK), 'How To Rejuvenate / Prune A Hebe, How To Cut Back A Hebe' (youtube.com/watch?v=eDTp86MFQvE; direct YouTube egress blocked, source verified via web-search channel-authority heuristic per INGESTION.md)",
-      "topicGap": "No existing article covered Hebe (shrubby veronica) pruning despite hebes being widely grown throughout Broadstairs, St Peter's and the Viking Bay terraces. The old-wood rule (Hebe cannot regenerate from leafless old wood, unlike yew/laurel/box) is the most common cause of pruning failure in CT10 gardens and a genuinely non-trivial procedural angle that differentiates this article from generic hebe content."
+      "date": "2026-10-04",
+      "slug": "hedge-winter-check-broadstairs-october",
+      "title": "How to Prepare Your Hedge for Winter in Broadstairs: the October Checklist for CT10",
+      "category": "Seasonal timing and nesting-season law",
+      "sourceChannel": "Gardeners' World YouTube channel (@GardenersWorld), hedge trimming and autumn garden care content (youtube.com/@GardenersWorld; direct YouTube egress blocked, channel authority confirmed via gardenersworld.com, Thompson & Morgan blog 'Ten top YouTube gardening channels' and feedspot.com UK gardening YouTube roundup)",
+      "topicGap": "The 'Seasonal timing and nesting-season law' category had only one article (when-to-cut-hedges-broadstairs-calendar). No article covered the October-November pre-winter preparation sequence: last-cut timing by species, mulching on Margate chalk, stake checks on new plantings, gap assessment for bare-root season, and conservation-area notification deadlines before the northeast storm season begins."
     }
   ],
-  "totalHowToArticles": 55,
+  "totalHowToArticles": 57,
   "structuralAngleCompliant": true,
   "wcaCalloutPresent": true,
   "jetRelatedGuidesBlockPresent": true,
   "status": "success",
   "categories": {
     "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs"],
-    "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop", "hedge-gap-repair-gapping-up-broadstairs", "hedge-removal-grubbing-out-broadstairs"],
-    "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar"],
+    "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop", "hedge-gap-repair-gapping-up-broadstairs", "hedge-removal-grubbing-out-broadstairs", "storm-damaged-hedge-repair-broadstairs"],
+    "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar", "hedge-winter-check-broadstairs-october"],
     "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs", "hebe-hedge-pruning-broadstairs", "choisya-hedge-pruning-broadstairs", "lavender-hedge-pruning-broadstairs", "thuja-western-red-cedar-hedge-pruning-broadstairs"],
     "Conservation-area and section-211 paperwork": ["broadstairs-conservation-areas-hedge-rules", "apply-permission-prune-trees-broadstairs-conservation-area"],
     "Neighbour law and high-hedge disputes": ["high-hedges-neighbour-law-broadstairs"],
