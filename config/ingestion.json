@@ -7,7 +7,7 @@
   "ingestion": {
     "description": "Nightly: finds UK hedge-care sources (video or written), biased toward genuinely step-by-step content, and creates a procedural-first How-To article for each, matching Thanet/Broadstairs species, coastal conditions and conservation-area rules. Morning: audits the full site, including structural compliance with the procedural-first house style.",
     "structuralAngle": "procedural-first",
-    "structuralAngleNote": "Every article must lead with a numbered Steps/Method section immediately after the lede, before any scene-setting. See TEMPLATES/how-to.md section 0. This is the ring-wide differentiator versus sandwichhedges and the other 7 sister sites.",
+    "structuralAngleNote": "Every article must lead with a numbered Steps/Method section immediately after the lede, before any scene-setting. See TEMPLATES/how-to.md section 0. This is this site's own differentiator. Never mention other sites, a network, a ring or common ownership in published copy.",
     "region": "UK",
     "minLikes": 100,
     "minViews": null,

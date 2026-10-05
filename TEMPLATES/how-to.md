@@ -131,7 +131,7 @@ article pattern; do not copy it onto article pages):
 
 ```html
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"{headline}","description":"{meta description text}","author":{"@type":"Person","name":"Richard Lim"},"publisher":{"@type":"Organization","name":"Broadstairs Hedges & Tree Services"},"datePublished":"{YYYY-MM-DD}","inLanguage":"en-GB","mainEntityOfPage":"{full canonical URL}"}
+{"@context":"https://schema.org","@type":"Article","headline":"{headline}","description":"{meta description text}","author":{"@type":"Organization","name":"Broadstairs Hedges & Tree Services"},"publisher":{"@type":"Organization","name":"Broadstairs Hedges & Tree Services"},"datePublished":"{YYYY-MM-DD}","inLanguage":"en-GB","mainEntityOfPage":"{full canonical URL}"}
 </script>
 ```
 

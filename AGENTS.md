@@ -33,8 +33,7 @@ different towns, deliberately different content angles per site (see
   mark — copy verbatim, don't regenerate.
 - Fonts: Libre Caslon Text (display/headings) + Source Sans 3 (body), both
   via Google Fonts.
-- Business identity: "Broadstairs Hedges & Tree Services", run by "Richard
-  Lim" (first-person sole-operator persona used throughout site copy —
+- Business identity: "Broadstairs Hedges & Tree Services", first-person sole-trader voice used throughout site copy —
   about.html, article bylines). Tagline: "The considered clip. A proper
   job, or you pay nothing." Topbar line: "Considered work above Viking
   Bay." 5%-off-for-pensioners pill in the topbar.
@@ -106,7 +105,7 @@ articles.
   site (sandwichhedges, canterburyhedges, etc.) — each site's
   differentiated structural angle is a deliberate SEO decision, not an
   oversight to "fix" into consistency.
-- Do not add author bylines beyond the existing "Richard Lim" persona
+- Do not add author bylines beyond any personal byline; the JSON-LD author is the site Organization
   already in use across the site.
 - Do not silently upgrade article-level JSON-LD to the `@graph`/
   `BreadcrumbList` pattern as a side effect of a content-ingestion run —
@@ -129,3 +128,7 @@ See `INGESTION.md` for the nightly content-ingestion pipeline shape,
   set up separately from this repo, same shape as sandwichhedges.
 - **Infra (deploy pipeline, hosting, DNS):** Webster.
 - **Owner-of-record:** Richard / NordSys.
+
+## Published-copy rule (Richard 2026-10-05)
+
+Never write the parent company name, owner/founder/operator/"run by"/"owned by" statements, company or registration lines, or any reference to a network, ring, sister sites or common ownership into any public page (footer, about, areas, how-to, llms.txt, JSON-LD). Footer = site name, copyright year, privacy and sitemap links, contact. JSON-LD author = the site Organization, never a named person. Editorial links to a neighbouring town's site are fine if they do not describe a network.
