@@ -237,3 +237,7 @@ wildlife & the law, conservation-area rules, coastal species/planting,
 neighbour law, clifftop reduction, holiday-let kerb-appeal. New topics
 should fill a genuine gap in that list, expressed with a procedural
 "how do I actually do X" framing given this site's structural angle.
+
+## Source lines: no process wording (do not undo)
+
+Published source credits must read like an honest reference list, never like a description of how the page was produced. Never write any of these on a public page: "egress", "proxy", "blocked", "generation environment", "INGESTION.md", "AGENTS.md", "web search", "cross-referenced via", "confirmed to exist via". If a source could not be opened, simply leave it out of the list or cite a source you did read. The only acceptable wording is plain, e.g. "checked against current sources". Audits must flag and rewrite any page that contains these phrases.
