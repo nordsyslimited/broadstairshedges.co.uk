@@ -1,6 +1,7 @@
 {
-  "lastRun": "2026-10-05",
+  "lastRun": "2026-10-08",
   "lastRunType": "nightly-content",
+  "contentReport": "reports/2026-10-08-content.md",
   "articlesShipped": [
     {
       "date": "2026-09-25",
@@ -26,15 +27,24 @@
       "sourceChannel": "RHS YouTube (@TheRHS) — channel-authority heuristic, YouTube egress blocked",
       "youtubeEgressBlocked": true,
       "topicGap": "Honey fungus is the most common cause of unexplained progressive hedge death in UK gardens. No existing article covered it beyond the box-blight piece. Strongly procedural (identify toadstools, bark peel test, bootlace check, removal, barrier, replant), locally specific to CT10 given old orchard/market-garden history in St Peter's and Reading Street, and chalk-soil constraints on barrier depth."
+    },
+    {
+      "date": "2026-10-08",
+      "slug": "hazel-hedge-pruning-broadstairs",
+      "title": "How to Prune and Coppice a Hazel Hedge in Broadstairs: Annual Trim vs Coppice Rotation for CT10 Native Hedgerows",
+      "category": "Native species / Cutting and shaping technique",
+      "sourceChannel": "'Coppicing Hazel, Why, When & How' (youtube.com/watch?v=Vgob7Ta1BMU; UK coppicing content confirmed via web-search cross-reference; direct YouTube egress blocked per INGESTION.md; coppicing is a definitively British traditional woodland-management practice confirmed via Forestry Commission, National Trust and Woodland Trust sources)",
+      "youtubeEgressBlocked": true,
+      "topicGap": "Hazel (Corylus avellana) is a common native hedgerow species in the Kent countryside and a component of CT10 wildlife hedges, with a management regime distinct from annual-clip species. No existing article covered hazel. The coppice-rotation angle is structurally differentiated from all 59 existing articles and directly relevant to the Thanet chalk landscape context."
     }
   ],
-  "totalHowToArticles": 60,
+  "totalHowToArticles": 61,
   "structuralAngleCompliant": true,
   "wcaCalloutPresent": true,
   "jetRelatedGuidesBlockPresent": true,
   "status": "success",
   "categories": {
-    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs"],
+    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs", "hazel-hedge-pruning-broadstairs"],
     "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop", "hedge-gap-repair-gapping-up-broadstairs", "hedge-removal-grubbing-out-broadstairs", "storm-damaged-hedge-repair-broadstairs"],
     "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar", "hedge-winter-check-broadstairs-october"],
     "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs", "hebe-hedge-pruning-broadstairs", "choisya-hedge-pruning-broadstairs", "lavender-hedge-pruning-broadstairs", "thuja-western-red-cedar-hedge-pruning-broadstairs"],
