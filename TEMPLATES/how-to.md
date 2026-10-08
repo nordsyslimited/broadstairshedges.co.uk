@@ -1,5 +1,13 @@
 # how-to article contract: broadstairshedges.co.uk
 
+## Analytics, fonts and cookies (do not undo)
+
+- This site has NO Google Analytics, NO gtag or dataLayer snippet, NO Google Fonts links and NO cookie banner or cookie-consent script. They were removed deliberately on 8 October 2026. Do not add any of them back, on any page, template, generator or sample snippet, and do not add any other third-party script, font, image host or tracker.
+- Visit counting is NordAnalytics (first-party, cookieless). Every page loads `<script src="/assets/js/analytics.js?v=20261008" defer></script>` as the last element before `</body>`. That one file adds the footer links ("How we count visits", "Don't count my visits") and loads the counter. Copy the head, the footer and that script line from an existing page unchanged. Every new page must include it (redirect stubs with a meta refresh excepted).
+- Fonts are self-hosted: pages link `<link rel="stylesheet" href="/assets/fonts.css">` where a Google Fonts link used to be. Copy it from an existing page.
+- Audits: do NOT flag the absence of Google Analytics, a GA4 ID, gtag, consent mode or a cookie banner, and do NOT restore any of them. Older reports and notes that mention GA4 are out of date. DO flag and remove any page containing googletagmanager.com, gtag(, dataLayer, fonts.googleapis.com, fonts.gstatic.com or cookie-consent, and flag any non-redirect page missing the analytics.js script line.
+- `/privacy.html` carries the approved "Website statistics" section (id `website-statistics`). Keep its wording unchanged.
+
 This is the authoritative rulebook for every `how-to/*.html` article on this
 site, hand-authored or nightly-generated. Read this before writing or editing
 any guide. It is derived from the 9 hand-authored articles already live,
@@ -62,13 +70,13 @@ Copy the `<head>` block structure from any existing article
 - `<meta name="robots" content="index,follow">` (add
   `,max-image-preview:large` if the article has real photography, matching
   the calendar article).
-- Google Fonts preconnect + `Libre Caslon Text` (display/headings) +
+- self-hosted fonts (/assets/fonts.css) + `Libre Caslon Text` (display/headings) +
   `Source Sans 3` (body) stylesheet link.
 - `<link rel="stylesheet" href="/assets/css/styles.css">`.
 - The inline SVG favicon data URI (navy `#1e2f45` background, gold
   `#b58a44` hedge-arc mark): copy verbatim from any existing page, do not
   regenerate.
-- GA4: `gtag.js?id=G-MXMY0WM04D`, standard config snippet: copy verbatim.
+- Analytics: none from Google. NordAnalytics (first-party, cookieless) is loaded by `/assets/js/analytics.js`, included at the end of every page (see the rule at the top of this file).
 - `<meta property="og:type" content="article">`, `og:title`, `og:description`,
   `og:url`.
 - `<meta name="theme-color" content="#1e2f45"/>` **must be included** on

@@ -1,5 +1,13 @@
 # Agent / Contributor Notes — broadstairshedges.co.uk
 
+## Analytics, fonts and cookies (do not undo)
+
+- This site has NO Google Analytics, NO gtag or dataLayer snippet, NO Google Fonts links and NO cookie banner or cookie-consent script. They were removed deliberately on 8 October 2026. Do not add any of them back, on any page, template, generator or sample snippet, and do not add any other third-party script, font, image host or tracker.
+- Visit counting is NordAnalytics (first-party, cookieless). Every page loads `<script src="/assets/js/analytics.js?v=20261008" defer></script>` as the last element before `</body>`. That one file adds the footer links ("How we count visits", "Don't count my visits") and loads the counter. Copy the head, the footer and that script line from an existing page unchanged. Every new page must include it (redirect stubs with a meta refresh excepted).
+- Fonts are self-hosted: pages link `<link rel="stylesheet" href="/assets/fonts.css">` where a Google Fonts link used to be. Copy it from an existing page.
+- Audits: do NOT flag the absence of Google Analytics, a GA4 ID, gtag, consent mode or a cookie banner, and do NOT restore any of them. Older reports and notes that mention GA4 are out of date. DO flag and remove any page containing googletagmanager.com, gtag(, dataLayer, fonts.googleapis.com, fonts.gstatic.com or cookie-consent, and flag any non-redirect page missing the analytics.js script line.
+- `/privacy.html` carries the approved "Website statistics" section (id `website-statistics`). Keep its wording unchanged.
+
 Ground rules for any future AI assistant or human contributor working on
 this site. This site is one of 9 sister domains in the NordSys "hedge ring"
 (broadstairs / canterbury / deal / dover / margate / ramsgate / thanet /
@@ -32,7 +40,7 @@ different towns, deliberately different content angles per site (see
   neutrals. Favicon: inline SVG data URI, navy circle with a gold hedge-arc
   mark — copy verbatim, don't regenerate.
 - Fonts: Libre Caslon Text (display/headings) + Source Sans 3 (body), both
-  via Google Fonts.
+  via self-hosted fonts (/assets/fonts.css).
 - Business identity: "Broadstairs Hedges & Tree Services", first-person sole-trader voice used throughout site copy —
   about.html, article bylines). Tagline: "The considered clip. A proper
   job, or you pay nothing." Topbar line: "Considered work above Viking
@@ -68,7 +76,7 @@ Every page must carry:
 
 - Unique `<title>`, `<meta name="description">`, `<link rel="canonical">`.
 - Open Graph (`og:image` 1200x630, `og:type`, `og:title`, `og:description`,
-  `og:url`) + the standard GA4 snippet (`G-MXMY0WM04D`).
+  `og:url`) + the NordAnalytics script line (no Google Analytics).
 - `<html lang="en-GB">`.
 - `<meta name="robots" content="index,follow">` (add
   `,max-image-preview:large` where the page has real photography).
@@ -99,7 +107,7 @@ articles.
 
 - No frameworks (React, Vue, Tailwind, Next, etc.).
 - No build step. No npm dependencies.
-- No tracking scripts beyond the existing GA4 tag without asking first.
+- No tracking scripts and no third-party fonts or images. Visit counting is the NordAnalytics script already on every page; do not add anything else.
 - No third-party chat widgets.
 - Do not clone the visual style or article structure of a sister ring
   site (sandwichhedges, canterburyhedges, etc.) — each site's
