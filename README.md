@@ -21,8 +21,8 @@ Plain static HTML. No framework. No build step.
 ## Deploy
 Static HTML deploy — addon domain on Krystal 3dbee cPanel, FTPS via UAPI-provisioned account. Contact form uses `contact-submit.php` -> Resend API.
 
-## GA4
-GA4 property ID placeholder: `G-BROADSTAIRS-PLACEHOLDER`. Swap in the real ID post-launch.
+## Analytics
+No Google Analytics. Visit counting is NordAnalytics (first-party, cookieless): `/assets/js/analytics.js`, included at the end of every page.
 
 ## Content sources
 Broadstairs research brief — see project handoff (chalk geology, Thanet Coast SSSI, three CAs, coastal species matrix, herring-gull nesting law, neighbourhoods, seasonality).
