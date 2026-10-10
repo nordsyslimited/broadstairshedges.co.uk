@@ -1,14 +1,23 @@
 {
-  "lastRun": "2026-10-09",
+  "lastRun": "2026-10-10",
   "lastRunType": "nightly-content",
-  "contentReport": "reports/2026-10-09-content.md",
+  "contentReport": "reports/2026-10-10-content.md",
   "articlesShipped": [
+    {
+      "date": "2026-10-10",
+      "slug": "euonymus-hedge-pruning-broadstairs",
+      "title": "How to Prune a Euonymus Hedge: Timing, Secateurs and Coastal Notes for Broadstairs CT10",
+      "category": "Coastal species / Cutting and shaping technique",
+      "sourceChannel": "Royal Horticultural Society, 'How to grow Euonymus' (rhs.org.uk/plants/euonymus/growing-guide); Hedging Plants Direct, 'Euonymus Hedging Care Guide' (hedgingplantsdirect.co.uk); horticulture.co.uk, 'Euonymus Pruning' (horticulture.co.uk/euonymus/pruning/); written-source authority heuristic applied.",
+      "youtubeEgressBlocked": true,
+      "topicGap": "Euonymus japonicus is named in the existing calendar article as a coastal evergreen in the same two-cut group as Griselinia, Escallonia, Olearia and Elaeagnus, but had no dedicated pruning guide. It is the most common box replacement in CT10 chalk-garden estates and a front-boundary hedge species throughout Broadstairs Victorian terraces. The secateurs-over-trimmer requirement is a specific procedural differentiator not covered in the general hedge-cutting-technique article."
+    },
     {
       "date": "2026-10-09",
       "slug": "dead-hedge-building-broadstairs",
       "title": "How to Build a Dead Hedge in Broadstairs: Turning Autumn Prunings into Wildlife Habitat for CT10 Gardens",
       "category": "Traditional technique",
-      "sourceChannel": "Woodlands.co.uk, 'How to Make a Dead Hedge' (woodlands.co.uk/tv/2025/03/how-to-make-a-dead-hedge/, March 2025); supplemented by RSPB, RSPCA, RHS and Scottish Wildlife Trust written guides; YouTube egress blocked per INGESTION.md, channel-authority heuristic applied (Woodlands.co.uk: established UK woodland management site, Holt Copse Volunteers)",
+      "sourceChannel": "Woodlands.co.uk, 'How to Make a Dead Hedge' (woodlands.co.uk/tv/2025/03/how-to-make-a-dead-hedge/, March 2025); supplemented by RSPB, RSPCA, RHS and Scottish Wildlife Trust written guides; channel-authority heuristic applied (Woodlands.co.uk: established UK woodland management site, Holt Copse Volunteers)",
       "youtubeEgressBlocked": true,
       "topicGap": "Dead hedge construction from autumn prunings not covered by any existing article. 'Traditional technique' category had only one article (hedge-laying). October timing is directly relevant: nesting season closed 31 August, brash from autumn trims available, bare-root season imminent. Strong Margate Chalk specificity (stake preparation on thin topsoil over chalk), clifftop windbreak angle and CT10 wildlife habitat context (wrens, slow worms, hedgehogs)."
     },
@@ -47,7 +56,7 @@
       "topicGap": "Hazel (Corylus avellana) is a common native hedgerow species in the Kent countryside and a component of CT10 wildlife hedges, with a management regime distinct from annual-clip species. No existing article covered hazel. The coppice-rotation angle is structurally differentiated from all 59 existing articles and directly relevant to the Thanet chalk landscape context."
     }
   ],
-  "totalHowToArticles": 62,
+  "totalHowToArticles": 63,
   "structuralAngleCompliant": true,
   "wcaCalloutPresent": true,
   "jetRelatedGuidesBlockPresent": true,
@@ -56,7 +65,7 @@
     "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs", "hazel-hedge-pruning-broadstairs"],
     "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop", "hedge-gap-repair-gapping-up-broadstairs", "hedge-removal-grubbing-out-broadstairs", "storm-damaged-hedge-repair-broadstairs"],
     "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar", "hedge-winter-check-broadstairs-october"],
-    "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs", "hebe-hedge-pruning-broadstairs", "choisya-hedge-pruning-broadstairs", "lavender-hedge-pruning-broadstairs", "thuja-western-red-cedar-hedge-pruning-broadstairs"],
+    "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs", "hebe-hedge-pruning-broadstairs", "choisya-hedge-pruning-broadstairs", "lavender-hedge-pruning-broadstairs", "thuja-western-red-cedar-hedge-pruning-broadstairs", "euonymus-hedge-pruning-broadstairs"],
     "Conservation-area and section-211 paperwork": ["broadstairs-conservation-areas-hedge-rules", "apply-permission-prune-trees-broadstairs-conservation-area"],
     "Neighbour law and high-hedge disputes": ["high-hedges-neighbour-law-broadstairs"],
     "Clifftop/SSSI-edge work and herring-gull protocol": ["herring-gull-nesting-cliff-hedges-broadstairs"],
