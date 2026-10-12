@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-10-11",
+  "lastRun": "2026-10-12",
   "lastRunType": "nightly-content",
-  "contentReport": "reports/2026-10-11-content.md",
+  "contentReport": "reports/2026-10-12-content.md",
   "articlesShipped": [
     {
       "date": "2026-10-11",
@@ -56,6 +56,15 @@
       "topicGap": "Honey fungus is the most common cause of unexplained progressive hedge death in UK gardens. No existing article covered it beyond the box-blight piece. Strongly procedural (identify toadstools, bark peel test, bootlace check, removal, barrier, replant), locally specific to CT10 given old orchard/market-garden history in St Peter's and Reading Street, and chalk-soil constraints on barrier depth."
     },
     {
+      "date": "2026-10-12",
+      "slug": "aucuba-japonica-spotted-laurel-pruning-broadstairs",
+      "title": "How to Prune a Spotted Laurel Hedge: Secateurs, Timing and Renovation for Broadstairs Gardens",
+      "category": "Cutting technique / Shade species",
+      "sourceChannel": "Katie Rushworth, 'How to prune a shrub' (youtube.com/watch?v=6uiUuV9lZ3U; ITV Love Your Garden presenter, Leeds, UK; YouTube egress blocked, creator verified via web search)",
+      "youtubeEgressBlocked": true,
+      "topicGap": "Aucuba japonica (spotted laurel) had no existing article. The species is widely planted in shaded Broadstairs gardens. Topic fills a genuine procedural gap: secateurs-only technique, female-plant berry-timing rules, and the hard renovation approach differ from cherry laurel and portuguese laurel in important ways."
+    },
+    {
       "date": "2026-10-08",
       "slug": "hazel-hedge-pruning-broadstairs",
       "title": "How to Prune and Coppice a Hazel Hedge in Broadstairs: Annual Trim vs Coppice Rotation for CT10 Native Hedgerows",
@@ -71,7 +80,7 @@
   "jetRelatedGuidesBlockPresent": true,
   "status": "success",
   "categories": {
-    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs", "hazel-hedge-pruning-broadstairs"],
+    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs", "hazel-hedge-pruning-broadstairs", "aucuba-japonica-spotted-laurel-pruning-broadstairs"],
     "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop", "hedge-gap-repair-gapping-up-broadstairs", "hedge-removal-grubbing-out-broadstairs", "storm-damaged-hedge-repair-broadstairs"],
     "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar", "hedge-winter-check-broadstairs-october"],
     "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs", "hebe-hedge-pruning-broadstairs", "choisya-hedge-pruning-broadstairs", "lavender-hedge-pruning-broadstairs", "thuja-western-red-cedar-hedge-pruning-broadstairs", "euonymus-hedge-pruning-broadstairs", "olearia-hedge-pruning-broadstairs"],
@@ -84,6 +93,7 @@
     "Traditional technique": ["hedge-laying-broadstairs-kent", "dead-hedge-building-broadstairs"],
     "Annual maintenance": ["hedge-feeding-mulching-broadstairs", "hedge-tool-care-end-of-season-broadstairs"],
     "Propagation": ["hedge-propagation-semi-ripe-cuttings-broadstairs", "hedge-propagation-hardwood-cuttings-broadstairs"],
-    "Advanced shaping": ["topiary-clipping-broadstairs-box-yew", "pleached-hornbeam-screen-broadstairs"]
+    "Advanced shaping": ["topiary-clipping-broadstairs-box-yew", "pleached-hornbeam-screen-broadstairs"],
+    "Shade species": ["aucuba-japonica-spotted-laurel-pruning-broadstairs"]
   }
 }
