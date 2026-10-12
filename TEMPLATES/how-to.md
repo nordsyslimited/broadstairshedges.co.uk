@@ -156,8 +156,8 @@ something one nightly run should introduce inconsistently.
 - UK English throughout (colour, organisation, metres). Kent/Thanet
   place-specificity earns its place: Broadstairs, St Peter's, Reading
   Street, Stone Bay, Joss Bay, Kingsgate, North Foreland, Viking Bay, the
-  three conservation areas (Broadstairs CA / St Peter's CA / Reading
-  Street CA), Thanet District Council, Margate Chalk.
+  four conservation areas (Broadstairs CA / St Peter's CA / Reading
+  Street CA / Kingsgate CA), Thanet District Council, Margate Chalk.
 - First-person working-contractor voice ("I cut hedges", "I quote fixed
   price"): the existing articles and about.html are written as Richard
   Lim, sole operator. Keep that voice; do not switch to "we" or a faceless

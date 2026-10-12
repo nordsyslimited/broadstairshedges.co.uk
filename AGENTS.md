@@ -55,8 +55,8 @@ different towns, deliberately different content angles per site (see
 ## Writing style
 
 - UK English (colour, organisation, whilst, metres). Precise local detail
-  earns its place: the three conservation areas (Broadstairs CA / St
-  Peter's CA / Reading Street CA), s.211 six-week notice, Thanet Coast
+  earns its place: the four conservation areas (Broadstairs CA / St
+  Peter's CA / Reading Street CA / Kingsgate CA), s.211 six-week notice, Thanet Coast
   SSSI / SPA / Ramsar boundary, Margate Chalk, herring-gull Red List
   status, Dickens Festival, August bank holiday, holiday-let seasonality.
 - First-person working-contractor voice ("I cut hedges", "I quote fixed
