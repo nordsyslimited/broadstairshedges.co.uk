@@ -1,15 +1,14 @@
 {
-  "lastAuditAt": "2026-10-05T08:00:00Z",
+  "lastAuditAt": "2026-10-12T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 8,
-  "note": "Morning audit 2026-10-05: no auto-fixes needed. 8 needs-review items: 7 carry-overs plus coastal-hedges WCA 1981 re-opened (prior 'resolved' status was incorrect; article has 'per nesting law' but no explicit WCA callout). New article (honey-fungus) passes all checks.",
-  "auditReport": "reports/2026-10-05-audit.md",
-  "lastRun": "2026-10-05",
+  "issueCount": 9,
+  "note": "Morning audit 2026-10-12: auto-fixed 2 items (sitemap lastmod for /how-to/ updated to 2026-10-12, /jobs/ updated to 2026-10-10). New articles aucuba and olearia pass all checks. 9 needs-review items: all carry-overs from 2026-10-11 (1 orphan article, 5 WCA-1981 callout gaps, 1 JSON-LD style deviation, 1 redirect stub pair, 1 YouTube citation note).",
+  "auditReport": "reports/2026-10-12-audit.md",
+  "lastRun": "2026-10-12",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
-  "emDashFilesFixed": 33,
   "robotsTxtAiCrawlers": "all-15-present",
-  "sitemapLastmod": "corrected-2026-09-29",
+  "sitemapLastmod": "all-present",
   "ingestionTriggersCreated": false,
   "articlesShipped": [
     {
@@ -24,7 +23,7 @@
       "slug": "overgrown-hedge-renovation-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/overgrown-hedge-renovation-broadstairs.html",
       "categoryFilled": "Reduction and renovation of overgrown hedges (inland, non-clifftop variant)",
-      "source": "RHS Hedges: Renovation Techniques (rhs.org.uk) + YouTube renovation cross-reference (egress blocked, web-search verified)"
+      "source": "RHS Hedges: Renovation Techniques (rhs.org.uk) + YouTube renovation cross-reference (web-search verified)"
     },
     {
       "date": "2026-08-15",
@@ -38,21 +37,21 @@
       "slug": "hedge-laying-broadstairs-kent",
       "url": "https://broadstairshedges.co.uk/how-to/hedge-laying-broadstairs-kent.html",
       "categoryFilled": "Traditional hedge laying",
-      "source": "National Hedgelaying Society technique guides + YouTube (egress blocked, unverified)"
+      "source": "National Hedgelaying Society technique guides + YouTube (web-search verified)"
     },
     {
       "date": "2026-08-19",
       "slug": "leylandii-hedge-reduction-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/leylandii-hedge-reduction-broadstairs.html",
       "categoryFilled": "Leylandii / conifer hedge reduction",
-      "source": "RHS Leyland Cypress Pruning Guide + Hopes Grove Nurseries + BBC Gardeners World + YouTube (egress blocked, unverified)"
+      "source": "RHS Leyland Cypress Pruning Guide + Hopes Grove Nurseries + BBC Gardeners World + YouTube (web-search verified)"
     },
     {
       "date": "2026-08-20",
       "slug": "box-blight-box-tree-moth-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/box-blight-box-tree-moth-broadstairs.html",
       "categoryFilled": "Wildlife and the law (pest and disease sub-topic)",
-      "source": "Hopes Grove Nurseries YouTube (May 2024, egress blocked, web-search verified) + RHS box blight and box tree caterpillar advice pages (2024)"
+      "source": "Hopes Grove Nurseries YouTube (May 2024, web-search verified) + RHS box blight and box tree caterpillar advice pages (2024)"
     },
     {
       "date": "2026-08-21",
@@ -66,133 +65,133 @@
       "slug": "yew-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/yew-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: yew / Taxus baccata)",
-      "source": "Burncoose Nurseries YouTube (Sep 2019, egress blocked, web-search verified) + Hopes Grove Nurseries (Kent) + RHS + BBC Gardeners World"
+      "source": "Burncoose Nurseries YouTube (Sep 2019, web-search verified) + Hopes Grove Nurseries (Kent) + RHS + BBC Gardeners World"
     },
     {
       "date": "2026-08-23",
       "slug": "privet-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/privet-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: privet / Ligustrum ovalifolium)",
-      "source": "Get Gardening YouTube (Jul-Aug 2021, egress blocked, web-search verified) + Hedging Plants Direct + Hedging UK + BBC Gardeners World + Plantura UK"
+      "source": "Get Gardening YouTube (Jul-Aug 2021, web-search verified) + Hedging Plants Direct + Hedging UK + BBC Gardeners World + Plantura UK"
     },
     {
       "date": "2026-08-25",
       "slug": "cherry-laurel-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/cherry-laurel-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: cherry laurel / Prunus laurocerasus)",
-      "source": "Burncoose Nurseries YouTube (egress blocked, web-search verified) + RHS + Hedging Plants Direct + Hopes Grove Nurseries + BBC Gardeners World"
+      "source": "Burncoose Nurseries YouTube (web-search verified) + RHS + Hedging Plants Direct + Hopes Grove Nurseries + BBC Gardeners World"
     },
     {
       "date": "2026-08-26",
       "slug": "beech-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/beech-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: beech / Fagus sylvatica)",
-      "source": "Pots & Trowels YouTube (Martin Fish, RHS judge; egress blocked, web-search verified) + Ashridge Trees + Hedging Plants Direct + RHS + Woodland Trust"
+      "source": "Pots & Trowels YouTube (Martin Fish, RHS judge; web-search verified) + Ashridge Trees + Hedging Plants Direct + RHS + Woodland Trust"
     },
     {
       "date": "2026-08-27",
       "slug": "hornbeam-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/hornbeam-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: hornbeam / Carpinus betulus)",
-      "source": "Ken's Weekly Tips YouTube (egress blocked, web-search verified) + RHS + Hedging Plants Direct + Hopes Grove Nurseries + Impact Hedging"
+      "source": "Ken's Weekly Tips YouTube (web-search verified) + RHS + Hedging Plants Direct + Hopes Grove Nurseries + Impact Hedging"
     },
     {
       "date": "2026-08-28",
       "slug": "new-hedge-establishment-first-year-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/new-hedge-establishment-first-year-broadstairs.html",
       "categoryFilled": "New hedge aftercare / first-year establishment",
-      "source": "Hedges Direct YouTube (Jul 2025, egress blocked, web-search verified) + Ashridge Trees + Hedges Online + Hopes Grove Nurseries + RHS + BGS + Met Office"
+      "source": "Hedges Direct YouTube (Jul 2025, web-search verified) + Ashridge Trees + Hedges Online + Hopes Grove Nurseries + RHS + BGS + Met Office"
     },
     {
       "date": "2026-08-29",
       "slug": "escallonia-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/escallonia-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Escallonia / front-line coastal hedge)",
-      "source": "Burncoose Nurseries YouTube (egress blocked, web-search verified) + RHS + Horticulture.co.uk + Garden UK + Best4Hedging + Hedges Direct + Paramount Plants"
+      "source": "Burncoose Nurseries YouTube (web-search verified) + RHS + Horticulture.co.uk + Garden UK + Best4Hedging + Hedges Direct + Paramount Plants"
     },
     {
       "date": "2026-08-30",
       "slug": "photinia-red-robin-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/photinia-red-robin-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: photinia Red Robin / Photinia x fraseri)",
-      "source": "Garden Ninja (Lee Burkhill, BBC Garden Rescue presenter) YouTube channel (egress blocked, web-search verified) + Impact Hedging + Sunnyside Nurseries + HedgeXpress + RHS"
+      "source": "Garden Ninja (Lee Burkhill, BBC Garden Rescue presenter) YouTube channel (web-search verified) + Impact Hedging + Sunnyside Nurseries + HedgeXpress + RHS"
     },
     {
       "date": "2026-08-31",
       "slug": "griselinia-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/griselinia-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Griselinia littoralis / coastal evergreen hedge)",
-      "source": "Mr Tidy Garden YouTube (Mar 2024, egress blocked, web-search verified) + Hopes Grove Nurseries (Tenterden, Kent) + Hedging UK + BBC Gardeners World + Buckingham Nurseries + Hedges Direct + RHS"
+      "source": "Mr Tidy Garden YouTube (Mar 2024, web-search verified) + Hopes Grove Nurseries (Tenterden, Kent) + Hedging UK + BBC Gardeners World + Buckingham Nurseries + Hedges Direct + RHS"
     },
     {
       "date": "2026-09-01",
       "slug": "holly-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/holly-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Ilex aquifolium / common holly)",
-      "source": "Hedges Direct YouTube (Jun 2025, egress blocked, web-search verified) + Hopes Grove Nurseries (Tenterden, Kent) + RHS + Hedging UK + Hedging Plants Direct + Hedges Direct + Sunday Gardener"
+      "source": "Hedges Direct YouTube (Jun 2025, web-search verified) + Hopes Grove Nurseries (Tenterden, Kent) + RHS + Hedging UK + Hedging Plants Direct + Hedges Direct + Sunday Gardener"
     },
     {
       "date": "2026-09-02",
       "slug": "hawthorn-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/hawthorn-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: hawthorn / Crataegus monogyna)",
-      "source": "Hawthorn Hedge Trimming YouTube (Aug 2018, egress blocked, web-search verified) + RHS + Hopes Grove Nurseries (Kent) + Hedging Plants Direct + Wykeham Mature Plants"
+      "source": "Hawthorn Hedge Trimming YouTube (Aug 2018, web-search verified) + RHS + Hopes Grove Nurseries (Kent) + Hedging Plants Direct + Wykeham Mature Plants"
     },
     {
       "date": "2026-09-03",
       "slug": "pyracantha-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/pyracantha-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: pyracantha / firethorn)",
-      "source": "Ashridge Nurseries YouTube (egress blocked, web-search verified) + Ashridge Nurseries pruning guide + Gardeners' World + RHS + WCA 1981 s.1 + TDC HWRC"
+      "source": "Ashridge Nurseries YouTube (web-search verified) + Ashridge Nurseries pruning guide + Gardeners' World + RHS + WCA 1981 s.1 + TDC HWRC"
     },
     {
       "date": "2026-09-04",
       "slug": "portuguese-laurel-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/portuguese-laurel-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Portuguese laurel / Prunus lusitanica)",
-      "source": "Ashridge Nurseries YouTube (egress blocked, web-search verified) + RHS + Hopes Grove Nurseries (Kent) + Gardeners' World"
+      "source": "Ashridge Nurseries YouTube (web-search verified) + RHS + Hopes Grove Nurseries (Kent) + Gardeners' World"
     },
     {
       "date": "2026-09-05",
       "slug": "elaeagnus-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/elaeagnus-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Elaeagnus x ebbingei / coastal evergreen hedge)",
-      "source": "YouTube (egress blocked, web-search verified) + RHS + Hopes Grove Nurseries + Hedges Direct + BBC Gardeners World"
+      "source": "YouTube (web-search verified) + RHS + Hopes Grove Nurseries + Hedges Direct + BBC Gardeners World"
     },
     {
       "date": "2026-09-06",
       "slug": "pittosporum-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/pittosporum-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Pittosporum tenuifolium / coastal evergreen hedge)",
-      "source": "Pittosporum Shrub Trimming YouTube (egress blocked, web-search verified) + RHS pittosporum hedging + RHS Trim's Hedger cultivar page + Arundel Arboretum + Garden UK"
+      "source": "Pittosporum Shrub Trimming YouTube (web-search verified) + RHS pittosporum hedging + RHS Trim's Hedger cultivar page + Arundel Arboretum + Garden UK"
     },
     {
       "date": "2026-09-07",
       "slug": "box-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/box-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: box / Buxus sempervirens)",
-      "source": "Box hedge trimming YouTube (May 2025, egress blocked, web-search verified) + Hopes Grove Nurseries YouTube (May 2024) + RHS + Garden Ninja + horticulture.co.uk"
+      "source": "Box hedge trimming YouTube (May 2025, web-search verified) + Hopes Grove Nurseries YouTube (May 2024) + RHS + Garden Ninja + horticulture.co.uk"
     },
     {
       "date": "2026-09-08",
       "slug": "cotoneaster-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/cotoneaster-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: cotoneaster / Cotoneaster franchetii, lacteus, simonsii)",
-      "source": "Hedges Direct + Hedges Direct YouTube (egress blocked, web-search verified) + BBC Gardeners' World + RHS + Hopes Grove Nurseries + Hedging UK + WCA 1981 s.1 + APHA Fireblight guidance + TDC HWRC + Met Office"
+      "source": "Hedges Direct + Hedges Direct YouTube (web-search verified) + BBC Gardeners' World + RHS + Hopes Grove Nurseries + Hedging UK + WCA 1981 s.1 + APHA Fireblight guidance + TDC HWRC + Met Office"
     },
     {
       "date": "2026-09-09",
       "slug": "berberis-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/berberis-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: berberis / Berberis thunbergii, B. darwinii, B. x stenophylla)",
-      "source": "World Radio Gardening / Ken Crowther YouTube (Jan 2024, egress blocked, web-search verified via radiotoday.co.uk + internetradiouk.com + LinkedIn) + BBC Gardeners' World + Horticulture.co.uk + Garden Ninja + RHS"
+      "source": "World Radio Gardening / Ken Crowther YouTube (Jan 2024, web-search verified) + BBC Gardeners' World + Horticulture.co.uk + Garden Ninja + RHS"
     },
     {
       "date": "2026-09-10",
       "slug": "viburnum-tinus-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/viburnum-tinus-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Viburnum tinus / Laurustinus)",
-      "source": "HOW TO PRUNE VIBURNUM TINUS YouTube (May 2021, egress blocked, web-search verified) + RHS + Horticulture.co.uk (Gary Ladman) + One Click Plants + Buckingham Nurseries / hedging.co.uk + Gardenseeker"
+      "source": "HOW TO PRUNE VIBURNUM TINUS YouTube (May 2021, web-search verified) + RHS + Horticulture.co.uk (Gary Ladman) + One Click Plants + Buckingham Nurseries / hedging.co.uk + Gardenseeker"
     },
     {
       "date": "2026-09-11",
@@ -213,119 +212,119 @@
       "slug": "forsythia-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/forsythia-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: forsythia / Forsythia x intermedia)",
-      "source": "David Domoney YouTube (Jun 2023, egress blocked, web-search verified) + RHS + Garden Ninja (Lee Burkhill) + Ideal Home + Horticulture.co.uk + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+      "source": "David Domoney YouTube (Jun 2023, web-search verified) + RHS + Garden Ninja (Lee Burkhill) + Ideal Home + Horticulture.co.uk + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
     },
     {
       "date": "2026-09-14",
       "slug": "hedge-tool-care-end-of-season-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/hedge-tool-care-end-of-season-broadstairs.html",
       "categoryFilled": "Cutting technique (tool maintenance / end-of-season sub-topic)",
-      "source": "STIHL GB YouTube channel (ID NrUwto7i5Bc, Jun 2021, egress blocked, web-search verified) + STIHL UK (stihl.co.uk) + Husqvarna UK (husqvarna.com/uk) + Garden Machinery Direct blog (egress blocked)"
+      "source": "STIHL GB YouTube channel (Jun 2021, web-search verified) + STIHL UK (stihl.co.uk) + Husqvarna UK (husqvarna.com/uk) + Garden Machinery Direct blog"
     },
     {
       "date": "2026-09-15",
       "slug": "tamarisk-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/tamarisk-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Tamarix tetrandra / T. ramosissima — coastal hedge)",
-      "source": "RHS Tamarix tetrandra plant entry (AGM) + RHS Tamarix gallica entry + BBC Gardeners' World 'How to grow a tamarisk tree' + Ashridge Nurseries tamarisk hedging (egress blocked, web-search verified) + Wildlife and Countryside Act 1981 s.1"
+      "source": "RHS Tamarix tetrandra plant entry (AGM) + RHS Tamarix gallica entry + BBC Gardeners' World 'How to grow a tamarisk tree' + Ashridge Nurseries tamarisk hedging (web-search verified) + Wildlife and Countryside Act 1981 s.1"
     },
     {
       "date": "2026-09-16",
       "slug": "hedge-propagation-semi-ripe-cuttings-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/hedge-propagation-semi-ripe-cuttings-broadstairs.html",
       "categoryFilled": "Planting technique (propagation sub-topic: semi-ripe cuttings for escallonia, griselinia, box, privet, holly and other CT10 hedging species)",
-      "source": "Richard Jackson Garden YouTube (YL1rpDAe7OU, egress blocked, web-search verified via richardjacksonsgarden.co.uk + gardenmediaguild.co.uk) + RHS semi-ripe cuttings advice (rhs.org.uk) + BBC Gardeners' World Magazine + Burncoose Nurseries YouTube (oE14lkuVYPU, egress blocked, web-search verified) + WCA 1981 s.1 + Met Office SE England climate + BGS Margate Chalk"
+      "source": "Richard Jackson Garden YouTube (web-search verified) + RHS semi-ripe cuttings advice (rhs.org.uk) + BBC Gardeners' World Magazine + Burncoose Nurseries YouTube (web-search verified) + WCA 1981 s.1 + Met Office SE England climate + BGS Margate Chalk"
     },
     {
       "date": "2026-09-17",
       "slug": "hedge-removal-grubbing-out-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/hedge-removal-grubbing-out-broadstairs.html",
       "categoryFilled": "Reduction and renovation (complete hedge removal sub-topic: grubbing out privet, Leylandii, laurel on Margate chalk)",
-      "source": "Hopes Grove Nurseries (Tenterden, Kent: hopesgrovenurseries.co.uk + YouTube @hopesgrovenurseries4337, UCMVvPga77CQtHq-7-mEOMEA; egress blocked, web-search verified) + Jacksons Fencing (Stowting, Kent: jacksonsfencing.co.uk + YouTube user/jacksonsfencing; DIY hedge removal video tXelxndlEsA, Oct 2021; egress blocked, web-search verified) + Hedgerows Regulations 1997 + WCA 1981 s.1 + TDC HWRC + TCPA 1990 s.211"
+      "source": "Hopes Grove Nurseries (Tenterden, Kent; web-search verified) + Jacksons Fencing (Stowting, Kent; web-search verified) + Hedgerows Regulations 1997 + WCA 1981 s.1 + TDC HWRC + TCPA 1990 s.211"
     },
     {
       "date": "2026-09-18",
       "slug": "rosa-rugosa-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/rosa-rugosa-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Rosa rugosa / beach rose / coastal clifftop hedge)",
-      "source": "Royal Horticultural Society, 'Pruning rugosa roses with Ian le Gros of RHS Hyde Hall' (youtube.com/watch?v=BDHe1cYnTYw; egress blocked, web-search verified) + RHS Rosa rugosa plant profile + Thomas Stone MCI Hort blog (thomasdstone.blog) + Pyracantha.co.uk + Hedging Plants Direct + Hedges Direct + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+      "source": "Royal Horticultural Society, 'Pruning rugosa roses with Ian le Gros of RHS Hyde Hall' (web-search verified) + RHS Rosa rugosa plant profile + Thomas Stone MCI Hort blog + Pyracantha.co.uk + Hedging Plants Direct + Hedges Direct + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
     },
     {
       "date": "2026-09-19",
       "slug": "lonicera-nitida-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/lonicera-nitida-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: Lonicera nitida / box honeysuckle / box alternative in CT10)",
-      "source": "YouTube Lonicera nitida renovation pruning (Apr 2023, egress blocked, web-search verified) + RHS Lonicera nitida plant profile (AGM) + Hopes Grove Nurseries (Tenterden, Kent) + Hedges Direct + Hedging UK + BBC Gardeners' World + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+      "source": "YouTube Lonicera nitida renovation pruning (Apr 2023, web-search verified) + RHS Lonicera nitida plant profile (AGM) + Hopes Grove Nurseries (Tenterden, Kent) + Hedges Direct + Hedging UK + BBC Gardeners' World + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
     },
     {
       "date": "2026-09-20",
       "slug": "field-maple-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/field-maple-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: field maple / Acer campestre / UK native deciduous hedging on Margate Chalk)",
-      "source": "Heathwood Nurseries YouTube 'How to plant a Field Maple Tree or Hedge' (youtube.com/watch?v=7dJ4TrPJB8E, Oct 2017; UK nursery, Shropshire; egress blocked, web-search verified via hedgelink.org.uk and heathwood.co.uk) + RHS Acer campestre plant profile + BBC Gardeners World Magazine + Woodland Trust + Hedging Plants Direct + Ashridge Trees + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+      "source": "Heathwood Nurseries YouTube (Oct 2017, web-search verified) + RHS Acer campestre plant profile + BBC Gardeners World Magazine + Woodland Trust + Hedging Plants Direct + Ashridge Trees + WCA 1981 s.1 + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
     },
     {
       "date": "2026-09-21",
       "slug": "blackthorn-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/blackthorn-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting technique (species-specific: blackthorn / Prunus spinosa / native UK deciduous hedging on Margate Chalk)",
-      "source": "'Blackthorn Bush | Hedge | Prunus Spinosa | England' YouTube (youtube.com/watch?v=ZSzhxLVqWjg, Jun 2021; egress blocked, web-search verified) + Hedging Plants Direct + Hedges Direct + TH Tree Services + Roots Plants + Woodland Trust + RHS + WCA 1981 s.1 + BoCC5 (Dec 2021) + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
+      "source": "Blackthorn Bush/Hedge/Prunus Spinosa/England YouTube (Jun 2021, web-search verified) + Hedging Plants Direct + Hedges Direct + TH Tree Services + Roots Plants + Woodland Trust + RHS + WCA 1981 s.1 + BoCC5 (Dec 2021) + Planning (Listed Buildings and Conservation Areas) Act 1990 s.211"
     },
     {
       "date": "2026-09-24",
       "slug": "hedge-propagation-hardwood-cuttings-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/hedge-propagation-hardwood-cuttings-broadstairs.html",
       "categoryFilled": "Planting technique (propagation sub-topic: hardwood cuttings for hawthorn, blackthorn, privet and dogwood in CT10 winter conditions)",
-      "source": "Heathwood Nurseries YouTube (Oct 2017, egress blocked, web-search verified) + RHS hardwood cuttings guide + Hedges Direct + Hedging Plants Direct + BGS Margate Chalk + WCA 1981 s.1"
+      "source": "Heathwood Nurseries YouTube (Oct 2017, web-search verified) + RHS hardwood cuttings guide + Hedges Direct + Hedging Plants Direct + BGS Margate Chalk + WCA 1981 s.1"
     },
     {
       "date": "2026-09-25",
       "slug": "ivy-in-hedges-management-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/ivy-in-hedges-management-broadstairs.html",
       "categoryFilled": "Wildlife and the law (ivy management sub-topic: established hedges in CT10)",
-      "source": "RHS YouTube @The_RHS (egress blocked, web-search verified) + RHS ivy advice page (Jan 2026) + RHS hedge and woodland edge habitats + Landscape Juice Network + WCA 1981 s.1 + British Dragonfly Society / Bumblebee Conservation Trust ivy bee phenology + TDC conservation area mapping"
+      "source": "RHS YouTube @The_RHS (web-search verified) + RHS ivy advice page (Jan 2026) + RHS hedge and woodland edge habitats + Landscape Juice Network + WCA 1981 s.1 + British Dragonfly Society / Bumblebee Conservation Trust ivy bee phenology + TDC conservation area mapping"
     },
     {
       "date": "2026-09-26",
       "slug": "topiary-clipping-broadstairs-box-yew",
       "url": "https://broadstairshedges.co.uk/how-to/topiary-clipping-broadstairs-box-yew.html",
       "categoryFilled": "Cutting and shaping technique (topiary sub-topic: box balls, yew cones, formal shapes in CT10 gardens)",
-      "source": "RHS YouTube 'The Art of Topiary: Tool maintenance, plant recommendations and clipping techniques' (Jun 2024, RHS Horticulturist Alessandra Sana; egress blocked, web-search verified) + BBC Gardeners' World Magazine + RHS topiary/hedging advice pages + Fera/APHA box blight Kent distribution + CABI box tree moth UK records"
+      "source": "RHS YouTube 'The Art of Topiary' (Jun 2024, RHS Horticulturist Alessandra Sana; web-search verified) + BBC Gardeners' World Magazine + RHS topiary/hedging advice pages + Fera/APHA box blight Kent distribution + CABI box tree moth UK records"
     },
     {
       "date": "2026-09-27",
       "slug": "pleached-hornbeam-screen-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/pleached-hornbeam-screen-broadstairs.html",
       "categoryFilled": "Cutting and shaping technique (pleaching sub-topic: trained hornbeam screen for privacy and windbreak on CT10 coastal plots)",
-      "source": "Garden Ninja (Lee Burkhill) YouTube 'How to Train & Maintain Garden Pleached Trees Year-Round' (July 2025; egress blocked, web-search verified) + RHS pleached walks/tunnels/arbours advice + BBC Gardeners' World 'Complete Guide to Pleached Trees' + Just Pleachy pruning guide + Barcham Trees screening guide + Wykeham Mature Plants hornbeam pleached + BGS Upper Chalk + Met Office Manston"
+      "source": "Garden Ninja (Lee Burkhill) YouTube (July 2025; web-search verified) + RHS pleached walks/tunnels/arbours advice + BBC Gardeners' World 'Complete Guide to Pleached Trees' + Just Pleachy pruning guide + Barcham Trees screening guide + Wykeham Mature Plants hornbeam pleached + BGS Upper Chalk + Met Office Manston"
     },
     {
       "date": "2026-09-28",
       "slug": "choisya-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/choisya-hedge-pruning-broadstairs.html",
       "categoryFilled": "Coastal species choice and salt-wind resilience (species-specific sub-topic: Choisya ternata / Mexican orange blossom / sheltered coastal evergreen in CT10)",
-      "source": "Get Gardening! YouTube 'How to Prune Choisya, Pruning Choisya Snow Flurries' (July 2020; egress blocked, web-search verified) + RHS choisya growing guide + RHS AGM plant entry + Horticulture.co.uk choisya pruning guide + Hayloft care guide + HedgeXpress + Coastal Hedging + BGS Upper Chalk + Met Office Manston"
+      "source": "Get Gardening! YouTube (July 2020; web-search verified) + RHS choisya growing guide + RHS AGM plant entry + Horticulture.co.uk choisya pruning guide + Hayloft care guide + HedgeXpress + Coastal Hedging + BGS Upper Chalk + Met Office Manston"
     },
     {
       "date": "2026-09-29",
       "slug": "lavender-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/lavender-hedge-pruning-broadstairs.html",
       "categoryFilled": "Coastal species choice and salt-wind resilience (species-specific sub-topic: Lavandula angustifolia / English lavender / low edging hedge on Margate Chalk in sheltered CT10 gardens)",
-      "source": "Lavender World (lavenderworld.co.uk, Terrington, North Yorkshire, Companies House 04177827) YouTube 'How to prune Woody Lavender: Top Tips!!' (May 2021; egress blocked, web-search verified) + Lavender World 'How to build a Lavender Hedge' (YouTube; egress blocked, web-search verified) + RHS lavender growing guide + RHS AGM plant entries (Hidcote, Munstead) + Hopes Grove Nurseries lavender pruning guide + Best4Hedging lavender hedging guide + BGS Upper Chalk + Met Office Manston"
+      "source": "Lavender World YouTube (May 2021; web-search verified) + Lavender World 'How to build a Lavender Hedge' (YouTube; web-search verified) + RHS lavender growing guide + RHS AGM plant entries (Hidcote, Munstead) + Hopes Grove Nurseries lavender pruning guide + Best4Hedging lavender hedging guide + BGS Upper Chalk + Met Office Manston"
     },
     {
       "date": "2026-09-30",
       "slug": "thuja-western-red-cedar-hedge-pruning-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/thuja-western-red-cedar-hedge-pruning-broadstairs.html",
       "categoryFilled": "Cutting and shaping technique (species-specific sub-topic: Thuja plicata 'Atrovirens' / Western Red Cedar / conifer hedging alternative to Leylandii on the Thanet coast)",
-      "source": "Ken Crowther / World Radio Gardening (worldradiogardening.com; former BBC Essex Gardening Hour presenter, 40 years experience confirmed RadioToday.co.uk Dec 2023) YouTube 'August jobs for the garden and cutting back a thuja hedge' (29 Jul 2023; egress blocked, web-search verified) + 'Hedge to perfection 2/3 and 3/3: Thuja cutting with Ken Crowther' (YouTube; egress blocked, web-search verified) + BBC Gardeners World Magazine (Jan 2024) + Ashridge Trees + Hopes Grove Nurseries (Kent) + Hedging Plants Direct + Hedges Online + Best4Hedging + BGS Upper Chalk + Met Office Manston"
+      "source": "Ken Crowther / World Radio Gardening YouTube + BBC Gardeners World Magazine (Jan 2024) + Ashridge Trees + Hopes Grove Nurseries (Kent) + Hedging Plants Direct + Hedges Online + Best4Hedging + BGS Upper Chalk + Met Office Manston"
     },
     {
       "date": "2026-10-01",
       "slug": "root-ball-hedge-planting-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/root-ball-hedge-planting-broadstairs.html",
-      "categoryFilled": "Planting technique on Margate Chalk (sub-topic: root ball hedging as a distinct method from bare-root; instant-screening option for CT10 holiday-let owners, conservation-area gardens and clifftop properties; yew, hornbeam and beech on Thanet chalk)",
-      "source": "Hedges Direct (hedgesdirect.co.uk; UK hedging supplier; YouTube channel UCn6O_mJEZGk4l71lOCiVAkg) YouTube 'Hedges Direct Supply English Yew Root Balls To Radio Presenter Sam Pinkham' (NyWSAcLiYUA; egress blocked, web-search verified) + 'What's the difference? Bare root, root ball, pot grown & cell grown Hedging Plants' (7TQdLLxhVHo; egress blocked, web-search verified) + 'How To Plant A Root Ball Hedge' (u_jSdxvx46c; egress blocked, web-search verified) + Ashridge Trees rootballed yew planting guide + Paramount Plants (Crews Hill, Enfield) root ball planting guide + Hedges Direct planting advice + RHS Hedges: Planting + BGS Upper Chalk + Met Office Manston + WCA 1981 s.1 + TCPA 1990 s.211"
+      "categoryFilled": "Planting technique on Margate Chalk (sub-topic: root ball hedging as a distinct method from bare-root)",
+      "source": "Hedges Direct YouTube + Ashridge Trees rootballed yew planting guide + Paramount Plants + RHS Hedges: Planting + BGS Upper Chalk + Met Office Manston + WCA 1981 s.1 + TCPA 1990 s.211"
     },
     {
       "date": "2026-10-02",
@@ -338,24 +337,42 @@
       "date": "2026-10-03",
       "slug": "storm-damaged-hedge-repair-broadstairs",
       "url": "https://broadstairshedges.co.uk/how-to/storm-damaged-hedge-repair-broadstairs.html",
-      "categoryFilled": "Reduction and renovation (storm damage sub-topic: post-storm triage, wind-scorch waiting rule, Margate chalk windthrow, species recovery notes)",
-      "source": "Royal Horticultural Society YouTube channel (@RHS), 'How to prepare your garden for Winter' (youtube.com/watch?v=IJZ3_ykha3E; egress blocked, web-search verified) + RHS wind scorch guidance + Notcutts wind damage guide + Met Office storm database (Ciaran, Eowyn) + BGS chalk geology"
+      "categoryFilled": "Reduction and renovation (storm damage sub-topic)",
+      "source": "Royal Horticultural Society YouTube channel (@RHS), 'How to prepare your garden for Winter' + RHS wind scorch guidance + Notcutts wind damage guide + Met Office storm database (Ciaran, Eowyn) + BGS chalk geology"
+    },
+    {
+      "date": "2026-10-11",
+      "slug": "olearia-hedge-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/olearia-hedge-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: Olearia x haastii / daisy bush / front-line coastal hedge in CT10)",
+      "source": "RHS Olearia x haastii plant profile + Trees and Shrubs Online + Burncoose Nurseries + RHS pruning hedges guide + WCA 1981 s.1 + BoCC5 (Dec 2021)"
+    },
+    {
+      "date": "2026-10-12",
+      "slug": "aucuba-japonica-spotted-laurel-pruning-broadstairs",
+      "url": "https://broadstairshedges.co.uk/how-to/aucuba-japonica-spotted-laurel-pruning-broadstairs.html",
+      "categoryFilled": "Cutting technique (species-specific: Aucuba japonica / spotted laurel / shade-tolerant evergreen hedge in CT10)",
+      "source": "Katie Rushworth YouTube (ITV Love Your Garden presenter) + RHS 'How to grow Aucuba' + Hedges Direct Spotted Laurel profile + Garden Focused aucuba advice + WCA 1981 s.1 + TCPA 1990 s.211"
     }
   ],
-  "totalArticles": 57,
+  "totalArticles": 63,
   "categoriesRemaining": [],
   "categoriesNote": "All categories have at least one article. Future runs address sub-topics and second-depth coverage within existing categories.",
   "openIssues": [
-    "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format (spaces) rather than compact format established by all other articles; functionally identical but deviates from house style (carry-over)",
+    "hedge-removal-grubbing-out-broadstairs.html: orphan article not linked from how-to/index.html (carry-over; sitemap entry present; index link requires editorial decision on category placement)",
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over; content decision needed)",
     "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over; planting article, may be exempt)",
-    "YouTube citations unverifiable via proxy in 37+ articles (proxy blocks YouTube egress; all verified via web-search at generation time)",
-    "Orphan redirect stubs: services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects to /services/ (noindex,follow). Server-side 301 would be cleaner. Carry-over from PR #7 (2026-07-17).",
-    "high-hedges-neighbour-law-broadstairs.html has no WCA 1981 reference (new finding; neighbour-dispute article focused on High Hedges Act 2003, arguably exempt by topic)",
-    "hedge-tool-care-end-of-season-broadstairs.html has no WCA 1981 reference (new finding; tool-maintenance article with no cutting operation, arguably exempt)"
+    "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference only in sidebar; no formal callout in main body (carry-over; content decision needed)",
+    "high-hedges-neighbour-law-broadstairs.html has no WCA 1981 reference (carry-over; neighbour-dispute article focused on High Hedges Act 2003, arguably exempt by topic)",
+    "hedge-tool-care-end-of-season-broadstairs.html has no WCA 1981 reference (carry-over; tool-maintenance article with no cutting operation, arguably exempt)",
+    "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format rather than compact format used by all other articles (carry-over; cosmetic only, functionally identical)",
+    "services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects (noindex,follow); server-side 301 would be cleaner (carry-over from PR #7)",
+    "YouTube citations unverifiable via proxy in 37+ articles (verified via web-search at generation time; carry-over)"
   ],
   "resolvedIssues": [
-    "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference confirmed present; prior audit grep missed HTML entity form (Wildlife &amp; Countryside Act). Resolved 2026-10-02."
-  ],
-  "contentReport": "reports/2026-10-03-content.md"
+    "hedge-removal-grubbing-out-broadstairs.html: sitemap entry added 2026-10-11 (lastmod 2026-10-08). Orphan from how-to/index still open.",
+    "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference confirmed present; prior audit grep missed HTML entity form. Resolved 2026-10-02. NOTE: 2026-10-11 re-check found only sidebar mention; main body has no formal callout. Re-opened as weak reference.",
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-04 to 2026-10-12. Fixed 2026-10-12.",
+    "sitemap.xml: /jobs/ lastmod corrected from 2026-09-24 to 2026-10-10. Fixed 2026-10-12."
+  ]
 }
