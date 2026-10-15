@@ -1,8 +1,17 @@
 {
-  "lastRun": "2026-10-14",
+  "lastRun": "2026-10-15",
   "lastRunType": "nightly-content",
-  "contentReport": "reports/2026-10-14-content.md",
+  "contentReport": "reports/2026-10-15-content.md",
   "articlesShipped": [
+    {
+      "date": "2026-10-15",
+      "slug": "rosemary-hedge-pruning-broadstairs",
+      "title": "How to Prune a Rosemary Hedge in Broadstairs: Timing, Technique and the Woody-Stem Rule for CT10 Chalk Gardens",
+      "category": "Cutting and shaping technique / Coastal species",
+      "sourceChannel": "Gardeners' World (@GardenersWorld on YouTube; BBC flagship gardening programme, 450,000+ subscribers); RHS (rhs.org.uk) plant profiles and growing guides for Salvia rosmarinus; channel-authority heuristic applied (YouTube direct access not possible).",
+      "youtubeEgressBlocked": true,
+      "topicGap": "Rosemary (Salvia rosmarinus) had no existing pruning article despite being one of the most common low-hedge and edging species in CT10 coastal chalk gardens. The species shares the old-wood-regeneration constraint with lavender (which has its own article) but has different cultivar characteristics, frost-hardiness profile, timing window and replacement cycle on Margate Chalk. The secateurs-over-trimmer constraint and the post-flowering-only window are the load-bearing procedural differentiators from the general hedge-cutting-technique article."
+    },
     {
       "date": "2026-10-14",
       "slug": "spiraea-hedge-pruning-broadstairs",
@@ -92,15 +101,16 @@
     }
   ],
   "totalHowToArticles": 66,
+  "totalHowToArticlesNote": "66 as of 2026-10-15 (rosemary added this run)",
   "structuralAngleCompliant": true,
   "wcaCalloutPresent": true,
   "jetRelatedGuidesBlockPresent": true,
   "status": "success",
   "categories": {
-    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs", "hazel-hedge-pruning-broadstairs", "aucuba-japonica-spotted-laurel-pruning-broadstairs", "spiraea-hedge-pruning-broadstairs"],
+    "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs", "hazel-hedge-pruning-broadstairs", "aucuba-japonica-spotted-laurel-pruning-broadstairs", "spiraea-hedge-pruning-broadstairs", "rosemary-hedge-pruning-broadstairs"],
     "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop", "hedge-gap-repair-gapping-up-broadstairs", "hedge-removal-grubbing-out-broadstairs", "storm-damaged-hedge-repair-broadstairs"],
     "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar", "hedge-winter-check-broadstairs-october", "nest-check-hedge-before-cutting-broadstairs"],
-    "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs", "hebe-hedge-pruning-broadstairs", "choisya-hedge-pruning-broadstairs", "lavender-hedge-pruning-broadstairs", "thuja-western-red-cedar-hedge-pruning-broadstairs", "euonymus-hedge-pruning-broadstairs", "olearia-hedge-pruning-broadstairs"],
+    "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs", "hebe-hedge-pruning-broadstairs", "choisya-hedge-pruning-broadstairs", "lavender-hedge-pruning-broadstairs", "thuja-western-red-cedar-hedge-pruning-broadstairs", "euonymus-hedge-pruning-broadstairs", "olearia-hedge-pruning-broadstairs", "rosemary-hedge-pruning-broadstairs"],
     "Conservation-area and section-211 paperwork": ["broadstairs-conservation-areas-hedge-rules", "apply-permission-prune-trees-broadstairs-conservation-area"],
     "Neighbour law and high-hedge disputes": ["high-hedges-neighbour-law-broadstairs"],
     "Clifftop/SSSI-edge work and herring-gull protocol": ["herring-gull-nesting-cliff-hedges-broadstairs"],
