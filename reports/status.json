@@ -1,6 +1,35 @@
 {
   "lastRun": "2026-10-16",
-  "lastRunType": "nightly-content",
+  "lastRunType": "morning-audit",
+  "lastAuditAt": "2026-10-16T07:00:00Z",
+  "auditStatus": "issues",
+  "issueCount": 9,
+  "note": "Morning audit 2026-10-16: auto-fixed 3 sitemap lastmod values (how-to/ hub, hedge-laying, hedge-propagation-hardwood, all to 2026-10-16 after nightly run updates). New article cornus-dogwood-hedge-pruning-broadstairs.html passes all checks. 9 needs-review items; totalHowToArticles counter bug resolved.",
+  "auditReport": "reports/2026-10-16-audit.md",
+  "emDashStatus": "clean",
+  "robotsTxtAiCrawlers": "all-15-present",
+  "sitemapLastmod": "all-present",
+  "totalArticles": 67,
+  "openIssues": [
+    "hedge-removal-grubbing-out-broadstairs.html: orphan redirect stub not linked from how-to/index.html (carry-over; sitemap entry present; editorial decision needed on removal or replacement with genuine article)",
+    "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over; content decision needed)",
+    "hedge-planting-north-foreland-chalk-exposure.html has no WCA 1981 callout (carry-over; planting article, low priority)",
+    "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference only in sidebar; no formal callout in main body (carry-over; content decision needed)",
+    "high-hedges-neighbour-law-broadstairs.html has no WCA 1981 reference (carry-over; neighbour-dispute article, arguably exempt by topic)",
+    "hedge-tool-care-end-of-season-broadstairs.html has no WCA 1981 reference (carry-over; tool-maintenance article with no cutting operations, arguably exempt)",
+    "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format rather than compact format used by all other articles (carry-over; cosmetic only, functionally identical)",
+    "services/hedge-planting.html and services/hedge-removal.html are client-side HTML redirects (noindex,follow); server-side 301 would be cleaner (carry-over from PR #7)",
+    "YouTube citations unverifiable via proxy in 37+ articles (verified via web-search at generation time; carry-over; known infrastructure limitation)",
+    "Word 'blocked' appears in body text in 2 pages (how-to/index.html: 'laurel-blocked gate'; hedge-reduction-broadstairs-clifftop.html: 'reduction is blocked' in planning context). Both are legitimate uses, not source-line process wording. Human judgment call on whether to rephrase for strict AGENTS.md compliance."
+  ],
+  "resolvedIssues": [
+    "status.json totalHowToArticles counter bug (aucuba double-counted in category arrays). Counter now correct: 67 = 66 genuine articles + 1 redirect stub. Resolved 2026-10-16.",
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-15 to 2026-10-16. Fixed 2026-10-16.",
+    "sitemap.xml: hedge-laying-broadstairs-kent.html lastmod corrected from 2026-09-21 to 2026-10-16. Fixed 2026-10-16.",
+    "sitemap.xml: hedge-propagation-hardwood-cuttings-broadstairs.html lastmod corrected from 2026-09-28 to 2026-10-16. Fixed 2026-10-16.",
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-13 to 2026-10-15 (carried from 2026-10-15 audit). Already resolved.",
+    "sitemap.xml: lavender-hedge-pruning-broadstairs.html lastmod corrected (carried from 2026-10-15 audit). Already resolved."
+  ],
   "contentReport": "reports/2026-10-16-content.md",
   "articlesShipped": [
     {
@@ -93,7 +122,7 @@
     }
   ],
   "totalHowToArticles": 67,
-  "totalHowToArticlesNote": "67 as of 2026-10-16 (cornus-dogwood added this run)",
+  "totalHowToArticlesNote": "67 as of 2026-10-16: 66 genuine articles + 1 redirect stub (hedge-removal-grubbing-out). Counter bug resolved.",
   "structuralAngleCompliant": true,
   "wcaCalloutPresent": true,
   "jetRelatedGuidesBlockPresent": true,
