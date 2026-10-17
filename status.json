@@ -1,16 +1,16 @@
 {
-  "lastAuditAt": "2026-10-15T07:00:00Z",
+  "lastAuditAt": "2026-10-17T07:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 10,
-  "note": "Morning audit 2026-10-15: auto-fixed 2 sitemap lastmod values (/how-to/ and lavender, both to 2026-10-15 after overnight nightly run). New article rosemary-hedge-pruning-broadstairs.html passes all checks. 10 needs-review items, unchanged from 2026-10-14.",
-  "auditReport": "reports/2026-10-15-audit.md",
-  "lastRun": "2026-10-15",
+  "issueCount": 9,
+  "note": "Morning audit 2026-10-17: no auto-fixes needed. New article hedge-boundary-ownership-broadstairs.html passes all checks (procedural-first, WCA 1981 callout, flat Article JSON-LD, full SEO). 9 needs-review items, unchanged from 2026-10-16.",
+  "auditReport": "reports/2026-10-17-audit.md",
+  "lastRun": "2026-10-17",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "robotsTxtAiCrawlers": "all-15-present",
   "sitemapLastmod": "all-present",
   "ingestionTriggersCreated": false,
-  "totalArticles": 66,
+  "totalArticles": 67,
   "openIssues": [
     "hedge-removal-grubbing-out-broadstairs.html: orphan redirect stub not linked from how-to/index.html (carry-over; sitemap entry present; editorial decision needed on removal or replacement with genuine article)",
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over; content decision needed)",
@@ -20,8 +20,7 @@
     "hedge-tool-care-end-of-season-broadstairs.html has no WCA 1981 reference (carry-over; tool-maintenance article with no cutting operations, arguably exempt)",
     "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format rather than compact format used by all other articles (carry-over; cosmetic only, functionally identical)",
     "services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects (noindex,follow); server-side 301 would be cleaner (carry-over from PR #7)",
-    "YouTube citations unverifiable via proxy in 37+ articles (verified via web-search at generation time; carry-over; known infrastructure limitation)",
-    "reports/status.json totalHowToArticles shows 66 but actual file count is 65: aucuba double-counted in category arrays (NEW 2026-10-14; minor nightly pipeline counter bug)"
+    "YouTube citations unverifiable via proxy in 67+ articles (verified via web-search at generation time; carry-over; known infrastructure limitation)"
   ],
   "resolvedIssues": [
     "sitemap.xml: /how-to/ lastmod corrected from 2026-10-13 to 2026-10-14. Fixed 2026-10-14.",
@@ -31,6 +30,8 @@
     "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference confirmed present; prior audit grep missed HTML entity form. Resolved 2026-10-02. NOTE: 2026-10-11 re-check found only sidebar mention; main body has no formal callout. Re-opened as weak reference.",
     "sitemap.xml: /how-to/ lastmod corrected from 2026-10-04 to 2026-10-12. Fixed 2026-10-12.",
     "sitemap.xml: /jobs/ lastmod corrected from 2026-09-24 to 2026-10-10. Fixed 2026-10-12.",
-    "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference confirmed present; prior audit grep missed HTML entity form. Resolved 2026-10-02. NOTE: 2026-10-11 re-check found only sidebar mention; main body has no formal callout. Re-opened as weak reference."
+    "sitemap.xml: /how-to/ + lavender lastmod corrected 2026-10-15.",
+    "sitemap.xml: /how-to/ + hedge-laying + hedge-propagation-hardwood lastmod corrected 2026-10-16.",
+    "reports/status.json totalHowToArticles double-count of aucuba: corrected (68 files total: 67 genuine + 1 orphan stub)."
   ]
 }
