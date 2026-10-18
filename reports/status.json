@@ -1,16 +1,16 @@
 {
-  "lastRun": "2026-10-17",
+  "lastRun": "2026-10-18",
   "lastRunType": "nightly-content",
   "lastAuditAt": "2026-10-16T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 9,
-  "note": "Nightly content run 2026-10-17: new article hedge-boundary-ownership-broadstairs.html (Neighbour law category). ivy-in-hedges JET-RELATED-GUIDES updated. Carry-over open issues from 2026-10-16 audit unchanged.",
-  "contentReport": "reports/2026-10-17-content.md",
+  "note": "Nightly content run 2026-10-18: new article cupressus-macrocarpa-monterey-cypress-hedge-pruning-broadstairs.html (Coastal species category). thuja and leylandii JET-RELATED-GUIDES updated. Carry-over open issues from 2026-10-16 audit unchanged.",
+  "contentReport": "reports/2026-10-18-content.md",
   "auditReport": "reports/2026-10-16-audit.md",
   "emDashStatus": "clean",
   "robotsTxtAiCrawlers": "all-15-present",
   "sitemapLastmod": "all-present",
-  "totalArticles": 68,
+  "totalArticles": 69,
   "openIssues": [
     "hedge-removal-grubbing-out-broadstairs.html: orphan redirect stub not linked from how-to/index.html (carry-over; sitemap entry present; editorial decision needed on removal or replacement with genuine article)",
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over; content decision needed)",
@@ -31,8 +31,16 @@
     "sitemap.xml: /how-to/ lastmod corrected from 2026-10-13 to 2026-10-15 (carried from 2026-10-15 audit). Already resolved.",
     "sitemap.xml: lavender-hedge-pruning-broadstairs.html lastmod corrected (carried from 2026-10-15 audit). Already resolved."
   ],
-  "contentReport": "reports/2026-10-16-content.md",
   "articlesShipped": [
+    {
+      "date": "2026-10-18",
+      "slug": "cupressus-macrocarpa-monterey-cypress-hedge-pruning-broadstairs",
+      "title": "How to Prune a Monterey Cypress Hedge in Broadstairs: Timing, the No-Brown-Wood Rule and Canker Watch for CT10",
+      "category": "Coastal species choice and salt-wind resilience",
+      "sourceChannel": "Royal Horticultural Society (rhs.org.uk/plants/leylandii/pruning-guide, applicable to Cupressus macrocarpa per the RHS guide itself; rhs.org.uk plant profiles for C. macrocarpa Goldcrest and species); BBC Gardeners' World (gardenersworld.com, 'How to trim a conifer hedge'); RHS 'Cypress: canker' (rhs.org.uk/problems/cypress-canker); Hopes Grove Nurseries (hopesgrovenurseries.co.uk). Channel-authority heuristic applied (YouTube direct access not possible).",
+      "youtubeEgressBlocked": true,
+      "topicGap": "Cupressus macrocarpa had no existing article. It is the most commonly planted large-scale evergreen windbreak/screen conifer in CT10 clifftop gardens (Kingsgate, North Foreland, Stone Bay, Joss Bay) and a fundamentally different pruning proposition from Leylandii (which has a reduction/high-hedges angle) and Thuja (which sits in cutting/shaping technique). Canker susceptibility, the April-August window applied to macrocarpa, and the Goldcrest variety specifics are all uncovered. Fills the coastal-species category gap for the primary CT10 windbreak conifer."
+    },
     {
       "date": "2026-10-16",
       "slug": "cornus-dogwood-hedge-pruning-broadstairs",
@@ -122,8 +130,8 @@
       "topicGap": "Ivy management in established hedges has no existing article. The topic is procedurally distinct (assess/cut/wait/clear/maintain), has strong WCA 1981 timing compliance angle, covers a common CT10 problem in Victorian/Edwardian privet hedges, and has genuine local specificity around Thanet chalk drainage, SSSI edge hawthorn/blackthorn context, and three conservation areas."
     }
   ],
-  "totalHowToArticles": 68,
-  "totalHowToArticlesNote": "68 as of 2026-10-17: 67 genuine articles + 1 redirect stub (hedge-removal-grubbing-out).",
+  "totalHowToArticles": 69,
+  "totalHowToArticlesNote": "69 as of 2026-10-18: 68 genuine articles + 1 redirect stub (hedge-removal-grubbing-out).",
   "structuralAngleCompliant": true,
   "wcaCalloutPresent": true,
   "jetRelatedGuidesBlockPresent": true,
@@ -132,7 +140,7 @@
     "Cutting and shaping technique": ["hedge-cutting-technique-broadstairs", "yew-hedge-pruning-broadstairs", "privet-hedge-pruning-broadstairs", "cherry-laurel-hedge-pruning-broadstairs", "beech-hedge-pruning-broadstairs", "hornbeam-hedge-pruning-broadstairs", "escallonia-hedge-pruning-broadstairs", "photinia-red-robin-hedge-pruning-broadstairs", "griselinia-hedge-pruning-broadstairs", "holly-hedge-pruning-broadstairs", "hawthorn-hedge-pruning-broadstairs", "pyracantha-hedge-pruning-broadstairs", "portuguese-laurel-hedge-pruning-broadstairs", "elaeagnus-hedge-pruning-broadstairs", "pittosporum-hedge-pruning-broadstairs", "box-hedge-pruning-broadstairs", "cotoneaster-hedge-pruning-broadstairs", "leylandii-hedge-reduction-broadstairs", "berberis-hedge-pruning-broadstairs", "viburnum-tinus-hedge-pruning-broadstairs", "forsythia-hedge-pruning-broadstairs", "lonicera-nitida-hedge-pruning-broadstairs", "field-maple-hedge-pruning-broadstairs", "blackthorn-hedge-pruning-broadstairs", "hazel-hedge-pruning-broadstairs", "aucuba-japonica-spotted-laurel-pruning-broadstairs", "spiraea-hedge-pruning-broadstairs", "rosemary-hedge-pruning-broadstairs", "cornus-dogwood-hedge-pruning-broadstairs"],
     "Reduction and renovation of overgrown hedges": ["overgrown-hedge-renovation-broadstairs", "hedge-reduction-broadstairs-clifftop", "hedge-gap-repair-gapping-up-broadstairs", "hedge-removal-grubbing-out-broadstairs", "storm-damaged-hedge-repair-broadstairs"],
     "Seasonal timing and nesting-season law": ["when-to-cut-hedges-broadstairs-calendar", "hedge-winter-check-broadstairs-october", "nest-check-hedge-before-cutting-broadstairs"],
-    "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs", "hebe-hedge-pruning-broadstairs", "choisya-hedge-pruning-broadstairs", "lavender-hedge-pruning-broadstairs", "thuja-western-red-cedar-hedge-pruning-broadstairs", "euonymus-hedge-pruning-broadstairs", "olearia-hedge-pruning-broadstairs", "rosemary-hedge-pruning-broadstairs"],
+    "Coastal species choice and salt-wind resilience": ["coastal-hedges-broadstairs-species-guide", "tamarisk-hedge-pruning-broadstairs", "rosa-rugosa-hedge-pruning-broadstairs", "hebe-hedge-pruning-broadstairs", "choisya-hedge-pruning-broadstairs", "lavender-hedge-pruning-broadstairs", "thuja-western-red-cedar-hedge-pruning-broadstairs", "euonymus-hedge-pruning-broadstairs", "olearia-hedge-pruning-broadstairs", "rosemary-hedge-pruning-broadstairs", "cupressus-macrocarpa-monterey-cypress-hedge-pruning-broadstairs"],
     "Conservation-area and section-211 paperwork": ["broadstairs-conservation-areas-hedge-rules", "apply-permission-prune-trees-broadstairs-conservation-area"],
     "Neighbour law and high-hedge disputes": ["high-hedges-neighbour-law-broadstairs", "hedge-boundary-ownership-broadstairs"],
     "Clifftop/SSSI-edge work and herring-gull protocol": ["herring-gull-nesting-cliff-hedges-broadstairs"],
