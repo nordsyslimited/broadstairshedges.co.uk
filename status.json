@@ -1,16 +1,16 @@
 {
-  "lastAuditAt": "2026-10-19T07:00:00Z",
+  "lastAuditAt": "2026-10-20T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 9,
-  "note": "Morning audit 2026-10-19: 1 auto-fix (sitemap /how-to/ lastmod 2026-10-18 → 2026-10-19). New article pot-grown-hedge-planting passes all checks. 9 needs-review items unchanged from 2026-10-18.",
-  "auditReport": "reports/2026-10-19-audit.md",
-  "lastRun": "2026-10-19",
+  "note": "Morning audit 2026-10-20: 2 auto-fixes (banned filler 'robust' → 'durable' in hedge-plant-protection; sitemap /how-to/ lastmod 2026-10-19 → 2026-10-20). New article hedge-plant-protection passes all checks. 9 needs-review items unchanged from 2026-10-19.",
+  "auditReport": "reports/2026-10-20-audit.md",
+  "lastRun": "2026-10-20",
   "lastRunType": "morning-audit",
   "emDashStatus": "clean",
   "robotsTxtAiCrawlers": "all-15-present",
   "sitemapLastmod": "all-present",
   "ingestionTriggersCreated": false,
-  "totalArticles": 70,
+  "totalArticles": 72,
   "openIssues": [
     "hedge-removal-grubbing-out-broadstairs.html: orphan redirect stub not linked from how-to/index.html (carry-over; sitemap entry present; editorial decision needed on removal or replacement with genuine article)",
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over; content decision needed)",
@@ -20,7 +20,7 @@
     "hedge-tool-care-end-of-season-broadstairs.html has no WCA 1981 reference (carry-over; tool-maintenance article with no cutting operations, arguably exempt)",
     "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format rather than compact format used by all other articles (carry-over; cosmetic only, functionally identical)",
     "services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects (noindex,follow); server-side 301 would be cleaner (carry-over from PR #7)",
-    "YouTube citations unverifiable via proxy in 70 articles (verified via web-search at generation time; carry-over; known infrastructure limitation)"
+    "YouTube citations unverifiable via proxy in 72 articles (verified via web-search at generation time; carry-over; known infrastructure limitation)"
   ],
   "resolvedIssues": [
     "sitemap.xml: /how-to/ lastmod corrected from 2026-10-13 to 2026-10-14. Fixed 2026-10-14.",
@@ -33,6 +33,8 @@
     "sitemap.xml: /how-to/ + lavender lastmod corrected 2026-10-15.",
     "sitemap.xml: /how-to/ + hedge-laying + hedge-propagation-hardwood lastmod corrected 2026-10-16.",
     "reports/status.json totalHowToArticles double-count of aucuba: corrected (68 files total: 67 genuine + 1 orphan stub).",
-    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-18 to 2026-10-19. Fixed 2026-10-19."
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-18 to 2026-10-19. Fixed 2026-10-19.",
+    "hedge-plant-protection-guards-wind-rock-broadstairs.html: banned filler 'robust' replaced with 'durable'. Fixed 2026-10-20.",
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-19 to 2026-10-20. Fixed 2026-10-20."
   ]
 }
