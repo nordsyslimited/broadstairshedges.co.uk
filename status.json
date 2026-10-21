@@ -1,11 +1,11 @@
 {
-  "lastAuditAt": "2026-10-20T07:00:00Z",
+  "lastAuditAt": "2026-10-21T07:00:00Z",
   "auditStatus": "issues",
   "issueCount": 9,
-  "note": "Nightly content run 2026-10-21: 1 new article fuchsia-hedge-pruning-broadstairs (Coastal species). JET-RELATED-GUIDES updated in escallonia (replaced pittosporum) and tamarisk (replaced griselinia). 9 carry-over needs-review items unchanged.",
-  "auditReport": "reports/2026-10-20-audit.md",
+  "note": "Morning audit 2026-10-21: 1 auto-fix (sitemap /how-to/ lastmod 2026-10-20 → 2026-10-21 after fuchsia article added by nightly run). 9 carry-over needs-review items unchanged.",
+  "auditReport": "reports/2026-10-21-audit.md",
   "lastRun": "2026-10-21",
-  "lastRunType": "nightly-content",
+  "lastRunType": "morning-audit",
   "contentReport": "reports/2026-10-21-content.md",
   "emDashStatus": "clean",
   "robotsTxtAiCrawlers": "all-15-present",
@@ -24,18 +24,18 @@
     "YouTube citations unverifiable via proxy in 73 articles (verified via web-search at generation time; carry-over; known infrastructure limitation)"
   ],
   "resolvedIssues": [
-    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-13 to 2026-10-14. Fixed 2026-10-14.",
-    "sitemap.xml: forsythia-hedge-pruning-broadstairs.html lastmod corrected from 2026-09-13 to 2026-10-14. Fixed 2026-10-14.",
-    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-12 to 2026-10-13. Fixed 2026-10-13.",
-    "hedge-removal-grubbing-out-broadstairs.html: sitemap entry added 2026-10-11 (lastmod 2026-10-08). Orphan from how-to/index still open.",
-    "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference confirmed present; prior audit grep missed HTML entity form. Resolved 2026-10-02. NOTE: 2026-10-11 re-check found only sidebar mention; main body has no formal callout. Re-opened as weak reference.",
-    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-04 to 2026-10-12. Fixed 2026-10-12.",
-    "sitemap.xml: /jobs/ lastmod corrected from 2026-09-24 to 2026-10-10. Fixed 2026-10-12.",
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-20 to 2026-10-21. Fixed 2026-10-21.",
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-19 to 2026-10-20. Fixed 2026-10-20.",
+    "hedge-plant-protection-guards-wind-rock-broadstairs.html: banned filler 'robust' replaced with 'durable'. Fixed 2026-10-20.",
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-18 to 2026-10-19. Fixed 2026-10-19.",
+    "reports/status.json totalHowToArticles double-count of aucuba: corrected (68 files total: 67 genuine + 1 orphan stub).",
     "sitemap.xml: /how-to/ + lavender lastmod corrected 2026-10-15.",
     "sitemap.xml: /how-to/ + hedge-laying + hedge-propagation-hardwood lastmod corrected 2026-10-16.",
-    "reports/status.json totalHowToArticles double-count of aucuba: corrected (68 files total: 67 genuine + 1 orphan stub).",
-    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-18 to 2026-10-19. Fixed 2026-10-19.",
-    "hedge-plant-protection-guards-wind-rock-broadstairs.html: banned filler 'robust' replaced with 'durable'. Fixed 2026-10-20.",
-    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-19 to 2026-10-20. Fixed 2026-10-20."
+    "sitemap.xml: /how-to/ + forsythia lastmod corrected 2026-10-14.",
+    "sitemap.xml: /jobs/ lastmod corrected from 2026-09-24 to 2026-10-10. Fixed 2026-10-12.",
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-04 to 2026-10-12. Fixed 2026-10-12.",
+    "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference confirmed present; prior audit grep missed HTML entity form. Resolved 2026-10-02. NOTE: 2026-10-11 re-check found only sidebar mention; main body has no formal callout. Re-opened as weak reference.",
+    "hedge-removal-grubbing-out-broadstairs.html: sitemap entry added 2026-10-11 (lastmod 2026-10-08). Orphan from how-to/index still open.",
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-12 to 2026-10-13. Fixed 2026-10-13."
   ]
 }
