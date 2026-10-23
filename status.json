@@ -1,11 +1,11 @@
 {
-  "lastAuditAt": "2026-10-22T07:00:00Z",
+  "lastAuditAt": "2026-10-23T08:12:44Z",
   "auditStatus": "issues",
   "issueCount": 9,
-  "note": "Nightly content run 2026-10-23: 1 new article added (bramble-removal-from-hedge-broadstairs.html). how-to/index.html card added, sitemap.xml updated, ivy-in-hedges JET-RELATED-GUIDES block updated. 9 carry-over open issues unchanged.",
-  "auditReport": "reports/2026-10-22-audit.md",
+  "note": "Morning audit 2026-10-23: sitemap /how-to/ lastmod corrected to 2026-10-23. New article bramble-removal-from-hedge-broadstairs.html clean on all checks. 9 carry-over open issues unchanged.",
+  "auditReport": "reports/2026-10-23-audit.md",
   "lastRun": "2026-10-23",
-  "lastRunType": "nightly-content",
+  "lastRunType": "morning-audit",
   "contentReport": "reports/2026-10-23-content.md",
   "emDashStatus": "clean",
   "robotsTxtAiCrawlers": "all-15-present",
@@ -21,9 +21,10 @@
     "hedge-tool-care-end-of-season-broadstairs.html has no WCA 1981 reference (carry-over; tool-maintenance article with no cutting operations, arguably exempt)",
     "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format rather than compact format used by all other articles (carry-over; cosmetic only, functionally identical)",
     "services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects (noindex,follow); server-side 301 would be cleaner (carry-over from PR #7)",
-    "YouTube citations unverifiable via proxy in 74 articles (verified via web-search at generation time; carry-over; known infrastructure limitation)"
+    "YouTube citations unverifiable via proxy in 75 articles (verified via web-search at generation time; carry-over; known infrastructure limitation)"
   ],
   "resolvedIssues": [
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-22 to 2026-10-23. Fixed 2026-10-23.",
     "sitemap.xml: /how-to/ lastmod corrected from 2026-10-21 to 2026-10-22. Fixed 2026-10-22.",
     "sitemap.xml: /how-to/ lastmod corrected from 2026-10-20 to 2026-10-21. Fixed 2026-10-21.",
     "sitemap.xml: /how-to/ lastmod corrected from 2026-10-19 to 2026-10-20. Fixed 2026-10-20.",
