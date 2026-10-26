@@ -1,17 +1,17 @@
 {
-  "lastAuditAt": "2026-10-25T08:00:00Z",
+  "lastAuditAt": "2026-10-26T08:15:00Z",
   "auditStatus": "issues",
   "issueCount": 9,
-  "note": "Morning audit 2026-10-25: 3 sitemap lastmod values corrected (forsythia, spiraea, jobs hub). New ribes-sanguineum article clean on all checks. 9 carry-over open issues unchanged.",
-  "auditReport": "reports/2026-10-25-audit.md",
-  "lastRun": "2026-10-25",
+  "note": "Morning audit 2026-10-26: banned filler 'robust' fixed in sea-buckthorn article; /how-to/ sitemap lastmod corrected to 2026-10-26. 9 carry-over open issues unchanged.",
+  "auditReport": "reports/2026-10-26-audit.md",
+  "lastRun": "2026-10-26",
   "lastRunType": "morning-audit",
-  "contentReport": "reports/2026-10-25-content.md",
+  "contentReport": "reports/2026-10-26-content.md",
   "emDashStatus": "clean",
   "robotsTxtAiCrawlers": "all-15-present",
   "sitemapLastmod": "all-present",
   "ingestionTriggersCreated": false,
-  "totalArticles": 77,
+  "totalArticles": 78,
   "openIssues": [
     "hedge-removal-grubbing-out-broadstairs.html: orphan redirect stub not linked from how-to/index.html (carry-over; sitemap entry absent; editorial decision needed on removal or replacement with genuine article)",
     "broadstairs-conservation-areas-hedge-rules.html body has no WCA 1981 nesting-season callout (carry-over; content decision needed)",
@@ -24,6 +24,8 @@
     "YouTube citations unverifiable via proxy in articles (verified via web-search at generation time; carry-over; known infrastructure limitation)"
   ],
   "resolvedIssues": [
+    "sea-buckthorn-hedge-pruning-broadstairs.html: banned filler 'robust' replaced with 'tough, healthy'. Fixed 2026-10-26.",
+    "sitemap.xml: /how-to/ lastmod corrected 2026-10-25 -> 2026-10-26. Fixed 2026-10-26.",
     "sitemap.xml: forsythia lastmod corrected 2026-10-14 -> 2026-10-25. Fixed 2026-10-25.",
     "sitemap.xml: spiraea lastmod corrected 2026-10-14 -> 2026-10-25. Fixed 2026-10-25.",
     "sitemap.xml: /jobs/ hub lastmod corrected 2026-10-14 -> 2026-10-24. Fixed 2026-10-25.",
