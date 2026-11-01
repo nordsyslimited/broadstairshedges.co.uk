@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-31",
+  "lastRun": "2026-11-01",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -8,8 +8,15 @@
       "url": "/how-to/holm-oak-hedge-pruning-broadstairs.html",
       "title": "How to Clip a Holm Oak Hedge in Broadstairs: Annual Timing, Batter Technique and Renovation for CT10",
       "category": "Coastal species"
+    },
+    {
+      "date": "2026-11-01",
+      "slug": "hedge-formative-pruning-years-2-3-broadstairs",
+      "url": "/how-to/hedge-formative-pruning-years-2-3-broadstairs.html",
+      "title": "How to Carry Out Formative Pruning on a New Hedge in Years Two and Three: Building a Dense Framework for CT10 Gardens",
+      "category": "Cutting and shaping technique"
     }
   ],
-  "totalHowToArticles": 83,
+  "totalHowToArticles": 84,
   "status": "ok"
 }
