@@ -1,15 +1,29 @@
 {
-  "lastRun": "2026-10-30",
+  "lastRun": "2026-11-02",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
-      "date": "2026-10-30",
-      "slug": "hedge-aphids-pest-management-broadstairs",
-      "url": "/how-to/hedge-aphids-pest-management-broadstairs.html",
-      "title": "How to Identify and Treat Aphids on Hedge Plants in Broadstairs: Control and Prevention for CT10",
-      "category": "Pests & disease"
+      "date": "2026-10-31",
+      "slug": "holm-oak-hedge-pruning-broadstairs",
+      "url": "/how-to/holm-oak-hedge-pruning-broadstairs.html",
+      "title": "How to Clip a Holm Oak Hedge in Broadstairs: Annual Timing, Batter Technique and Renovation for CT10",
+      "category": "Coastal species"
+    },
+    {
+      "date": "2026-11-01",
+      "slug": "hedge-formative-pruning-years-2-3-broadstairs",
+      "url": "/how-to/hedge-formative-pruning-years-2-3-broadstairs.html",
+      "title": "How to Carry Out Formative Pruning on a New Hedge in Years Two and Three: Building a Dense Framework for CT10 Gardens",
+      "category": "Cutting and shaping technique"
+    },
+    {
+      "date": "2026-11-02",
+      "slug": "weigela-hedge-pruning-broadstairs",
+      "url": "/how-to/weigela-hedge-pruning-broadstairs.html",
+      "title": "How to Prune a Weigela Hedge: Timing the Post-Flowering Cut and Renovation for Broadstairs CT10",
+      "category": "Cutting technique"
     }
   ],
-  "totalHowToArticles": 82,
+  "totalHowToArticles": 85,
   "status": "ok"
 }
