@@ -1,12 +1,12 @@
 {
-  "lastAuditAt": "2026-11-02T08:21:00Z",
+  "lastAuditAt": "2026-11-03T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 11,
-  "note": "Morning audit 2026-11-02: 1 auto-fix (banned filler 'robust' in weigela article). 1 new needs-review item (jobs/index.html uses 'we/team' voice, conflicts with sole-trader first-person voice). 10 carry-over open issues unchanged.",
-  "auditReport": "reports/2026-11-02-audit.md",
-  "lastRun": "2026-11-02",
-  "lastRunType": "nightly-content",
-  "contentReport": "reports/2026-11-02-content.md",
+  "note": "Morning audit 2026-11-03: 54 sitemap lastmod dates corrected from git log (services, areas, many how-to articles had stale dates). New philadelphus article clean. 11 carry-over open issues unchanged.",
+  "auditReport": "reports/2026-11-03-audit.md",
+  "lastRun": "2026-11-03",
+  "lastRunType": "morning-audit",
+  "contentReport": "reports/2026-11-03-content.md",
   "emDashStatus": "clean",
   "robotsTxtAiCrawlers": "all-15-present",
   "sitemapLastmod": "all-present",
@@ -26,6 +26,7 @@
     "YouTube citations unverifiable via proxy in articles (verified via web-search at generation time; carry-over; known infrastructure limitation)"
   ],
   "resolvedIssues": [
+    "sitemap.xml: 54 lastmod date corrections made 2026-11-03 (services, areas, many how-to articles had stale August/September dates; corrected to git log dates).",
     "weigela-hedge-pruning-broadstairs.html: banned filler 'robust' replaced with 'dependable'. Fixed 2026-11-02.",
     "sitemap.xml: new-hedge-establishment-first-year-broadstairs.html lastmod corrected from 2026-08-28 to 2026-11-01 (modified by nightly commit). Fixed 2026-11-01.",
     "sitemap.xml: /how-to/ lastmod corrected 2026-10-29 -> 2026-10-30. Fixed 2026-10-30.",
