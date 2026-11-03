@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-02",
+  "lastRun": "2026-11-03",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -22,8 +22,15 @@
       "url": "/how-to/weigela-hedge-pruning-broadstairs.html",
       "title": "How to Prune a Weigela Hedge: Timing the Post-Flowering Cut and Renovation for Broadstairs CT10",
       "category": "Cutting technique"
+    },
+    {
+      "date": "2026-11-03",
+      "slug": "philadelphus-mock-orange-pruning-broadstairs",
+      "url": "/how-to/philadelphus-mock-orange-pruning-broadstairs.html",
+      "title": "How to Prune a Mock Orange (Philadelphus): Timing, Technique and Renovation for Broadstairs CT10",
+      "category": "Cutting technique"
     }
   ],
-  "totalHowToArticles": 85,
+  "totalHowToArticles": 86,
   "status": "ok"
 }
