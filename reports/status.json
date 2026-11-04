@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-03",
+  "lastRun": "2026-11-04",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -29,8 +29,15 @@
       "url": "/how-to/philadelphus-mock-orange-pruning-broadstairs.html",
       "title": "How to Prune a Mock Orange (Philadelphus): Timing, Technique and Renovation for Broadstairs CT10",
       "category": "Cutting technique"
+    },
+    {
+      "date": "2026-11-04",
+      "slug": "hedge-drought-stress-established-broadstairs",
+      "url": "/how-to/hedge-drought-stress-established-broadstairs.html",
+      "title": "Drought Stress in Established Hedges: How to Spot It, Water Correctly and Recover on Broadstairs Chalk",
+      "category": "Annual maintenance"
     }
   ],
-  "totalHowToArticles": 86,
+  "totalHowToArticles": 87,
   "status": "ok"
 }
