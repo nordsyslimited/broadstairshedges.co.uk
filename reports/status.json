@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-04",
+  "lastRun": "2026-11-05",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -36,8 +36,15 @@
       "url": "/how-to/hedge-drought-stress-established-broadstairs.html",
       "title": "Drought Stress in Established Hedges: How to Spot It, Water Correctly and Recover on Broadstairs Chalk",
       "category": "Annual maintenance"
+    },
+    {
+      "date": "2026-11-05",
+      "slug": "osmanthus-burkwoodii-hedge-pruning-broadstairs",
+      "url": "/how-to/osmanthus-burkwoodii-hedge-pruning-broadstairs.html",
+      "title": "How to Prune an Osmanthus Hedge: Post-Flowering Timing, Batter Technique and the Nesting-Season Check for Broadstairs CT10",
+      "category": "Coastal species"
     }
   ],
-  "totalHowToArticles": 87,
+  "totalHowToArticles": 88,
   "status": "ok"
 }
