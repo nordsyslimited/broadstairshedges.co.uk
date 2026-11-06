@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-05",
+  "lastRun": "2026-11-06",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -43,8 +43,15 @@
       "url": "/how-to/osmanthus-burkwoodii-hedge-pruning-broadstairs.html",
       "title": "How to Prune an Osmanthus Hedge: Post-Flowering Timing, Batter Technique and the Nesting-Season Check for Broadstairs CT10",
       "category": "Coastal species"
+    },
+    {
+      "date": "2026-11-06",
+      "slug": "hedge-management-cycle-rotation-broadstairs",
+      "url": "/how-to/hedge-management-cycle-rotation-broadstairs.html",
+      "title": "How to Manage a Mixed Native Hedge on a Rotation: The Hedgerow Management Cycle for CT10 Wildlife",
+      "category": "Wildlife & timing"
     }
   ],
-  "totalHowToArticles": 88,
+  "totalHowToArticles": 89,
   "status": "ok"
 }
