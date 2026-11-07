@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-11-06T08:12:41Z",
+  "lastAuditAt": "2026-11-07T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 11,
-  "note": "Morning audit 2026-11-06: new article hedge-management-cycle-rotation clean. No auto-fixes. 11 carry-over open issues unchanged.",
-  "auditReport": "reports/2026-11-06-audit.md",
+  "note": "Morning audit 2026-11-07: sitemap /how-to/ hub lastmod corrected 2026-11-06 → 2026-11-07. New article brachyglottis clean. 11 carry-over open issues unchanged.",
+  "auditReport": "reports/2026-11-07-audit.md",
   "lastRun": "2026-11-07",
   "lastRunType": "nightly-content",
   "articlesShipped": 1,
@@ -27,9 +27,10 @@
     "hedge-tool-care-end-of-season-broadstairs.html has no WCA 1981 reference (carry-over; tool-maintenance article with no cutting operations, arguably exempt)",
     "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format rather than compact format used by all other articles (carry-over; cosmetic only, functionally identical)",
     "services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects (noindex,follow); server-side 301 would be cleaner (carry-over from PR #7)",
-    "how-to/index.html: hedge-formative-pruning-years-2-3-broadstairs.html appears as two separate grid cards (lines 210-212 and 570-572 with different card text); one entry is redundant (carry-over 2026-11-05)"
+    "how-to/index.html: hedge-formative-pruning-years-2-3-broadstairs.html has 4 href occurrences (2 full duplicate cards); broadstairs-conservation-areas-hedge-rules.html, herring-gull-nesting-cliff-hedges-broadstairs.html and coastal-hedges-broadstairs-species-guide.html each have 3 occurrences (1 extra href each); editorial cleanup needed (carry-over 2026-11-05)"
   ],
   "resolvedIssues": [
+    "sitemap.xml: /how-to/ hub lastmod corrected from 2026-11-06 to 2026-11-07 (brachyglottis article added 7 November 2026). Fixed 2026-11-07.",
     "sitemap.xml: /how-to/ hub lastmod corrected from 2026-11-04 to 2026-11-05 (osmanthus article added 5 November 2026). Fixed 2026-11-05.",
     "hedge-drought-stress-established-broadstairs.html: banned filler 'robust' replaced with 'resilient'. Fixed 2026-11-04.",
     "sitemap.xml: hedge-feeding-mulching-broadstairs.html lastmod corrected from 2026-10-12 to 2026-11-04. Fixed 2026-11-04.",
@@ -52,15 +53,6 @@
     "sitemap.xml: /how-to/ lastmod corrected from 2026-10-21 to 2026-10-22. Fixed 2026-10-22.",
     "sitemap.xml: /how-to/ lastmod corrected from 2026-10-20 to 2026-10-21. Fixed 2026-10-21.",
     "hedge-plant-protection-guards-wind-rock-broadstairs.html: banned filler 'robust' replaced with 'durable'. Fixed 2026-10-20.",
-    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-18 to 2026-10-19. Fixed 2026-10-19.",
-    "reports/status.json totalHowToArticles double-count of aucuba: corrected (68 files total: 67 genuine + 1 orphan stub).",
-    "sitemap.xml: /how-to/ + lavender lastmod corrected 2026-10-15.",
-    "sitemap.xml: /how-to/ + hedge-laying + hedge-propagation-hardwood lastmod corrected 2026-10-16.",
-    "sitemap.xml: /how-to/ + forsythia lastmod corrected 2026-10-14.",
-    "sitemap.xml: /jobs/ lastmod corrected from 2026-09-24 to 2026-10-10. Fixed 2026-10-12.",
-    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-04 to 2026-10-12. Fixed 2026-10-12.",
-    "coastal-hedges-broadstairs-species-guide.html: WCA 1981 reference confirmed present; prior audit grep missed HTML entity form. Resolved 2026-10-02. NOTE: 2026-10-11 re-check found only sidebar mention; main body has no formal callout. Re-opened as weak reference.",
-    "hedge-removal-grubbing-out-broadstairs.html: sitemap entry added 2026-10-11 (lastmod 2026-10-08). Orphan from how-to/index still open.",
-    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-12 to 2026-10-13. Fixed 2026-10-13."
+    "sitemap.xml: /how-to/ lastmod corrected from 2026-10-18 to 2026-10-19. Fixed 2026-10-19."
   ]
 }
