@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-06",
+  "lastRun": "2026-11-08",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -50,8 +50,22 @@
       "url": "/how-to/hedge-management-cycle-rotation-broadstairs.html",
       "title": "How to Manage a Mixed Native Hedge on a Rotation: The Hedgerow Management Cycle for CT10 Wildlife",
       "category": "Wildlife & timing"
+    },
+    {
+      "date": "2026-11-07",
+      "slug": "brachyglottis-senecio-sunshine-pruning-broadstairs",
+      "url": "/how-to/brachyglottis-senecio-sunshine-pruning-broadstairs.html",
+      "title": "How to Prune Brachyglottis 'Sunshine': the Bare-Wood Rule, Spring Timing and Coastal Notes for Broadstairs CT10",
+      "category": "Coastal species"
+    },
+    {
+      "date": "2026-11-08",
+      "slug": "guelder-rose-viburnum-opulus-hedge-broadstairs",
+      "url": "/how-to/guelder-rose-viburnum-opulus-hedge-broadstairs.html",
+      "title": "How to Prune a Guelder Rose in a Broadstairs Hedgerow: Timing, the Berry Window and CT10 Notes",
+      "category": "Native hedgerow species"
     }
   ],
-  "totalHowToArticles": 89,
+  "totalHowToArticles": 91,
   "status": "ok"
 }
