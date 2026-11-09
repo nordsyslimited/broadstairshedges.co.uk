@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-08",
+  "lastRun": "2026-11-09",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -64,8 +64,15 @@
       "url": "/how-to/guelder-rose-viburnum-opulus-hedge-broadstairs.html",
       "title": "How to Prune a Guelder Rose in a Broadstairs Hedgerow: Timing, the Berry Window and CT10 Notes",
       "category": "Native hedgerow species"
+    },
+    {
+      "date": "2026-11-09",
+      "slug": "chalk-soil-hedge-planting-preparation-broadstairs",
+      "url": "/how-to/chalk-soil-hedge-planting-preparation-broadstairs.html",
+      "title": "How to Prepare Chalk Garden Ground for Hedge Planting: a Step-by-Step Guide for CT10",
+      "category": "Planting technique on Margate Chalk"
     }
   ],
-  "totalHowToArticles": 91,
+  "totalHowToArticles": 92,
   "status": "ok"
 }
