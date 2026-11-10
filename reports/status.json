@@ -1,14 +1,7 @@
 {
-  "lastRun": "2026-11-09",
+  "lastRun": "2026-11-10",
   "lastRunType": "nightly-content",
   "articlesShipped": [
-    {
-      "date": "2026-10-31",
-      "slug": "holm-oak-hedge-pruning-broadstairs",
-      "url": "/how-to/holm-oak-hedge-pruning-broadstairs.html",
-      "title": "How to Clip a Holm Oak Hedge in Broadstairs: Annual Timing, Batter Technique and Renovation for CT10",
-      "category": "Coastal species"
-    },
     {
       "date": "2026-11-01",
       "slug": "hedge-formative-pruning-years-2-3-broadstairs",
@@ -71,8 +64,15 @@
       "url": "/how-to/chalk-soil-hedge-planting-preparation-broadstairs.html",
       "title": "How to Prepare Chalk Garden Ground for Hedge Planting: a Step-by-Step Guide for CT10",
       "category": "Planting technique on Margate Chalk"
+    },
+    {
+      "date": "2026-11-10",
+      "slug": "hedgerow-regulations-removal-notice-broadstairs",
+      "url": "/how-to/hedgerow-regulations-removal-notice-broadstairs.html",
+      "title": "Hedgerow Regulations: How to Check Whether You Need Permission Before Removing a Countryside Hedge in Broadstairs",
+      "category": "Rules & paperwork"
     }
   ],
-  "totalHowToArticles": 92,
+  "totalHowToArticles": 93,
   "status": "ok"
 }
