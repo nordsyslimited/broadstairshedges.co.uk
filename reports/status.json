@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-10",
+  "lastRun": "2026-11-11",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -71,8 +71,15 @@
       "url": "/how-to/hedgerow-regulations-removal-notice-broadstairs.html",
       "title": "Hedgerow Regulations: How to Check Whether You Need Permission Before Removing a Countryside Hedge in Broadstairs",
       "category": "Rules & paperwork"
+    },
+    {
+      "date": "2026-11-11",
+      "slug": "myrobalan-cherry-plum-hedge-pruning-broadstairs",
+      "url": "/how-to/myrobalan-cherry-plum-hedge-pruning-broadstairs.html",
+      "title": "How to Prune a Myrobalan (Cherry Plum) Hedge: Summer-Only Rule, Silver Leaf Risk and CT10 Notes",
+      "category": "Cutting technique"
     }
   ],
-  "totalHowToArticles": 93,
+  "totalHowToArticles": 94,
   "status": "ok"
 }
