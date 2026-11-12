@@ -1,0 +1,35 @@
+{
+  "run_date": "2026-11-12",
+  "run_type": "nightly-content",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "scale-insects-hedge-treatment-broadstairs",
+      "url": "/how-to/scale-insects-hedge-treatment-broadstairs.html",
+      "title": "Scale insects on Broadstairs hedges: how to identify and treat an infestation in CT10",
+      "category": "Pests & disease",
+      "date_published": "2026-11-12",
+      "source_type": "written-uk-authority",
+      "source_note": "YouTube inaccessible (DNS block); RHS written guidance used per pipeline fallback protocol",
+      "procedural_first_compliant": true,
+      "wca_callout_present": true,
+      "jet_related_guides_present": true,
+      "analytics_script_present": true,
+      "canonical_present": true,
+      "og_tags_present": true,
+      "json_ld_present": true,
+      "json_ld_type": "Article"
+    }
+  ],
+  "files_modified": [
+    "how-to/scale-insects-hedge-treatment-broadstairs.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/hedge-aphids-pest-management-broadstairs.html",
+    "reports/2026-11-12-content.md",
+    "reports/2026-11-12-status.json"
+  ],
+  "youtube_accessible": false,
+  "youtube_fallback": "written UK authoritative sources (RHS)",
+  "commit_message": "Nightly: add 1 how-to article (12 November 2026)"
+}
