@@ -1,0 +1,35 @@
+{
+  "run_date": "2026-11-13",
+  "run_type": "nightly-content",
+  "articles_shipped": 1,
+  "articles": [
+    {
+      "slug": "vine-weevil-hedge-treatment-broadstairs",
+      "url": "/how-to/vine-weevil-hedge-treatment-broadstairs.html",
+      "title": "Vine weevil in Broadstairs hedges: how to identify grubs and treat with nematodes in CT10",
+      "category": "Pests & disease",
+      "date_published": "2026-11-13",
+      "source_type": "written-uk-authority",
+      "source_note": "YouTube inaccessible (network block); RHS written guidance and UK biological control supplier guides used per pipeline fallback protocol",
+      "procedural_first_compliant": true,
+      "wca_callout_present": true,
+      "jet_related_guides_present": true,
+      "analytics_script_present": true,
+      "canonical_present": true,
+      "og_tags_present": true,
+      "json_ld_present": true,
+      "json_ld_type": "Article"
+    }
+  ],
+  "files_modified": [
+    "how-to/vine-weevil-hedge-treatment-broadstairs.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/scale-insects-hedge-treatment-broadstairs.html",
+    "reports/2026-11-13-content.md",
+    "reports/2026-11-13-status.json"
+  ],
+  "youtube_accessible": false,
+  "youtube_fallback": "written UK authoritative sources (RHS, UK biological control suppliers)",
+  "commit_message": "Nightly: add 1 how-to article (13 November 2026)"
+}
