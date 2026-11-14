@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-11",
+  "lastRun": "2026-11-14",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -78,8 +78,29 @@
       "url": "/how-to/myrobalan-cherry-plum-hedge-pruning-broadstairs.html",
       "title": "How to Prune a Myrobalan (Cherry Plum) Hedge: Summer-Only Rule, Silver Leaf Risk and CT10 Notes",
       "category": "Cutting technique"
+    },
+    {
+      "date": "2026-11-12",
+      "slug": "scale-insects-hedge-treatment-broadstairs",
+      "url": "/how-to/scale-insects-hedge-treatment-broadstairs.html",
+      "title": "Scale Insects on Broadstairs Hedges: How to Identify and Treat an Infestation in CT10",
+      "category": "Pests & disease"
+    },
+    {
+      "date": "2026-11-13",
+      "slug": "vine-weevil-hedge-treatment-broadstairs",
+      "url": "/how-to/vine-weevil-hedge-treatment-broadstairs.html",
+      "title": "Vine Weevil in Broadstairs Hedges: How to Identify Grubs and Treat with Nematodes in CT10",
+      "category": "Pests & disease"
+    },
+    {
+      "date": "2026-11-14",
+      "slug": "winter-salt-wind-scorch-protection-coastal-hedge-broadstairs",
+      "url": "/how-to/winter-salt-wind-scorch-protection-coastal-hedge-broadstairs.html",
+      "title": "Salt-wind Scorch on Coastal Hedges in Broadstairs: How to Protect, Treat and Assess in November",
+      "category": "Coastal care"
     }
   ],
-  "totalHowToArticles": 94,
+  "totalHowToArticles": 97,
   "status": "ok"
 }

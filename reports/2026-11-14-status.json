@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-14",
+  "run": "nightly-content",
+  "status": "success",
+  "articlesShipped": 1,
+  "articles": [
+    {
+      "slug": "winter-salt-wind-scorch-protection-coastal-hedge-broadstairs",
+      "url": "/how-to/winter-salt-wind-scorch-protection-coastal-hedge-broadstairs.html",
+      "title": "Salt-wind scorch on coastal hedges in Broadstairs: how to protect, treat and assess in November",
+      "category": "Coastal care",
+      "datePublished": "2026-11-14"
+    }
+  ],
+  "filesModified": [
+    "how-to/winter-salt-wind-scorch-protection-coastal-hedge-broadstairs.html",
+    "how-to/index.html",
+    "sitemap.xml",
+    "how-to/hedge-drought-stress-established-broadstairs.html",
+    "reports/2026-11-14-content.md",
+    "reports/2026-11-14-status.json"
+  ],
+  "youtubeAccessible": false,
+  "sourcesFallback": "written UK authoritative sources (RHS)",
+  "proceduralFirstCompliant": true
+}
