@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-11-14T08:30:00Z",
+  "lastAuditAt": "2026-11-15T08:30:00Z",
   "auditStatus": "issues",
-  "issueCount": 7,
-  "note": "Morning audit 2026-11-14: how-to/ hub lastmod corrected 2026-11-13 → 2026-11-14 (winter-salt article added overnight). No em-dashes, filler words, broken links, missing SEO fields, or analytics.js issues. 7 carry-over issues remain open (unchanged from yesterday).",
-  "auditReport": "reports/2026-11-14-audit.md",
+  "issueCount": 11,
+  "note": "Morning audit 2026-11-15: sitemap lastmod corrected for holly and berberis (both updated in nightly commit b8b7f8e but their entries left stale). New article mahonia-aquifolium passed all checks. No em-dashes, filler words, broken links, or missing SEO fields. 11 carry-over issues remain open (unchanged from yesterday).",
+  "auditReport": "reports/2026-11-15-audit.md",
   "lastRun": "2026-11-15",
   "lastRunType": "nightly-content",
   "articlesShipped": 1,
@@ -15,7 +15,7 @@
   "robotsTxtAiCrawlers": "all-15-present",
   "sitemapLastmod": "all-present",
   "ingestionTriggersCreated": false,
-  "totalArticles": 97,
+  "totalArticles": 98,
   "openIssues": [
     "section-154-notice-what-to-do-broadstairs.html: BreadcrumbList + FAQPage JSON-LD on article page, violating flat Article pattern (AGENTS.md/TEMPLATES §3); requires deliberate site-wide schema decision (carry-over 2026-11-01)",
     "how-to/index.html: hedge-formative-pruning-years-2-3-broadstairs.html has 4 href occurrences (2 full duplicate cards); broadstairs-conservation-areas-hedge-rules.html, herring-gull-nesting-cliff-hedges-broadstairs.html and coastal-hedges-broadstairs-species-guide.html each have 3 occurrences (1 extra href each); editorial cleanup needed (carry-over 2026-11-05)",
@@ -30,6 +30,8 @@
     "how-to/hedge-removal-grubbing-out-broadstairs.html: orphan redirect stub, not linked from how-to/index.html, not in sitemap (carry-over; editorial decision needed on removal or replacement)"
   ],
   "resolvedIssues": [
+    "sitemap.xml: holly-hedge-pruning-broadstairs.html lastmod corrected 2026-10-12 → 2026-11-15 (JET-RELATED-GUIDES updated in nightly commit b8b7f8e). Fixed 2026-11-15.",
+    "sitemap.xml: berberis-hedge-pruning-broadstairs.html lastmod corrected 2026-10-12 → 2026-11-15 (JET-RELATED-GUIDES updated in nightly commit b8b7f8e). Fixed 2026-11-15.",
     "sitemap.xml: how-to/ hub lastmod corrected 2026-11-13 → 2026-11-14 (winter-salt article added in nightly run). Fixed 2026-11-14.",
     "sitemap.xml: how-to/ hub lastmod corrected 2026-11-12 → 2026-11-13 (vine-weevil nightly commit updated index). Fixed 2026-11-13.",
     "sitemap.xml: scale-insects-hedge-treatment-broadstairs.html lastmod corrected 2026-11-12 → 2026-11-13 (file updated in nightly commit). Fixed 2026-11-13.",
