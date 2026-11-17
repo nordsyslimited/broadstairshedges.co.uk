@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-14",
+  "lastRun": "2026-11-17",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -99,8 +99,29 @@
       "url": "/how-to/winter-salt-wind-scorch-protection-coastal-hedge-broadstairs.html",
       "title": "Salt-wind Scorch on Coastal Hedges in Broadstairs: How to Protect, Treat and Assess in November",
       "category": "Coastal care"
+    },
+    {
+      "date": "2026-11-15",
+      "slug": "mahonia-aquifolium-oregon-grape-pruning-broadstairs",
+      "url": "/how-to/mahonia-aquifolium-oregon-grape-pruning-broadstairs.html",
+      "title": "How to Prune Mahonia (Oregon Grape): Post-Flowering Timing, Renewal Shear and Renovation for Broadstairs CT10",
+      "category": "Coastal species"
+    },
+    {
+      "date": "2026-11-16",
+      "slug": "hypericum-hidcote-hedge-pruning-broadstairs",
+      "url": "/how-to/hypericum-hidcote-hedge-pruning-broadstairs.html",
+      "title": "How to Prune Hypericum 'Hidcote': Spring Timing, the Annual Cut and Renovation for Broadstairs CT10",
+      "category": "Coastal species"
+    },
+    {
+      "date": "2026-11-17",
+      "slug": "bay-laurel-hedge-pruning-broadstairs",
+      "url": "/how-to/bay-laurel-hedge-pruning-broadstairs.html",
+      "title": "How to Prune a Bay Laurel Hedge: Secateurs-Only Technique, Summer Timing and the Sucker Rule for Broadstairs CT10",
+      "category": "Cutting technique"
     }
   ],
-  "totalHowToArticles": 97,
+  "totalHowToArticles": 98,
   "status": "ok"
 }
