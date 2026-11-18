@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-17",
+  "lastRun": "2026-11-18",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -120,8 +120,15 @@
       "url": "/how-to/bay-laurel-hedge-pruning-broadstairs.html",
       "title": "How to Prune a Bay Laurel Hedge: Secateurs-Only Technique, Summer Timing and the Sucker Rule for Broadstairs CT10",
       "category": "Cutting technique"
+    },
+    {
+      "date": "2026-11-18",
+      "slug": "ash-dieback-hedgerow-broadstairs-kent",
+      "url": "/how-to/ash-dieback-hedgerow-broadstairs-kent.html",
+      "title": "Ash Dieback in a Broadstairs Hedgerow: Identification, Assessment and Replacement Planting for CT10",
+      "category": "Pests & disease"
     }
   ],
-  "totalHowToArticles": 98,
+  "totalHowToArticles": 101,
   "status": "ok"
 }
