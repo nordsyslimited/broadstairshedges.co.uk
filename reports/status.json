@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-18",
+  "lastRun": "2026-11-19",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -127,8 +127,15 @@
       "url": "/how-to/ash-dieback-hedgerow-broadstairs-kent.html",
       "title": "Ash Dieback in a Broadstairs Hedgerow: Identification, Assessment and Replacement Planting for CT10",
       "category": "Pests & disease"
+    },
+    {
+      "date": "2026-11-19",
+      "slug": "bindweed-hedge-control-broadstairs",
+      "url": "/how-to/bindweed-hedge-control-broadstairs.html",
+      "title": "How to control bindweed growing through a garden hedge in Broadstairs: step-by-step method for CT10",
+      "category": "Weed control"
     }
   ],
-  "totalHowToArticles": 101,
+  "totalHowToArticles": 102,
   "status": "ok"
 }
