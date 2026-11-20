@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-11-19T08:00:00Z",
+  "lastAuditAt": "2026-11-20T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 11,
-  "note": "Morning audit 2026-11-19: 1 sitemap lastmod fix (how-to/ hub updated after bindweed nightly commit). New article bindweed-hedge-control passed all checks. 11 carry-over needs-review items unchanged.",
-  "auditReport": "reports/2026-11-19-audit.md",
+  "note": "Morning audit 2026-11-20: no auto-fixes needed. New article chaenomeles-flowering-quince passed all checks (procedural-first, WCA 1981 ×8, flat Article JSON-LD, sitemap at 2026-11-20). 11 carry-over needs-review items unchanged.",
+  "auditReport": "reports/2026-11-20-audit.md",
   "lastRun": "2026-11-20",
   "lastRunType": "nightly-content",
   "articlesShipped": 1,
