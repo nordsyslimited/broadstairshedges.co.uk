@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-11-20T08:00:00Z",
+  "lastAuditAt": "2026-11-21T08:00:00Z",
   "auditStatus": "issues",
-  "issueCount": 11,
-  "note": "Morning audit 2026-11-20: no auto-fixes needed. New article chaenomeles-flowering-quince passed all checks (procedural-first, WCA 1981 ×8, flat Article JSON-LD, sitemap at 2026-11-20). 11 carry-over needs-review items unchanged.",
-  "auditReport": "reports/2026-11-20-audit.md",
+  "issueCount": 13,
+  "note": "Morning audit 2026-11-21: no auto-fixes needed. New article hedge-iron-chlorosis passed all checks (procedural-first, WCA 1981 omitted correctly for soil-chemistry article, flat Article JSON-LD, sitemap at 2026-11-21). 2 new needs-review items: bindweed-hedge-control structural violation (identification before steps) and systematic missing og:title/description/url on 17+ non-article pages. 11 carry-over items unchanged. Total needs-review: 13.",
+  "auditReport": "reports/2026-11-21-audit.md",
   "lastRun": "2026-11-21",
   "lastRunType": "nightly-content",
   "articlesShipped": 1,
@@ -27,7 +27,9 @@
     "jobs/index.html: 'we/team/our' voice in figcaptions conflicts with sole-trader first-person voice (carry-over 2026-11-02)",
     "services/hedge-removal.html and services/hedge-planting.html are client-side HTML redirects (noindex,follow); server-side 301 would be cleaner (carry-over from PR #7)",
     "broadstairs-conservation-areas-hedge-rules.html: JSON-LD uses expanded format rather than compact format used by all other articles (carry-over; cosmetic only, functionally identical)",
-    "how-to/hedge-removal-grubbing-out-broadstairs.html: orphan article (not linked from index, not in sitemap, missing analytics.js); editorial decision needed on publish or removal (carry-over 2026-10-24)"
+    "how-to/hedge-removal-grubbing-out-broadstairs.html: orphan article converted to redirect stub (not linked from hub, not in sitemap, noindex); editorial decision needed on publish or removal (carry-over 2026-10-24)",
+    "how-to/bindweed-hedge-control-broadstairs.html: structural-angle violation — first h2 is 'Identify your bindweed first' (scene-setting/identification), Steps appears as second h2; procedural-first rule violated (new 2026-11-21)",
+    "Systematic missing og:title, og:description, og:url on non-article pages: about.html, contact.html, 404.html, privacy.html, work-with-us.html, thanks.html, areas/index.html, how-to/index.html, jobs/index.html, services/index.html, services/hedge-cutting.html, services/tree/index.html and 5 tree sub-pages; AGENTS.md requires og: properties on every page (new 2026-11-21)"
   ],
   "resolvedIssues": [
     "sitemap.xml: how-to/ hub lastmod corrected 2026-11-17 → 2026-11-18 (ash-dieback nightly commit updated index). Fixed 2026-11-18.",
