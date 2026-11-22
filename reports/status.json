@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-19",
+  "lastRun": "2026-11-22",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -134,8 +134,15 @@
       "url": "/how-to/bindweed-hedge-control-broadstairs.html",
       "title": "How to control bindweed growing through a garden hedge in Broadstairs: step-by-step method for CT10",
       "category": "Weed control"
+    },
+    {
+      "date": "2026-11-22",
+      "slug": "frost-damaged-hedge-recovery-broadstairs",
+      "url": "/how-to/frost-damaged-hedge-recovery-broadstairs.html",
+      "title": "Frost-Damaged Hedge Recovery in Broadstairs: Identification, Timing and the Step-by-Step Repair Cut for CT10",
+      "category": "Seasonal timing and nesting-season law"
     }
   ],
-  "totalHowToArticles": 102,
+  "totalHowToArticles": 105,
   "status": "ok"
 }
