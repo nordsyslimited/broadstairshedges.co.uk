@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-22",
+  "lastRun": "2026-11-23",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -141,8 +141,15 @@
       "url": "/how-to/frost-damaged-hedge-recovery-broadstairs.html",
       "title": "Frost-Damaged Hedge Recovery in Broadstairs: Identification, Timing and the Step-by-Step Repair Cut for CT10",
       "category": "Seasonal timing and nesting-season law"
+    },
+    {
+      "date": "2026-11-23",
+      "slug": "phytophthora-root-rot-hedge-broadstairs",
+      "url": "/how-to/phytophthora-root-rot-hedge-broadstairs.html",
+      "title": "How to Identify and Treat Phytophthora Root Rot in a Garden Hedge: Seven Steps for Broadstairs CT10",
+      "category": "Pests & disease"
     }
   ],
-  "totalHowToArticles": 105,
+  "totalHowToArticles": 106,
   "status": "ok"
 }
