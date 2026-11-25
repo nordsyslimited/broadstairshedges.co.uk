@@ -1,9 +1,9 @@
 {
-  "lastAuditAt": "2026-11-24T08:00:00Z",
+  "lastAuditAt": "2026-11-25T08:00:00Z",
   "auditStatus": "issues",
   "issueCount": 13,
-  "note": "Morning audit 2026-11-24: 1 auto-fix (sitemap how-to hub lastmod 2026-11-23 → 2026-11-24). New article rhododendron-pruning-broadstairs-kent.html passes all checks. 13 carry-over needs-review items unchanged.",
-  "auditReport": "reports/2026-11-24-audit.md",
+  "note": "Morning audit 2026-11-25: 2 auto-fixes (banned filler 'robust' in rosa-canina article replaced with 'heavy-duty'; sitemap how-to hub lastmod 2026-11-24 → 2026-11-25). New article rosa-canina-dog-rose-hedge-pruning-broadstairs.html passes all checks. 13 carry-over needs-review items unchanged.",
+  "auditReport": "reports/2026-11-25-audit.md",
   "lastRun": "2026-11-24",
   "lastRunType": "nightly-content",
   "articlesShipped": 1,
