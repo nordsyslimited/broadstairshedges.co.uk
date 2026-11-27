@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-26",
+  "lastRun": "2026-11-27",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -169,8 +169,15 @@
       "url": "/how-to/syringa-lilac-pruning-broadstairs.html",
       "title": "How to Prune a Lilac (Syringa) in Broadstairs: Post-Flowering Timing, Deadheading and Renovation for CT10",
       "category": "Cutting technique"
+    },
+    {
+      "date": "2026-11-27",
+      "slug": "buddleia-pruning-broadstairs-kent",
+      "url": "/how-to/buddleia-pruning-broadstairs-kent.html",
+      "title": "How to Prune Buddleia in Broadstairs: Spring Timing, the Hard-Cut Method and the Nesting-Season Overlap for CT10",
+      "category": "Cutting technique"
     }
   ],
-  "totalHowToArticles": 109,
+  "totalHowToArticles": 110,
   "status": "ok"
 }
