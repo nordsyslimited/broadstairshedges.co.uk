@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-27",
+  "lastRun": "2026-11-28",
   "lastRunType": "nightly-content",
   "articlesShipped": [
     {
@@ -176,8 +176,15 @@
       "url": "/how-to/buddleia-pruning-broadstairs-kent.html",
       "title": "How to Prune Buddleia in Broadstairs: Spring Timing, the Hard-Cut Method and the Nesting-Season Overlap for CT10",
       "category": "Cutting technique"
+    },
+    {
+      "date": "2026-11-28",
+      "slug": "bat-aware-hedge-cutting-broadstairs",
+      "url": "/how-to/bat-aware-hedge-cutting-broadstairs.html",
+      "title": "How to Check a Hedge for Bats Before Cutting in Broadstairs: Steps, Timing and the Habitats Regulations for CT10",
+      "category": "Wildlife & timing"
     }
   ],
-  "totalHowToArticles": 110,
+  "totalHowToArticles": 111,
   "status": "ok"
 }
